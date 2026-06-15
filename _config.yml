@@ -3,7 +3,7 @@
 
 title: "景一的寓言城堡"
 description: "不是搬运工，是冶炼者。国学×心理×思维×搞钱的底层人性密码。"
-baseurl: "/jingyi-knowledge-garden"
+baseurl: "/fable-castle"
 url: "https://fable-cc.github.io"
 
 # 远程主题
@@ -21,11 +21,11 @@ search:
 # 辅助功能
 aux_links:
   "GitHub 仓库":
-    - "https://github.com/fable-cc/jingyi-knowledge-garden"
+    - "https://github.com/fable-cc/fable-castle"
 aux_links_new_tab: true
 
 # 页脚
-footer_content: "Made with 🔥 by 景一 · 从人性出发，自然穿透所有领域 · <a href=\"https://github.com/fable-cc/jingyi-knowledge-garden\">GitHub</a> · <a href=\"https://github.com/fable-cc/jingyi-knowledge-garden/discussions\">讨论区</a>"
+footer_content: "Made with 🔥 by 景一 · 从人性出发，自然穿透所有领域 · <a href=\"https://github.com/fable-cc/fable-castle\">GitHub</a> · <a href=\"https://github.com/fable-cc/fable-castle/discussions\">讨论区</a>"
 
 # 返回顶部
 back_to_top: true

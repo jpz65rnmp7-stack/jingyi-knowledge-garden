@@ -4,7 +4,7 @@
 > 从国学、心理学、隐学和商业实战中提炼人性底层代码，
 > 帮你觉醒意识、看懂规则、落地搞钱。
 
-🌐 **在线寓言城堡**：[fable-cc.github.io/jingyi-knowledge-garden](https://fable-cc.github.io/jingyi-knowledge-garden/)
+🌐 **在线寓言城堡**：[fable-cc.github.io/fable-castle](https://fable-cc.github.io/fable-castle/)
 
 ---
 

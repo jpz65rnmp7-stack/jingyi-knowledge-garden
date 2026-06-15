@@ -14,7 +14,7 @@ jobs:
       - name: 检查网站可访问
         run: |
           for i in 1 2 3 4 5; do
-            STATUS=$(curl -s -o /dev/null -w "%{http_code}" https://fable-cc.github.io/jingyi-knowledge-garden/)
+            STATUS=$(curl -s -o /dev/null -w "%{http_code}" https://fable-cc.github.io/fable-castle/)
             if [ "$STATUS" = "200" ]; then
               echo "✅ Pages 构建成功"
               exit 0
