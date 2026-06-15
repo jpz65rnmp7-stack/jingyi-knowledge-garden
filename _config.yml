@@ -1,0 +1,46 @@
+# 景一的知识花园 · Jekyll 配置
+# 使用 just-the-docs 主题 — 专为知识库设计
+
+title: "景一的知识花园"
+description: "不是搬运工，是冶炼者。国学×心理×思维×搞钱的底层人性密码。"
+baseurl: "/jingyi-knowledge-garden"
+url: "https://jpz65rnmp7-stack.github.io"
+
+# 远程主题
+remote_theme: just-the-docs/just-the-docs
+
+# 颜色方案
+color_scheme: dark
+
+# 导航设置
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+
+# 辅助功能
+aux_links:
+  "GitHub 仓库":
+    - "https://github.com/jpz65rnmp7-stack/jingyi-knowledge-garden"
+aux_links_new_tab: true
+
+# 页脚
+footer_content: "Made with 🔥 by 景一 · 从人性出发，自然穿透所有领域 · <a href=\"https://github.com/jpz65rnmp7-stack/jingyi-knowledge-garden\">GitHub</a>"
+
+# 返回顶部
+back_to_top: true
+back_to_top_text: "返回顶部"
+
+# 导航排序
+nav_sort: case_sensitive
+
+# 排除不需要的文件
+exclude:
+  - LICENSE
+  - README.md
+  - .github/
+  - assets/
+
+# Just the Docs 特定配置
+heading_anchors: true
+gh_edit_link: false
