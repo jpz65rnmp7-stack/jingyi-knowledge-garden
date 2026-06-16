@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" font-family="'PingFang SC','Noto Sans SC',sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#C9A96E"/>
+      <stop offset="100%" stop-color="#E8D5B7"/>
+    </linearGradient>
+    <linearGradient id="pillar1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+    <linearGradient id="pillar2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#4F46E5"/>
+    </linearGradient>
+    <linearGradient id="pillar3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#DB2777"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="800" fill="url(#bg)"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" font-size="28" font-weight="bold" fill="url(#core)">景一知识体系 · 全景架构</text>
+  <text x="600" y="80" text-anchor="middle" font-size="14" fill="#8b949e">8大支柱 · 3层结构 · 100+冶炼线 · 全自动化管道</text>
+
+  <!-- Core Node -->
+  <circle cx="600" cy="160" r="50" fill="none" stroke="url(#core)" stroke-width="2" opacity="0.3"/>
+  <circle cx="600" cy="160" r="42" fill="#1a1a2e" stroke="url(#core)" stroke-width="2"/>
+  <text x="600" y="155" text-anchor="middle" font-size="16" font-weight="bold" fill="url(#core)">从人性出发</text>
+  <text x="600" y="175" text-anchor="middle" font-size="11" fill="#8b949e">自然穿透所有领域</text>
+
+  <!-- Layer Labels -->
+  <text x="80" y="260" font-size="13" fill="#484f58">外层·实操</text>
+  <line x1="80" y1="270" x2="80" y2="680" stroke="#30363d" stroke-width="1" stroke-dasharray="4,4"/>
+  <text x="530" y="260" font-size="13" fill="#484f58">中层·认知</text>
+  <text x="1060" y="260" font-size="13" fill="#484f58">内层·升维</text>
+
+  <!-- Three Columns -->
+  <!-- Column 1: Outer Layer (Left) -->
+  <rect x="40" y="290" width="340" height="100" rx="10" fill="#1a1a2e" stroke="#F59E0B" stroke-width="1.5" opacity="0.9"/>
+  <text x="210" y="320" text-anchor="middle" font-size="18" font-weight="bold" fill="#F59E0B">🪙 钱途心法</text>
+  <text x="210" y="345" text-anchor="middle" font-size="12" fill="#8b949e">搞钱心法 · 人情世故 · 执行力 · 转运法则</text>
+  <text x="210" y="368" text-anchor="middle" font-size="11" fill="#484f58">富兰克林搞钱法 → 希尔心智财富 → 范蠡商道</text>
+
+  <rect x="40" y="410" width="340" height="100" rx="10" fill="#1a1a2e" stroke="#10B981" stroke-width="1.5" opacity="0.9"/>
+  <text x="210" y="440" text-anchor="middle" font-size="18" font-weight="bold" fill="#10B981">💎 财富商业</text>
+  <text x="210" y="465" text-anchor="middle" font-size="12" fill="#8b949e">商业模式 · 投资理财 · 副业系统 · 变现路径</text>
+  <text x="210" y="488" text-anchor="middle" font-size="11" fill="#484f58">纳瓦尔杠杆 → 芒格格栅 → 塔勒布反脆弱</text>
+
+  <rect x="40" y="530" width="340" height="100" rx="10" fill="#1a1a2e" stroke="#06B6D4" stroke-width="1.5" opacity="0.9"/>
+  <text x="210" y="560" text-anchor="middle" font-size="18" font-weight="bold" fill="#06B6D4">🏛️ 东学西渐</text>
+  <text x="210" y="585" text-anchor="middle" font-size="12" fill="#8b949e">比较哲学 · 东西对话 · 经典新解</text>
+  <text x="210" y="608" text-anchor="middle" font-size="11" fill="#484f58">斯多葛×道家 → 尼采×庄子 → 佛学×认知科学</text>
+
+  <!-- Column 2: Middle Layer (Center) -->
+  <rect x="430" y="290" width="340" height="100" rx="10" fill="#1a1a2e" stroke="#6366F1" stroke-width="1.5" opacity="0.9"/>
+  <text x="600" y="320" text-anchor="middle" font-size="18" font-weight="bold" fill="#6366F1">🏰 暗流规则</text>
+  <text x="600" y="345" text-anchor="middle" font-size="12" fill="#8b949e">信息封锁 · 强势文化 · 人性秘术 · 权力结构</text>
+  <text x="600" y="368" text-anchor="middle" font-size="11" fill="#484f58">韩非×马基雅维利 → 鬼谷子×伯内斯 → 孙子×克劳塞维茨</text>
+
+  <rect x="430" y="410" width="340" height="100" rx="10" fill="#1a1a2e" stroke="#8B5CF6" stroke-width="1.5" opacity="0.9"/>
+  <text x="600" y="440" text-anchor="middle" font-size="18" font-weight="bold" fill="#8B5CF6">⚔️ 权力策略</text>
+  <text x="600" y="465" text-anchor="middle" font-size="12" fill="#8b949e">博弈论 · 制度设计 · 组织行为 · 领导力</text>
+  <text x="600" y="488" text-anchor="middle" font-size="11" fill="#484f58">荀子×霍布斯 → 管子×亚当斯密 → 贞观政要×君主论</text>
+
+  <rect x="430" y="530" width="340" height="100" rx="10" fill="#1a1a2e" stroke="#A855F7" stroke-width="1.5" opacity="0.9"/>
+  <text x="600" y="560" text-anchor="middle" font-size="18" font-weight="bold" fill="#A855F7">🧠 深度心理学</text>
+  <text x="600" y="585" text-anchor="middle" font-size="12" fill="#8b949e">人格结构 · 行为动机 · 潜意识 · 习惯形成</text>
+  <text x="600" y="608" text-anchor="middle" font-size="11" fill="#484f58">荣格原型 → 弗洛伊德驱力 → 詹姆斯习惯法则</text>
+
+  <!-- Column 3: Inner Layer (Right) -->
+  <rect x="820" y="290" width="340" height="100" rx="10" fill="#1a1a2e" stroke="#EC4899" stroke-width="1.5" opacity="0.9"/>
+  <text x="990" y="320" text-anchor="middle" font-size="18" font-weight="bold" fill="#EC4899">🧬 意识觉醒</text>
+  <text x="990" y="345" text-anchor="middle" font-size="12" fill="#8b949e">NPC觉醒 · 系统设计 · 维度思维 · 意识升级</text>
+  <text x="990" y="368" text-anchor="middle" font-size="11" fill="#484f58">王阳明×自我决定论 → 易经×系统论 → 丹道×神经科学</text>
+
+  <rect x="820" y="410" width="340" height="100" rx="10" fill="#1a1a2e" stroke="#F43F5E" stroke-width="1.5" opacity="0.9"/>
+  <text x="990" y="440" text-anchor="middle" font-size="18" font-weight="bold" fill="#F43F5E">🔮 隐学意识</text>
+  <text x="990" y="465" text-anchor="middle" font-size="12" fill="#8b949e">黄帝内经 · 道教内丹 · 杨朱哲学 · 心身医学</text>
+  <text x="990" y="488" text-anchor="middle" font-size="11" fill="#484f58">风水×环境心理 → 内经×心身医学 → 杨朱×个人主义</text>
+
+  <rect x="820" y="530" width="340" height="100" rx="10" fill="#1a1a2e" stroke="#FB923C" stroke-width="1.5" opacity="0.9"/>
+  <text x="990" y="560" text-anchor="middle" font-size="18" font-weight="bold" fill="#FB923C">🌐 全球大V</text>
+  <text x="990" y="585" text-anchor="middle" font-size="12" fill="#8b949e">当代思想框架 · 认知模型 · 实操系统</text>
+  <text x="990" y="608" text-anchor="middle" font-size="11" fill="#484f58">纳瓦尔 · 芒格 · 彼得森 · 达利欧 · 塔勒布</text>
+
+  <!-- Connection Lines from Center -->
+  <line x1="600" y1="210" x2="210" y2="290" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="600" y1="210" x2="210" y2="410" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="600" y1="210" x2="210" y2="530" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="600" y1="210" x2="600" y2="290" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="600" y1="210" x2="600" y2="410" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="600" y1="210" x2="600" y2="530" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="600" y1="210" x2="990" y2="290" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="600" y1="210" x2="990" y2="410" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="600" y1="210" x2="990" y2="530" stroke="#30363d" stroke-width="0.5"/>
+
+  <!-- Bottom: Pipeline -->
+  <rect x="200" y="670" width="800" height="55" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="600" y="692" text-anchor="middle" font-size="13" fill="#8b949e">📥 多平台抓取 → 🏷️ AI分类 → 🔄 去重 → ⭐ 质量过滤 → ✍️ 景一改写 → 📝 Obsidian输出</text>
+  <text x="600" y="712" text-anchor="middle" font-size="11" fill="#484f58">B站 · 公众号 · Gutenberg · Internet Archive · 中国哲学书电子化计划 → 全自动化知识管道</text>
+
+  <!-- Bottom text -->
+  <text x="600" y="760" text-anchor="middle" font-size="12" fill="#484f58">fable-cc.github.io/fable-castle · 从人性出发，自然穿透所有领域</text>
+</svg>

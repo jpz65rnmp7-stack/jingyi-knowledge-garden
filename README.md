@@ -2,8 +2,9 @@
   <a href="https://fable-cc.github.io/fable-castle"><img src="https://img.shields.io/badge/🏰_在线城堡-访问-8B5E3C?style=flat-square&logo=jekyll" /></a>
   <a href="https://github.com/fable-cc/fable-cc"><img src="https://img.shields.io/badge/👤_景一-Profile-181717?style=flat-square&logo=github" /></a>
   <a href="https://github.com/fable-cc/knowledge-pipeline"><img src="https://img.shields.io/badge/⚡_知识管道-自动化-6366F1?style=flat-square&logo=python" /></a>
-  <a href="https://github.com/fable-cc/fable-castle/discussions"><img src="https://img.shields.io/badge/💬_讨论-一起冶炼-EC4899?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/fable-cc/fable-castle/discussions/1"><img src="https://img.shields.io/badge/💬_讨论-一起冶炼-EC4899?style=flat-square&logo=github" /></a>
   <img src="https://img.shields.io/badge/许可证-CC_BY--NC--SA_4.0-lightgrey?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=fable-cc&label=访客&color=8B5E3C&style=flat-square" alt="访客" />
 </p>
 
 # 🌳 景一·寓言城堡
@@ -22,7 +23,15 @@
 
 ---
 
-## 🧠 三大知识支柱（完美闭环）
+## 🗺️ 全景架构
+
+<p align="center">
+  <img src="assets/images/architecture.svg" alt="景一知识体系全景架构" width="100%">
+</p>
+
+---
+
+## 🧠 核心三大支柱（完美闭环）
 
 ```
         钱途心法（外层实操）
