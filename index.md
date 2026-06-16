@@ -17,7 +17,8 @@ nav_order: 1
   </div>
 
   <div class="hero-cta">
-    <a href="#start" class="cta-primary">🚀 开始冶炼</a>
+    <a href="04-关于/商业IP课程/" class="cta-primary">🔥 商业IP课程</a>
+    <a href="#start" class="cta-secondary">🚀 开始冶炼</a>
     <a href="04-关于/深度合作/" class="cta-secondary">🤝 深度合作</a>
     <a href="04-关于/赞助支持/" class="cta-secondary">💰 赞助支持</a>
   </div>
