@@ -1,7 +1,15 @@
-# 🌳 景一的寓言城堡
+<p align="center">
+  <a href="https://fable-cc.github.io/fable-castle"><img src="https://img.shields.io/badge/🏰_在线城堡-访问-8B5E3C?style=flat-square&logo=jekyll" /></a>
+  <a href="https://github.com/fable-cc/fable-cc"><img src="https://img.shields.io/badge/👤_景一-Profile-181717?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/fable-cc/knowledge-pipeline"><img src="https://img.shields.io/badge/⚡_知识管道-自动化-6366F1?style=flat-square&logo=python" /></a>
+  <a href="https://github.com/fable-cc/fable-castle/discussions"><img src="https://img.shields.io/badge/💬_讨论-一起冶炼-EC4899?style=flat-square&logo=github" /></a>
+  <img src="https://img.shields.io/badge/许可证-CC_BY--NC--SA_4.0-lightgrey?style=flat-square" />
+</p>
+
+# 🌳 景一·寓言城堡
 
 > **不是搬运工，是冶炼者。**
-> 从国学、心理学、隐学和商业实战中提炼人性底层代码，
+> 国学×心理学×隐学×商业实战 → 人性底层代码。
 > 帮你觉醒意识、看懂规则、落地搞钱。
 
 🌐 **在线寓言城堡**：[fable-cc.github.io/fable-castle](https://fable-cc.github.io/fable-castle/)
