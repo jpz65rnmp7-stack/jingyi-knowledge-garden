@@ -32,13 +32,13 @@
   <line x1="400" y1="330" x2="800" y2="330" stroke="#C9A96E" stroke-width="1" opacity="0.5"/>
 
   <!-- Three pillars -->
-  <text x="300" y="410" text-anchor="middle" font-family="'Noto Sans SC', sans-serif" font-size="22" fill="#E8D5B7" opacity="0.8">🪙 大F体系</text>
+  <text x="300" y="410" text-anchor="middle" font-family="'Noto Sans SC', sans-serif" font-size="22" fill="#E8D5B7" opacity="0.8">🪙 钱途心法</text>
   <text x="300" y="445" text-anchor="middle" font-family="'Noto Sans SC', sans-serif" font-size="16" fill="#888">外层实操 · 搞钱心法</text>
 
-  <text x="600" y="410" text-anchor="middle" font-family="'Noto Sans SC', sans-serif" font-size="22" fill="#E8D5B7" opacity="0.8">🏰 九哥隐学</text>
+  <text x="600" y="410" text-anchor="middle" font-family="'Noto Sans SC', sans-serif" font-size="22" fill="#E8D5B7" opacity="0.8">🏰 暗流规则</text>
   <text x="600" y="445" text-anchor="middle" font-family="'Noto Sans SC', sans-serif" font-size="16" fill="#888">中层认知 · 权力结构</text>
 
-  <text x="900" y="410" text-anchor="middle" font-family="'Noto Sans SC', sans-serif" font-size="22" fill="#E8D5B7" opacity="0.8">🧬 修仙的蝼蚁</text>
+  <text x="900" y="410" text-anchor="middle" font-family="'Noto Sans SC', sans-serif" font-size="22" fill="#E8D5B7" opacity="0.8">🧬 意识觉醒</text>
   <text x="900" y="445" text-anchor="middle" font-family="'Noto Sans SC', sans-serif" font-size="16" fill="#888">内层意识 · NPC觉醒</text>
 
   <!-- Bottom text -->
