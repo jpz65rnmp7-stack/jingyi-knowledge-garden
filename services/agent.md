@@ -1,5 +1,5 @@
 ---
-title: 企业Agent搭建
+title: 景一·企业Agent搭建
 ---
 
 # 🤖 景一Agent工厂：帮企业搭自己的AI知识管家

@@ -1,5 +1,5 @@
 ---
-title: Enterprise GEO Service
+title: 景一·Enterprise GEO Service
 ---
 
 # 🎯 Enterprise GEO: Get Found in AI Search
