@@ -1,5 +1,6 @@
 ---
 title: 景一·¥39.9 IP定位课
+permalink: /services/free-course/
 nav_order: 2
 ---
 
