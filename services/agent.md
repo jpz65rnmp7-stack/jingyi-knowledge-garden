@@ -1,7 +1,6 @@
 ---
 permalink: /fable-castle/services/agent/
 title: 企业Agent搭建
-nav_exclude: true
 ---
 
 # 🤖 景一Agent工厂：帮企业搭自己的AI知识管家

@@ -1,7 +1,6 @@
 ---
 permalink: /fable-castle/services/geo-global/
 title: 全球GEO服务
-nav_exclude: true
 ---
 
 # 🌏 景一全球GEO：AI时代的出海基础设施

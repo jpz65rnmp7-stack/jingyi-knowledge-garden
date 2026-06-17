@@ -1,7 +1,6 @@
 ---
 permalink: /fable-castle/services/geo/
 title: 企业GEO服务
-nav_exclude: true
 ---
 
 # 🎯 企业GEO：让你的生意在AI里被搜到

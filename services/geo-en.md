@@ -1,6 +1,5 @@
 ---
 title: Enterprise GEO Service
-nav_exclude: true
 ---
 
 # 🎯 Enterprise GEO: Get Found in AI Search

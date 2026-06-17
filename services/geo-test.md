@@ -1,7 +1,6 @@
 ---
 permalink: /fable-castle/services/geo-test/
 title: GEO可见度自测
-nav_exclude: true
 ---
 
 # 🔍 GEO可见度自测：你的企业在AI里存在吗？
