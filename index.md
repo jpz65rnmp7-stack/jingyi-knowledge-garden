@@ -19,8 +19,8 @@ nav_order: 1
   <div class="hero-cta">
     <a href="/fable-castle/services/free-course/" class="cta-primary">🎁 ¥39.9 IP定位课</a>
     <a href="#services" class="cta-secondary">🚀 开始冶炼</a>
-    <a href="/fable-castle/04-关于/商业IP课程/" class="cta-secondary">🔥 完整课程</a>
-    <a href="/fable-castle/04-关于/深度合作/" class="cta-secondary">🤝 商业合作</a>
+    <a href="/fable-castle/course-full/" class="cta-secondary">🔥 完整课程</a>
+    <a href="/fable-castle/collaborate/" class="cta-secondary">🤝 商业合作</a>
   </div>
 
   <div class="hero-trust">
@@ -162,7 +162,7 @@ nav_order: 1
 
 知识应该开源，冶炼需要燃料。赞助支持一个中国人建立世界级知识体系。
 
-<a href="/fable-castle/04-关于/赞助支持/" class="cta-primary">💰 赞助景一</a>
+<a href="/fable-castle/sponsor/" class="cta-primary">💰 赞助景一</a>
 
 ---
 
