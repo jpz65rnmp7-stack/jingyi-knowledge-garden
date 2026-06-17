@@ -1,7 +1,6 @@
 ---
-title: 景一·企业AI解决方案
+title: 企业AI解决方案
 nav_order: 3
-permalink: /fable-castle/services/enterprise.html
 ---
 
 # 🚀 企业AI解决方案：Agent + GEO 组合拳
