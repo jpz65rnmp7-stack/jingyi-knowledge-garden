@@ -158,6 +158,33 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
+<!-- 交叉引用网络 · 相关冶炼 -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var main = document.querySelector('.main-content') || document.querySelector('main');
+  if (!main) return;
+
+  // Only add to article pages (with tags in frontmatter rendered as data attributes)
+  var relatedNav = document.createElement('div');
+  relatedNav.style.cssText = 'margin-top:2rem;padding:1.5rem;background:rgba(201,169,110,0.03);border:1px solid rgba(201,169,110,0.1);border-radius:12px';
+  relatedNav.innerHTML = '<p style="color:#C9A96E;font-weight:700;margin-bottom:0.8rem;font-size:0.95rem">🧭 知识网络</p>' +
+    '<p style="color:#8b949e;font-size:0.85rem;line-height:1.8">' +
+    '← <a href="/fable-castle/02-知识图谱/36支柱知识体系全景.html" style="color:#C9A96E">36支柱全景</a> · ' +
+    '<a href="/fable-castle/02-知识图谱/" style="color:#C9A96E">知识图谱</a> · ' +
+    '<a href="/fable-castle/" style="color:#C9A96E">首页</a> →' +
+    '</p>' +
+    '<p style="color:#555;font-size:0.75rem;margin-top:0.5rem">🌐 GitHub 第一开源知识库 · 每篇文章都是一个知识节点</p>';
+
+  // Insert before giscus if it exists, otherwise at the end
+  var giscus = document.querySelector('.giscus-wrapper');
+  if (giscus) {
+    giscus.parentNode.insertBefore(relatedNav, giscus);
+  } else {
+    main.appendChild(relatedNav);
+  }
+});
+</script>
+
 <!-- giscus 评论区 - 基于 GitHub Discussions 的免费评论系统 -->
 <script>
 document.addEventListener('DOMContentLoaded', function() {

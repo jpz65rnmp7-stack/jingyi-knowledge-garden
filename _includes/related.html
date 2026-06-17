@@ -1,0 +1,49 @@
+<!-- 景一·寓言城堡 · 交叉引用网络 -->
+{% if page.tags %}
+<hr style="margin-top:3rem;border-color:rgba(201,169,110,0.2)">
+
+<div class="related-articles">
+  <h3 style="color:#C9A96E;margin-bottom:1rem">🧭 相关冶炼</h3>
+
+  {% assign related_count = 0 %}
+  {% assign current_tags = page.tags | join: ',' | split: ',' %}
+
+  <div class="related-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:0.8rem;margin-bottom:2rem">
+
+  {% for tag in current_tags %}
+    {% assign clean_tag = tag | strip | replace: '"', '' | replace: '[', '' | replace: ']', '' %}
+
+    {% for related_page in site.pages %}
+      {% if related_page.tags and related_page.url != page.url and related_page.title %}
+        {% assign related_tags = related_page.tags | join: ',' | downcase %}
+        {% assign this_tag = clean_tag | downcase %}
+        {% if related_tags contains this_tag %}
+          {% assign related_count = related_count | plus: 1 %}
+          {% if related_count <= 6 %}
+          <a href="{{ site.baseurl }}{{ related_page.url }}" style="
+            display:block;padding:0.8rem 1rem;
+            background:rgba(201,169,110,0.05);
+            border:1px solid rgba(201,169,110,0.12);
+            border-radius:8px;text-decoration:none;
+            color:var(--body-text-color);font-size:0.9rem;
+            transition:border-color 0.2s
+          " onmouseover="this.style.borderColor='rgba(201,169,110,0.4)'" onmouseout="this.style.borderColor='rgba(201,169,110,0.12)'">
+            <span style="color:#C9A96E;font-size:0.8rem">
+              {% assign ptags = related_page.tags | first %}
+              {{ ptags }}
+            </span>
+            <br>{{ related_page.title }}
+          </a>
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+
+  </div>
+
+  {% if related_count == 0 %}
+  <p style="color:#8b949e;font-size:0.9rem">返回 <a href="{{ site.baseurl }}/02-知识图谱/" style="color:#C9A96E">知识图谱</a> 浏览更多冶炼文章</p>
+  {% endif %}
+</div>
+{% endif %}
