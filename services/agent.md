@@ -4,6 +4,8 @@ title: 景一·企业Agent搭建
 
 # 🤖 景一Agent工厂：帮企业搭自己的AI知识管家
 
+
+
 > 你的公司有20年的行业知识。但新员工要花3个月才能上手。客户问产品问题要等半天回复。你的知识锁在几个老员工的脑子里——他们一走，知识就没了。
 
 ---
@@ -56,3 +58,6 @@ title: 景一·企业Agent搭建
 ---
 
 → [GitHub讨论区咨询](https://github.com/fable-cc/fable-castle/discussions)
+
+
+</div>
