@@ -1,5 +1,4 @@
 ---
-permalink: /fable-castle/services/free-course/
 title: 景一·¥39.9 IP定位课
 nav_order: 2
 ---

@@ -17,10 +17,10 @@ nav_order: 1
   </div>
 
   <div class="hero-cta">
-    <a href="/services/free-course/" class="cta-primary">🎁 ¥39.9 IP定位课</a>
+    <a href="/fable-castle/services/free-course/" class="cta-primary">🎁 ¥39.9 IP定位课</a>
     <a href="#services" class="cta-secondary">🚀 开始冶炼</a>
-    <a href="/course-full/" class="cta-secondary">🔥 完整课程</a>
-    <a href="/collaborate/" class="cta-secondary">🤝 商业合作</a>
+    <a href="/fable-castle/04-关于/商业IP课程/" class="cta-secondary">🔥 完整课程</a>
+    <a href="/fable-castle/04-关于/深度合作/" class="cta-secondary">🤝 商业合作</a>
   </div>
 
   <div class="hero-trust">
@@ -37,32 +37,32 @@ nav_order: 1
   <div class="service-card">
     <strong>🧠 认知操作系统升级</strong>
     <p>52种认知偏差诊断·系统1/2切换训练·概率思维决策框架。从"凭感觉"到"算概率"。</p>
-    <a href="/02-知识图谱/">→ 认知重构</a>
+    <a href="/fable-castle/02-知识图谱/">→ 认知重构</a>
   </div>
   <div class="service-card">
     <strong>💰 商业IP资产化</strong>
     <p>轻资产商业模式设计·股权架构·品牌叙事工程·影响力变现系统。不是省钱——是设计收入引擎。</p>
-    <a href="/02-知识图谱/">→ 模式设计</a>
+    <a href="/fable-castle/02-知识图谱/">→ 模式设计</a>
   </div>
   <div class="service-card">
     <strong>🏯 国学×哲学·东西方融合</strong>
     <p>斯多葛×道家·尼采×庄子·佛学×认知科学·王阳明×神经科学。不背古文——提炼底层算法。</p>
-    <a href="/02-知识图谱/">→ 东学西渐</a>
+    <a href="/fable-castle/02-知识图谱/">→ 东学西渐</a>
   </div>
   <div class="service-card">
     <strong>⚡ 能量管理·巅峰状态</strong>
     <p>多巴胺系统修复·深度工作协议·注意力复利模型·Biohacking古代养生。你的注意力是最稀缺的生产资料。</p>
-    <a href="/02-知识图谱/">→ 能量管理</a>
+    <a href="/fable-castle/02-知识图谱/">→ 能量管理</a>
   </div>
   <div class="service-card">
     <strong>🕸️ 暗流规则·权力博弈</strong>
     <p>信息封锁四层模型·权力结构分析·博弈论·制度设计。社会运行的隐性操作系统——看见规则。</p>
-    <a href="/02-知识图谱/">→ 暗流规则</a>
+    <a href="/fable-castle/02-知识图谱/">→ 暗流规则</a>
   </div>
   <div class="service-card">
     <strong>🧬 意识觉醒·强者思维</strong>
     <p>NPC识别·系统降权诊断·维度思维·阿德勒目的论。从"被规则玩"到"定义游戏规则"。</p>
-    <a href="/02-知识图谱/">→ 意识觉醒</a>
+    <a href="/fable-castle/02-知识图谱/">→ 意识觉醒</a>
   </div>
 </div>
 
@@ -162,7 +162,7 @@ nav_order: 1
 
 知识应该开源，冶炼需要燃料。赞助支持一个中国人建立世界级知识体系。
 
-<a href="/sponsor/" class="cta-primary">💰 赞助景一</a>
+<a href="/fable-castle/04-关于/赞助支持/" class="cta-primary">💰 赞助景一</a>
 
 ---
 

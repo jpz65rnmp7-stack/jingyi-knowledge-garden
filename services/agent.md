@@ -1,5 +1,4 @@
 ---
-permalink: /fable-castle/services/agent/
 title: 企业Agent搭建
 ---
 

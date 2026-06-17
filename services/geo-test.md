@@ -1,5 +1,4 @@
 ---
-permalink: /fable-castle/services/geo-test/
 title: GEO可见度自测
 ---
 
