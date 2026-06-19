@@ -11,7 +11,7 @@ nav_order: 1
 
   <div class="hero-stats">
     <div class="stat"><strong>72</strong><span>知识支柱</span></div>
-    <div class="stat"><strong>402篇</strong><span>原创冶炼</span></div>
+    <div class="stat"><strong>600+篇</strong><span>原创冶炼</span></div>
     <div class="stat"><strong>90+</strong><span>公版书库</span></div>
     <div class="stat"><strong>开源</strong><span>可验证</span></div>
   </div>
@@ -85,7 +85,7 @@ nav_order: 1
 | **知识基建** | 📜 经典注疏 · 🌐 百科词条 · 📁 原始档案 · 🎨 美学修辞 · 🧮 数理思维 | 90册公版·概念体系·IA档案·符号学·概率博弈 |
 | **全球框架** | 🌍 全球大V | 纳瓦尔·芒格·塔勒布·达利欧·彼得森 |
 
-→ **[查看完整18支柱体系](/fable-castle/02-知识图谱/扩展体系全景.html)** · 68篇原创冶炼文章，全开源可验证
+→ **[查看完整18支柱体系](/fable-castle/02-知识图谱/扩展体系全景.html)** · 600+篇原创冶炼文章，全开源可验证
 
 ---
 
@@ -96,10 +96,10 @@ nav_order: 1
 | 证据 | 详情 | 验证方式 |
 |------|------|---------|
 | 🏗️ 72知识支柱 | 3核心+10扩展+5基础 | [→ 查看架构](/fable-castle/02-知识图谱/扩展体系全景.html) |
-| ✍️ 68篇冶炼文章 | 每篇基于跨学科冶炼，拒绝正确废话 | [→ 阅读文章](/fable-castle/02-知识图谱/) |
+| ✍️ 600+篇冶炼文章 | 每篇基于跨学科冶炼，拒绝正确废话 | [→ 阅读文章](/fable-castle/02-知识图谱/) |
 | 📚 90+公版书库 | Gutenberg·IA·中国哲学书电子化计划 | [→ 公版书库](https://github.com/fable-cc/fable-castle) |
 | ⚙️ 知识冶炼引擎 | 跨学科知识冶炼→结构化重组→景一原创框架 | [→ 查看管道](https://github.com/fable-cc/knowledge-pipeline) |
-| 🔓 全栈开源 | 18支柱·68篇·管道代码·公版索引 | [→ GitHub验证](https://github.com/fable-cc/fable-castle) |
+| 🔓 全栈开源 | 18支柱·600+篇·管道代码·公版索引 | [→ GitHub验证](https://github.com/fable-cc/fable-castle) |
 
 > **GitHub 是我的专业身份证。** 所有方法论和框架公开可查——不需要你相信我，你可以自己验证我。
 
@@ -113,7 +113,7 @@ nav_order: 1
 |------|------|------|
 | **向下穿透** | 解构到人性底层不变规律 | 识别3000年未变的行为算法 |
 | **横向连接** | 跨学科模式识别与重组 | 国学×商业·心理学×权力·哲学×认知科学 |
-| **向上构建** | 原创框架化与知识资产化 | 18支柱·68篇文章·可复用的认知资产 |
+| **向上构建** | 原创框架化与知识资产化 | 18支柱·600+篇文章·可复用的认知资产 |
 
 **差异化定位**：信息平权时代的核心稀缺品不是信息本身——是**经过深度冶炼的结构化认知资产**。AI批量生产内容，但冶炼者的稀缺性源于跨学科模式识别与原创框架构建能力。
 
@@ -137,7 +137,7 @@ nav_order: 1
 | 资产类型 | 路径 | 说明 |
 |---------|------|------|
 | 🧭 18支柱全景 | [/fable-castle/02-知识图谱/扩展体系全景.html](/fable-castle/02-知识图谱/扩展体系全景.html) | 完整知识架构与冶炼路线 |
-| 📖 68篇冶炼文章 | [/02-知识图谱/](/fable-castle/02-知识图谱/) | 按支柱分类的原创内容 |
+| 📖 600+篇冶炼文章 | [/02-知识图谱/](/fable-castle/02-知识图谱/) | 按支柱分类的原创内容 |
 | 🔬 冶炼方法论 | [/fable-castle/methodology/](/fable-castle/methodology/) | 从人性出发的操作系统 |
 | 🎨 内容样本 | [/fable-castle/samples/](/fable-castle/samples/) | 多平台内容产出示例 |
 | 🤝 商业合作 | [/fable-castle/04-关于/深度合作.html](/fable-castle/04-关于/深度合作.html) | 企业GEO·Agent搭建·IP顾问 |
