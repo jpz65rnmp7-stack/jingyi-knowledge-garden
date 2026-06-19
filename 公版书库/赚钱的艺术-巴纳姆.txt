@@ -1,0 +1,3794 @@
+*** START OF THE PROJECT GUTENBERG EBOOK 55585 ***
+
+  TRANSCRIBER’S NOTE
+
+  Italic text is denoted by _underscores_.
+  Bold text is denoted by =equal signs=.
+  Strikethru text is denoted by ++double plus signs++.
+  A small box representing a space is denoted by the ▢ symbol.
+  A superscript is denoted by ^x or ^{xx}, for example A^1 or ^{cm}.
+
+  Some minor changes are noted at the end of the book.
+
+
+
+
+  MANUAL OF STYLE
+
+  GOVERNING
+
+  COMPOSITION AND PROOF READING
+
+  IN THE
+
+  GOVERNMENT PRINTING OFFICE.
+
+  PREPARED UNDER THE DIRECTION OF THE PUBLIC PRINTER.
+
+  WASHINGTON:
+  GOVERNMENT PRINTING OFFICE.
+  1894.
+
+
+
+
+CONTENTS.
+
+
+                                                             Page.
+
+  ABBREVIATIONS                                                  8
+
+  BILL STYLE                                                 25-28
+
+  CAPITALIZATION                                              9-16
+
+  COMPOUNDING                                                   17
+
+  COURT WORK                                                    22
+
+  FOLLOW--FOLLOW LIT                                            22
+
+  GENERAL TESTIMONY                                             23
+
+  GEOGRAPHIC NAMES                                               7
+
+  GREEK ACCENTS                                                 40
+
+  GREEK ALPHABET                                                40
+
+  GREEK CASE                                                    40
+
+  JOURNAL WORK                                               29-32
+
+  MATHEMATICAL, ASTRONOMICAL, AND PHYSICAL SIGNS                39
+
+  MISCELLANEOUS                                                 24
+
+  ORTHOGRAPHY                                                    7
+
+  PREFACE                                                        5
+
+  STANDARD PAGE MEASUREMENTS                                    39
+
+  SUGGESTIONS TO AUTHORS                                         6
+
+  SUGGESTIONS FOR COMPOSITORS, READERS, AND REVISERS         33-38
+
+  TABULAR WORK                                               19-21
+
+  USE OF FIGURES                                                18
+
+  USE OF ITALIC                                                 23
+
+
+
+
+PREFACE.
+
+
+Clear and positive rules for composition and proof reading are
+needed in printing offices to prevent confusion and unnecessary
+delay and expense. Inflexible rules for style in all works can
+not be given, but for the general work of the Government Printing
+Office the rules herein contained will be observed. When important
+changes are to be made, written or printed instructions will be
+furnished or there will be a special preparation of copy.
+
+All persons connected with the typographical divisions of this
+office are requested to preserve this book and study carefully and
+well the rules and suggestions offered for their guidance.
+
+Department editors are requested to make their copy conform as
+nearly as possible to the style here presented, and to specify
+fully when sending work to this office any general deviation
+therefrom that may be desired.
+
+
+
+
+SUGGESTIONS TO AUTHORS.
+
+
+Authors are advised to so prepare their copy that it can be clearly
+understood by the printer. Nothing should be left for conjecture.
+Measurable perfection can be secured by first transcribing copy on
+the typewriter, and before releasing it for publication giving it
+as careful revision as is afterwards given proof sheets. In the
+end this will not only save time, but Department printing funds
+frequently exhausted in making author’s corrections in proof will
+be available for other work. Typewritten copy is always preferable,
+when not on paper too thin, but plain copy is absolutely essential
+to good work.
+
+The following are offered as suggestions which, if heeded, will
+enable this office to achieve the best results:
+
+1. All paragraphs should be clearly marked on copy, thus avoiding
+vexatious misprints due to overrunning in proof.
+
+2. Objects, photographs, or drawings for illustration should
+accompany manuscript. Each should bear the name of the publication
+to which it belongs, together with the figure or plate number, and
+necessary titles or legends for the same should be inserted at the
+proper place in copy. A complete list of plates and figures should
+always accompany the paper.
+
+3. When a work is made up of several parts, or papers, a carefully
+prepared schedule of the desired arrangement should be forwarded
+with the manuscript.
+
+4. Proper names and technical terms should be plainly and carefully
+written, using CAPITAL letters if necessary, and each should be
+verified before the copy is sent to the printer.
+
+5. Details of capitalization and punctuation may be safely left to
+the printers and proof readers. It is part of their profession;
+they make a study of the subject, and will generally meet the
+author’s taste.
+
+6. Write only on one side of the paper. When printed matter
+covering more than one side of a sheet is used as copy, a DUPLICATE
+should be furnished; otherwise much trouble is caused in cutting.
+
+7. When, as an afterthought, new matter making more than a line is
+inserted, it should be written on a separate sheet and the place
+for its insertion clearly indicated.
+
+8. Galley proofs will be furnished when desired. It is important
+that all corrections be made on the first proofs; later ones should
+be used only for purposes of verification.
+
+9. Corrections in stereotype or electrotype plates usually do
+more harm than good. They weaken the plate and render new errors
+probable through damaged letters.
+
+10. Authors and compilers are requested to direct those handling
+their manuscript to transmit the same to the Printing Office in
+flat form--never to roll it if it can be avoided.
+
+
+
+
+RULES GOVERNING WORK IN THE DOCUMENT DIVISIONS OF THE GOVERNMENT
+PRINTING OFFICE.
+
+(Adopted December 3, 1894.)
+
+
+
+
+ORTHOGRAPHY.
+
+
+1. Follow Webster’s International Dictionary.
+
+2. Observe the spelling of the following words:
+
+  Arapahoe
+  Arapahoes
+  Navajo
+  Navajoes
+  upward
+  downward
+  backward
+  forward
+  toward
+  aftward
+  afterwards
+  draft, drafting, etc.
+  manila (city and product)
+  canyon
+  embed
+  waterway
+  employee
+  missfire
+  farther (distance)
+  further (other than distance)
+
+3. Use the following forms of words:
+
+  O. K.
+  taggers tin
+  feet, B. M.
+  Anderson & Co.’s invoice
+  5 by (not x) 10 inches
+  by day (not day’s) labor
+  State (not State’s) prison
+  quartermaster stores
+  one-fourth (where ¼ is marked “spell” in copy)
+  Jones’s (possessive)
+  can not
+  waterworks
+  waterway
+  cattleman
+
+4. Omit the dieresis in such words as reexamine, cooperation,
+preemption, zoology.
+
+5. The following is a list of words in common use in which accented
+letters occur. Follow it, except in works of the United States
+Geological Survey and United States Coast and Geodetic Survey, in
+which no accented letters are permissible:
+
+  attaché
+  bête noir
+  blasé
+  Champs Élysées
+  chargé d’affaires
+  confrère
+  coup d’état
+  coup de grâce
+  débris
+  élite
+  en arriére
+  en échelon
+  en déshabille
+  en règle
+  entrée
+  entrepôt
+  eozoon
+  exposé
+  façade
+  fête champêtre
+  garçon
+  matériel (Fr.)
+  mêlée
+  née
+  papier mâché
+  procés verbal
+  protégé
+  régime
+  résumé
+  rôle
+  rôle d’équipage
+
+
+
+
+GEOGRAPHIC NAMES.
+
+
+1. In the spelling of geographic names give preference as follows:
+Decisions of the United States Board on Geographic Names, United
+States Postal Guide, Lippincott’s Gazetteer, and Rand, McNally &
+Co.’s Atlas, in the order named.
+
+2. The following are the general rules governing the decisions of
+the Board on Geographic Names:
+
+  The possessive apostrophe is dropped.
+  The final “h” is dropped from names ending in “burgh”: Pittsburg,
+        not Pittsburgh.
+  Names ending in “borough” are contracted to “boro”: Boonsboro, not
+        Boonsborough.
+  Names are not compounded: Alluwe, not Al-lu-we; Hongkong, not
+        Hong-Kong.
+  “C. H.” is omitted as part of the names of county seats: Fairfax,
+        not Fairfax C. H.
+  Spell Center, not Centre.
+  Accented letters are not used, except in rare instances, as Curaçao;
+        Réunion; St. François.
+
+
+
+
+ABBREVIATIONS.
+
+
+1. Follow Postal-Guide contractions for States and Territories
+(except Oregon, for which use Oreg.) after names of forts,
+barracks, arsenals, navy-yards, naval stations, post-offices,
+counties, military or Indian reservations, and Indian agencies.
+Note the following examples:
+
+  Fort Barrancas, Fla.
+  Vancouver Barracks, Wash.
+  Rock Island Arsenal, Ill.
+  League Island Navy-Yard, Pa.
+  Key West Naval Station, Fla.
+  Albany, N. Y.
+  Hudson County, N. J.
+  Pyramid Lake Reservation, Nev.
+  Pine Ridge Agency, S. Dak.
+  Springfield Armory, Mass.
+  Fort Myer Military Reservation, Va.
+
+
+POSTAL-GUIDE CONTRACTIONS.
+
+  Alabama                          Ala.
+  Alaska Territory                 Alaska
+  Arizona Territory                Ariz.
+  Arkansas                         Ark.
+  California                       Cal.
+  Colorado                         Colo.
+  Connecticut                      Conn.
+  Delaware                         Del.
+  District of Columbia             D. C.
+  Florida                          Fla.
+  Georgia                          Ga.
+  Idaho                            Idaho
+  Illinois                         Ill.
+  Indiana                          Ind.
+  Indian Territory                 Ind. T.
+  Iowa                             Iowa
+  Kansas                           Kans.
+  Kentucky                         Ky.
+  Louisiana                        La.
+  Maine                            Me.
+  Maryland                         Md.
+  Massachusetts                    Mass.
+  Michigan                         Mich.
+  Minnesota                        Minn.
+  Mississippi                      Miss.
+  Missouri                         Mo.
+  Montana                          Mont.
+  Nebraska                         Nebr.
+  Nevada                           Nev.
+  New Hampshire                    N. H.
+  New Jersey                       N. J.
+  New Mexico Territory             N. Mex.
+  New York                         N. Y.
+  North Carolina                   N. C.
+  North Dakota                     N. Dak.
+  Ohio                             Ohio
+  Oklahoma Territory               Okla.
+  Oregon                           Oregon
+  Pennsylvania                     Pa.
+  Rhode Island                     R. I.
+  South Carolina                   S. C.
+  South Dakota                     S. Dak.
+  Tennessee                        Tenn.
+  Texas                            Tex.
+  Utah Territory                   Utah
+  Vermont                          Vt.
+  Virginia                         Va.
+  Washington                       Wash.
+  West Virginia                    W. Va.
+  Wisconsin                        Wis.
+  Wyoming                          Wyo.
+
+2. Titles of courtesy and professional titles preceding names will
+be contracted or spelled according to the following list:
+
+  Mr.
+  Messrs.
+  Mrs.
+  Dr.
+  Professor (with surname)
+  Prof. (with Christian name)
+  Rev. (the Reverend)
+  Right Rev.
+  Very Rev.
+  Hon. (the Honorable)
+  Right Hon.
+  * M. (monsieur)
+  * MM. (messieurs)
+  * Mme. (madame)
+  * Mlle. (mademoiselle)
+  * Mgr. (monsignor)
+  * Sig. (signor)
+  * Signora
+  * Signorita
+  * Señor
+  * Señorita
+  * Señora
+  * Herr
+
+  NOTE.--When any of the titles marked with an asterisk, with or
+  without the Christian name, precedes “de,” use lower-case “d;”
+  otherwise use capital “D.” This rule applies also to “du,” “von,”
+  “van,” etc.
+
+3. Military and official titles preceding names will be spelled
+out in text when the Christian name or initial is not used, but in
+tabular work and where the Christian name or initial is used the
+annexed list will be the guide:
+
+  President
+  Governor
+  Supt.
+  Bvt. (brevet)
+  Army titles:
+    Gen.
+    Lieut. Gen.
+    Maj. Gen.
+    Brig. Gen.
+    Adjt. Gen.
+    Surg. Gen.
+    Judge-Advocate-Gen.
+    Insp. Gen.
+    Com. Gen.
+    Q. M. Gen.
+    P. M. Gen.
+    Col.
+    Lieut. Col.
+    Maj.
+    Surg.
+    Chaplain
+    Capt.
+    Asst. Surg.
+    First Lieut.
+    Second Lieut.
+    Sergt. Maj.
+    Hosp. Steward
+    Com. Sergt.
+    Q. M. Sergt.
+    Ord. (ordnance) Sergt.
+    Sergt.
+    First Sergt.
+    Second Sergt.
+    Orderly-Sergt.
+    Corpl.
+    Private
+    Musician
+  Navy titles:
+    Admiral
+    Vice-Admiral
+    Rear-Admiral
+    Commodore
+    Capt.
+    Commander
+    Lieut. Commander
+    Lieut.
+    Lieut. (Junior Grade)
+    Ensign
+    Surg.
+    P. A. Surg., etc.
+    Asst. Surg.
+    Chief Engineer
+    Chaplain
+
+4. Distinguishing titles and college degrees, following names, will
+always be contracted, as jr., sr., esq.; Ph. D., LL. D.; U. S. A.,
+U. S. N. (See also under “CAPITALIZATION.”)
+
+  NOTE.--The contractions “U. S. A.” and “U. S. N.,” for United
+  States Army and United States Navy will be used when so written.
+  When written “U. S. Army” or “U. S. Navy,” spell in full, as--
+
+  John L. Worden, U. S. N.
+  R. W. Meade, United States Navy.
+  N. A. Miles, U. S. A.
+  G. G. Crook, United States Army.
+
+5. In parenthetic references to books use “p.” and “pp.” for page
+and pages, and “sec.” and “secs.” for section and sections.
+
+6. “St.” will be used for Saint, but Fort and Mount will not be
+abbreviated.
+
+7. Use “etc.” instead of “&c.” Use the character “&” in firm names,
+but not in titles of companies having geographic or commercial
+words as part of the corporate name, nor in literary, scientific,
+artistic, or musical companionships. Examples:
+
+  Smith & Brown.
+  George W. Johnson & Co.
+  William Greene & Bro.
+  Wigton Bros. & Co.
+  Harlan & Hollingsworth Company.
+  Brown & Jones Mining and Milling Company.
+  Philadelphia and Reading Railroad Company.
+  Washington and Norfolk Steamboat Company.
+  Atlantic and Pacific Telegraph Company.
+  Washington Flour and Feed Company.
+  Eastern and Western Transportation Company.
+  Gilbert and Sullivan.
+  Cuvier and Valenciennes.
+  Hay and Nicolay.
+
+8. Comprehensive examples of the use of the word “Company” and its
+contraction “Co.” are given above. (See also “Contractions” under
+“TABULAR WORK.”)
+
+9. Do not use abbreviation “U. S.” except in connection with naval
+and other vessels of the Government, as U. S. S. _Kearsarge_, U.
+S. gunboat _Katahdin_, U. S. monitor _Miantonomoh_, U. S. torpedo
+boat _Ericsson_, U. S. light-house tender _Maple_, etc.; but the
+contraction may be used in signature and address lines where
+extreme length makes it desirable.
+
+10. Set references to scriptural texts as follows: Genesis xv, 24;
+II Samuel viii, 9-13; St. Matthew vii, 5.
+
+11. Streets of the District of Columbia: Fifth street NW.; Florida
+avenue NE.; Four-and-a-half street SW.
+
+12. Where compass directions are contracted, use the forms NE.,
+NNW., etc.
+
+13. Use “F.” for Fahrenheit and “C.” for centigrade when
+temperatures are given.
+
+14. Use “Pl.” and “Fig.” for plate and figure before roman
+numerals, as Pl. VI, Fig. XII; “pl.” and “fig.” before figures, as
+pl. 6, fig. 12.
+
+15. Use “Rev. Stat.” for Revised Statutes, and “Stat. L.” for
+Statutes at Large, in citations.
+
+16. Set abbreviations for section, township, range, etc., thus: SE.
+¼ sec. 5, T. 9 N., R. 2 E.
+
+17. Use “loc. cit.” for loco citato; “op. cit.” for opere citato;
+“sp. gr.” for specific gravity, and “sp. nov.” for species nova.
+
+18. Where the metric system of weights and measures is used, follow
+copy, and where contractions occur use roman lower-case or superior
+letters, according to indicated preference, as “cm. or ^{cm},” for
+centimeter; “mm. or ^{mm},” for millimeter; “c. c. or ^{cc},” for
+cubic centimeter.
+
+19. After “per cent” and “viz” omit the period.
+
+20. References to Congressional documents: House Ex. Doc. No. 6,
+Forty-seventh Congress, second session; Senate Mis. Doc. No. 10,
+Forty-sixth Congress, first session.
+
+21. Use “_v._” (_versus_) in all cases except “fol.” and “fol. lit.”
+
+22. The symbol “m/n,” used in connection with South American
+financial statements, will be spelled “national money,” in
+parentheses, immediately following the amount, as $146 (national
+money); Rs. 146 (national money).
+
+23. English money will be expressed by the use of the symbols “£”
+“s.” “d.” when amounts are given, as £227 14s. 6d.
+
+(See also “Contractions” under “TABULAR WORK,” “Supreme Court
+records,” and “Court of Claims opinions, briefs, and decisions.”)
+
+
+
+
+CAPITALIZATION.
+
+
+1. Use caps for roman numerals designating pages, chapters,
+articles, or plates.
+
+2. Use caps for college degrees, viz, D. D., Ph. D., LL. D., A. M.,
+B. A., etc.
+
+3. Use lower-case “r” in Sr. and Jr., and “sq.” in Esq. in
+addresses and signatures.
+
+4. Capitalize, both singular and plural, “department,” “bureau,”
+“survey,” “corps,” and “service,” when referring to an Executive
+Department or important bureau, of the United States Government;
+“congress,” referring to the United States Congress; “house,”
+referring to the United States Senate or House of Representatives.
+
+5. Capitalize, singular and plural, Senator, Representative,
+Delegate, and Member of the United States Congress and the
+principal officers of both Houses. Observe the following:
+
+  Architect of the Capitol
+  President
+  Secretary
+  Chaplain
+  Sergeant-at-Arms
+  Speaker
+  Clerk
+  Doorkeeper
+
+6. Capitalize the legislative bodies, with their sections, of
+Governments:
+
+  Parliament
+  House of Lords
+  House of Commons
+  the Lords
+  the Commons
+  the Reichstag
+  Rigsdag
+  Reichsrath
+  National Assembly
+  Corps Législatif
+  Bundesrath
+  Skupshtina
+  Cortes
+  Legislature (Hawaii)
+  the Right
+  the Center
+  the Left
+  States-General (Holland)
+
+7. The words “president,” “king,” “queen,” “czar,” “emperor,” etc.,
+when used definitely and referring to rulers of countries, should
+be capitalized, as the President, the Emperor, the Emperor of
+China, the Chinese Emperor, etc.
+
+8. Capitalize the first word of a direct quotation. Example:
+Solomon says, “Pride goeth before destruction.” Do not capitalize
+such indirect quotations as “a wise man says that pride goeth
+before destruction.”
+
+9. Capitalize the first word of such indirect quotations as the
+following, but do not quote:
+
+  The orator’s chief thought was, How shall we pay the debt?
+  The penitent’s cry was, What shall I do to be saved?
+  The subject for debate was, Which is the greater, the pen or the
+        sword?
+
+10. Capitalize all commissions and boards authorized by act
+of Congress when given in full, singular and plural, as Fish
+Commission, Civil Service Commission, Mississippi River Commission,
+District of Columbia Board of Commissioners, Light-House Board,
+etc.; also the words “commission,” “commissioner,” and “board”
+where standing alone and referring to the above.
+
+11. Capitalize all words denoting the Deity; “Reformation” (the),
+“Revolution” (1776), “Revolutionary war,” “French Revolution.”
+
+12. Capitalize the words “army” and “navy” only when they mean the
+entire Army and Navy of the United States, and lower-case when used
+as adjectives. Examples:
+
+  The troops were supplied with army saddles and blankets.
+  The army before Nashville was commanded by General Thomas.
+  He spoke for the Army and Navy, as well as the Administration.
+  Their clothes were made of navy cloth, and their general appearance
+        was that of navy officials.
+  He is at the head of the American Navy and conversant with
+        everything pertaining to navy affairs.
+
+13. When any word is used specifically as a synonym for
+“Government” and refers to any nation, as “crown,” “empire,”
+“kingdom,” “republic,” “administration,” or “state,” capitalize it,
+singular or plural. When indefinite or applied to dependencies,
+lower-case it. Examples:
+
+  The Government of the United States, which Government is the best
+        of Governments.
+  President Cleveland’s Administration compared favorably with
+        preceding Administrations.
+  His estates were forfeited to the Crown, and his jewels were used
+        to adorn the King’s crown.
+  Upon the fall of the French Empire, the Empire of Germany was
+        proclaimed.
+  France, as a republic, strengthened the Republics of the world;
+        as an empire, it weakened them.
+
+14. Capitalize “state,” “territory,” “district” (applied to a
+Federal district, as District of Alaska, District of Columbia),
+“canton” (in Switzerland), “province” (in Canada and Australia),
+etc., both singular and plural, when referring to administrative
+divisions of any country.
+
+15. When the word “state” is used in contradistinction to “church,”
+lower-case it, as “A union of church and state;” also “secretary of
+state of New York,” “state policy,” “affairs of state,” etc.
+
+16. Capitalize heads of Departments and Bureaus (of the United
+States Government only), but lower-case division and section
+officers.
+
+17. Capitalize names of political parties: Republicans, Democrats,
+Tories, Home Rulers, Populists, People’s Party, Prohibition party,
+Prohibitionists, Farmers’ Alliance, Liberals, etc.
+
+18. Capitalize names of societies: Odd Fellows, B’nai B’rith, etc.
+
+19. Capitalize names of geological ages, eras, and periods:
+
+  Ages:
+    Archæan
+    Paleozoic
+    Cenozoic
+  Eras:
+    Lower Silurian
+    Upper Silurian
+    Devonian
+    Carboniferous
+    Mesozoic
+    Jura-Trias
+    Jurassic--
+      Lias
+      Oolite
+      Purbeck
+    Triassic--
+      Lower
+      Middle
+      Upper
+      Rhætic
+    Cretaceous--
+      Lower
+    Tertiary
+    Quaternary
+    Post-Tertiary
+    Azoic
+    Ezoic
+    Cambrian
+  Periods:
+    Calciferous
+    Chazy
+    Corniferous
+    Subcarboniferous
+    Carboniferous
+    Permian
+    Eocene
+    Oligocene
+    Miocene
+    Pliocene
+    Glacial
+    Recent
+
+20. Capitalize all designations in connection with capital letters
+or roman numerals, as Title XV, Schedule C, Finding VI, Exhibit K,
+Statement B, Article IV, Art. V, Chapter IX, Chap. XI, Volume XX,
+Vol. X, Section VII, Sec. VI, etc.; but lower-case when used with
+figures, as chapter 10, volume 5, chap. 8, vol. 2, etc. “Exhibit,”
+“Appendix,” and “Table” will be capitalized in all cases when
+preceding numerals or figures.
+
+21. Capitalize the principal words in full titles of books, plays,
+and pictures, but do not quote. Also short titles of books, when
+in the singular, as Brown’s Grammar, Bancroft’s History, Webster’s
+Dictionary, etc. When referring to a subject in a book, quote, but
+capitalize only the first word.
+
+22. Capitalize “Presidential,” “Congressional,” “Senatorial,” and
+“Territorial,” referring to the President, Congress, Senate, and a
+Territory of the United States.
+
+23. Signature and address names will be set in caps and small caps,
+with title or direction following in italics, in the same line if
+not over half the line is used for the purpose; otherwise hanging
+two ems or more. Capitalize principal words in lines connected with
+signatures and addresses. Make signatures and addresses compact,
+using partially filled lines where the contiguous matter is open
+enough to give a signature proper prominence. It is well to have a
+white line between text and signature, but this is not imperative;
+general appearance must govern. Signatures are placed at the right
+of the page, indented 1, 3, or 5 ems from the right, as may be
+necessary; addresses are placed to the left, flush if at the top of
+a paper, indented one em if at the bottom, italic lines following
+indented as much as necessary to a good appearance. Do not use
+slugs to separate dash lines from signature or address lines where
+the dash will bear off one or more blank lines if solid. The
+following examples cover the most common forms:
+
+  the Clerk of the House of Representatives on the 4th day of December,
+  A. D. 1893.
+
+  ▢▢▢Very respectfully,                             JAMES KERR,▢▢▢
+                         _Clerk of the House of Representatives_.▢
+
+  ▢Hon. CHARLES F. CRISP,
+  ▢▢▢_Speaker of the House of Representatives_.
+
+
+  ▢▢▢I am, very respectfully, yours, etc.,
+                                                 JOHN RANDOLPH,▢▢▢
+                               _Assistant Clerk Court of Claims_.▢
+
+
+  disposed of, both as a record of the fact and as a limitation of the
+  authority conferred.
+
+  ▢▢▢(Signed)                                JOHN S. HENDERSON,▢▢▢
+                                             JNO. A. CALDWELL,
+         _Committee on the part of the House of Representatives_.▢
+  [Observe lead.]                           WM. F. VILAS,
+                                            JAMES MCMILLAN,
+                           _Committee on the part of the Senate_.▢
+
+
+  bia, on account of the sewer debt of the District of Columbia to the
+        United States.
+
+  ▢▢▢Very respectfully,
+                                                A. C. MATTHEWS,▢▢▢
+                                                _Comptroller_.
+                                       By J. R. GARRISON,
+                                            _Deputy Comptroller_.▢
+  ▢JOHN JAY, _Washington, D. C._
+
+
+  report, which has been received, and is herewith transmitted with my
+        concurrence.
+
+  ▢▢▢Respectfully, yours,
+                                    J. G. CARLISLE, _Secretary_.
+  ▢Hon. GEORGE D. WISE,
+  ▢▢▢_Chairman Committee on Interstate and Foreign Commerce,
+                                     House of Representatives_.
+
+
+  Brig. Gen. THOMAS L. CASEY,
+  ▢▢_Chief of Engineers, U. S. A., Washington, D. C._
+
+  ▢DEAR SIR:
+         *       *       *       *       *
+  of Maryland, this 28th day of May, A. D. 1885.
+  ▢[SEAL.]                                      T. WATKINS LIGON.▢
+  ▢By the governor:
+  ▢▢▢NATHANIEL COX, _Secretary of State_.
+
+
+  the day and year first above written.
+                                   J. M. WILBUR.          [SEAL.]▢
+                                   BARTLETT, ROBINS & CO.▢[SEAL.]▢
+  ▢In presence of--
+  ▢▢▢A. T. BROWN.
+     A. B. W. DEW.
+
+
+  ▢▢▢I am, General, very respectfully, your most obedient servant,
+                                                 C. G. SAWTELLE,▢▢▢
+  _Colonel and Chief Quartermaster Military Division of the Gulf_.▢
+  ▢Maj. Gen. M. C. MEIGS,
+  ▢▢▢_Quartermaster-General United States Army, Washington, D. C._
+
+
+  ▢▢▢I have the honor to be, very respectfully, your obedient
+        servant,
+                                       S. P. LANGLEY, _Secretary_.▢
+
+NOTE.--In cases like the two preceding observe use of lead between
+text line and signature.
+
+24. Titles preceding names will always be capitalized: Senior
+Warden Brown; Grand Master Williamson; Master Workman Sovereign;
+Sergeant Murphy; Private O’Donnell; Boatswain Given; Tinsmith
+Harris, etc.
+
+25. Lower-case participles derived from proper names, such as
+anglicized, frenchified, romanized, gallicized; also adjective or
+qualifying nouns indirectly derived from and compounded with proper
+names, as tropical, arctic, transatlantic, etc.
+
+26. Geographic zones or sections of the world, when used as proper
+nouns, take the capital, as the Tropics, the Arctics, the Levant,
+the Orient. When used as adjectives, use lower-case, as antarctic
+ice, tropical plants, oriental customs, levantine silk, morocco
+or russia leather, china or wedgwood pottery. Such words as india
+rubber, india ink, paris green, london purple, prussian blue,
+venetian red, roman type, gothic letter (but Gothic architecture),
+that describe things and are also used as nouns, do not take the
+capital, although they are, or are derived from, proper names.
+
+27. Capitalize titles clearly intended as synonyms of proper names.
+Examples:
+
+  You will go, Major, to New York.
+  I am anxious about our friend, the Captain.
+  Mr. Speaker, I rise to a point of order.
+  I am, General, your obedient servant.
+
+28. Titles not clearly used as synonyms, or when used in a general
+way, will not be capitalized. Examples:
+
+  He was taken before the judge.
+  The captain was breveted.
+
+29. Where the word “o’clock” occurs in phrases or headlines
+involving the use of capitals, always set it “o’clock;” never use
+the form o’Clock, O’Clock, or O’clock.
+
+30. In caps-and-small-caps cross headings, or headings of any kind
+in which capitals are used, capitalize principal words. [Copy
+preparers will take full responsibility for uniformity in this
+matter and mark copy plainly.]
+
+31. In tables of contents which are set in small caps capitalize
+only the first word and proper names.
+
+32. Capitalize the titles of standing and select committees of the
+Senate and House of Representatives of the United States and the
+different forms of the same, both singular and plural, as Committee
+on Ways and Means; Ways and Means Committees. The following list
+gives the official nomenclature of Congressional committees, with
+the proper capitalization:
+
+HOUSE.
+
+  Committee on--
+    Elections.
+    Ways and Means.
+    Appropriations.
+    the Judiciary.
+    Banking and Currency.
+    Coinage, Weights, and Measures.
+    Interstate and Foreign Commerce.
+    Rivers and Harbors.
+    Merchant Marine and Fisheries.
+    Agriculture.
+    Foreign Affairs.
+    Military Affairs.
+    Naval Affairs.
+    the Post-Office and Post-Roads.
+    the Public Lands.
+    Indian Affairs.
+    the Territories.
+    Railways and Canals.
+    Manufactures.
+    Mines and Mining.
+    Public Buildings and Grounds.
+    the Pacific Railroads.
+    Levees and Improvements of the Mississippi River.
+    Education.
+    Labor.
+    the Militia.
+    Patents.
+    Invalid Pensions.
+    Pensions.
+    Claims.
+    War Claims.
+    Private Land Claims.
+    the District of Columbia.
+    the Revision of the Laws.
+    Reform in the Civil Service.
+    Election of President and Vice-President and Representatives
+          in Congress.
+    Alcoholic Liquor Traffic.
+    Irrigation of Arid Lands.
+    Immigration and Naturalization.
+    Ventilation and Acoustics.
+    Expenditures in the State Department.
+    Expenditures in the Treasury Department.
+    Expenditures in the War Department.
+    Expenditures in the Navy Department.
+    Expenditures in the Post-Office Department.
+    Expenditures in the Interior Department.
+    Expenditures in the Department of Justice.
+    Expenditures in the Department of Agriculture.
+    Expenditures on Public Buildings.
+    Rules.
+    Accounts.
+    Mileage.
+    the Library (also Joint Committee on).
+    Printing (also Joint Committee on).
+    Enrolled Bills (also Joint Committee on).
+  Joint Commission of Congress to Inquire into the Status of Laws
+        Organizing the Executive Departments.
+  Joint Commission on Disposition of Useless Papers in Executive
+        Departments.
+
+SENATE.
+
+  Committee--
+    on Agriculture and Forestry.
+    on Appropriations.
+    to Audit and Control the Contingent Expenses of the Senate.
+    on the Census.
+    on Civil Service and Retrenchment.
+    on Claims.
+    on Coast Defenses.
+    on Commerce.
+    on the District of Columbia.
+    on Education and Labor.
+    on Engrossed Bills.
+    on Enrolled Bills.
+    on Epidemic Diseases.
+    to Examine the Several Branches of the Civil Service.
+    on Finance.
+    on Fisheries.
+    on Foreign Relations.
+    on Immigration.
+    on Improvement of the Mississippi River and its Tributaries.
+    on Indian Affairs.
+    on Indian Depredations.
+    on Interstate Commerce.
+    on Irrigation and Reclamation of Arid Lands.
+    on the Judiciary.
+    on the Library.
+    on Manufactures.
+    on Military Affairs.
+    on Mines and Mining.
+    on Naval Affairs.
+    on Organization, Conduct, and Expenditures of the Executive
+          Departments.
+    on Pacific Railroads.
+    on Patents.
+    on Pensions.
+    on Post-Offices and Post-Roads.
+    on Printing.
+    on Private Land Claims.
+    on Privileges and Elections.
+    on Public Buildings and Grounds.
+    on Public Lands.
+    on Railroads.
+    on Relations with Canada.
+    on the Revision of the Laws of the United States.
+    on Revolutionary Claims.
+    on Rules.
+    on Territories.
+    on Transportation Routes to the Seaboard.
+  Select Committee--
+    to Investigate the Condition of the Potomac River Front of
+          Washington.
+    to Inquire into all Claims of Citizens of the United States
+          against the Government of Nicaragua.
+    on Woman Suffrage.
+    on Additional Accommodations for the Library of Congress.
+    on the Five Civilized Tribes of Indians.
+    on Transportation and Sale of Meat Products.
+    to Establish the University of the United States.
+    on the Quadro-Centennial.
+    to Investigate the Geological Survey.
+    on National Banks.
+    on Forest Reservations.
+    on Corporations in the District of Columbia.
+    to Investigate Trespassers upon Indian Lands.
+    on Ford Theater Disaster.
+
+33. Capitalize “county,” “township,” and “ward” (singular form
+only), when used with the proper name.
+
+34. Capitalize “river,” “bay,” “cape,” “harbor,” “mount,” “island,”
+etc. (singular form only), when used with the proper name.
+
+35. Capitalize such words as “building,” “asylum,” “bridge,”
+“bank,” “school,” “hospital,” etc. (singular form only), when used
+with the proper name.
+
+36. The following list will be found convenient as a guide to
+capitalization:
+
+  Absentee Shawnees.
+  Act, Thurman, Tucker, etc.
+  Acting Secretary of the Senate.
+  Acting Secretary of State, etc.
+  Administration (National).
+  Admiral.
+  Admiralty (British).
+  Agency, Chippewa, etc.
+  Agricultural Report.
+  Albany Penitentiary.
+  Appendix IV.
+  Appendix A.
+  Appointment Office.
+  Aqueduct, Washington, etc.
+  Aqueduct Bridge.
+  Army Gun Factory.
+  Army:
+    General of the
+    Lieutenant-General of the
+    Major-General Commanding the
+    Adjutant-General (’s Office).
+    Inspector-General (’s Office).
+    Judge-Advocate-General.
+    Quartermaster-General (’s Office).
+    Commissary-General of Subsistence.
+    Surgeon-General (’s Office).
+    Paymaster-General (’s Office).
+    Chief of Engineers.
+    Chief Signal Officer.
+    Chief of Ordnance.
+    Regular Army.
+    Volunteer Army.
+  Army Medical Museum.
+  army officer, nurse, wagon, etc.
+  Architect of the Capitol.
+  Architect of the Treasury Department.
+  Armory (Springfield).
+  Arsenal, Rock Island, etc.
+  Articles of War.
+  article of war, sixty-second.
+  Artillery School (United States).
+  assembly, Pennsylvania
+  Assistant Attorney-General (United States).
+  Assistant Commissioner of the General Land Office.
+  Assistant Commissioner of Patents.
+  Assistant Postmaster-General, First, Second, etc.
+  Assistant Secretary of the Interior, etc.
+  Associated Press.
+  Atlantic Slope, Coast, and Seaboard (section of country).
+  Attorney-General.
+  Auditor, First, Second, etc.
+  Auditor of Railroad Accounts.
+  Band, Eastern, etc., of Cherokees.
+  Bank, Central, etc.
+  Bay, Chesapeake, etc.
+  Bethlehem Iron Works.
+  Bible or Scriptures.
+  Black Friday.
+  Board (when definite).
+  Board of Engineers.
+  Board of General Appraisers.
+  Board of Ordnance and Fortification.
+  board of public works (District of Columbia).
+  Board of Underwriters (New York).
+  Board of Managers of the Soldiers’ Home.
+  Board of Trade of Philadelphia, etc.
+  Board on Geographic Names.
+  Book of Estimates.
+  Botanist, the (Agr. Dept.)
+  Botanic Garden.
+  Bowman Act.
+  Building, Winder, etc.
+  buildings, Winder and Logan
+  building, Treasury, etc.
+  Bureau (when definite).
+  Bureau of Accounts (and all other bureaus of the Navy Department).
+  Cabinet, the
+  Calendar, the
+  Calendar of Bills and Resolutions.
+  Calendar, Private.
+  Capitol Grounds.
+  Capitol, the
+  Capitol police.
+  Carnegie Steel Works.
+  Cavalry and Infantry School (United States).
+  Census Bulletin No. 420.
+  Census, Tenth, Eleventh, etc.
+  central Ohio.
+  Chairman (Committee of the Whole).
+  Chairman of the Light-House Board.
+  Chamber (of House or Senate).
+  Charles II of England.
+  Chemist, the (Agr. Dept.)
+  Cherokee Strip or Outlet.
+  Chief of the Bureau of, etc.
+  Chief Clerk, House or Senate.
+  Chief Intelligence Officer.
+  Chief of the Record and Pension Division.
+  Chief Justice (of United States Supreme Court).
+  Chief Magistrate.
+  Christian.
+  Christianity.
+  Christendom.
+  Christianize.
+  Church, the Methodist, etc. (denomination)
+  Church, St. Aloysius, etc. (congregation)
+  church, St. Paul’s (building)
+  Circle, Iowa, etc. (as a park)
+  cisatlantic, etc.
+  City of Mexico.
+  Civil Service Commission (ers).
+  Clerk of the House.
+  Coast and Geodetic Survey.
+  Code, the Mississippi
+  College, Columbia, etc.
+  Colonel Commandant (Marine Corps).
+  Commissioner of Patents, etc.
+  Commissioners of District of Columbia.
+  Comptroller, First, Second, etc.
+  Comptroller of the Currency.
+  Confederate States.
+  Consular Bureau.
+  Congressional.
+  Congressional Directory.
+  Congressional Library.
+  Constitution (United States).
+  Continent, the (Europe)
+  Contract Office.
+  Corps of Engineers.
+  Corps of Judge-Advocates.
+  Council, Choctaw.
+  County, Clarion, etc.
+  Court of Claims.
+  Court of Private Land Claims.
+  Court of St. James.
+  court of appeals.
+  Court of Commissioners of Alabama Claims.
+  Crown (referring to Government).
+  Dalles, The
+  Dam No. 4.
+  Day, Thanksgiving, Independence, Memorial, etc.
+  Dead-Letter Office.
+  Delegate (in Congress).
+  Democrat.
+  Department of Justice.
+  Deputy Second Auditor, etc.
+  Diplomatic Bureau.
+  Director of the Geological Survey, etc.
+  district:
+    First assembly
+    Fifth Congressional
+    Third light-house
+  District of Columbia Jail.
+  Dome (of Capitol).
+  Dominion of Canada.
+  Du Pont Powder Works.
+  Eastern States, the
+  Eastern Continent.
+  Eastern Hemisphere.
+  eastern New York, etc.
+  Electoral Commission.
+  Engine No. 6.
+  Engineer in Chief.
+  Engineer Corps.
+  Engineer Department.
+  Entomologist, the (Agr. Dept.)
+  Evangelical Alliance.
+  Executive, the
+  Executive order.
+  Executive Departments.
+  executive department (one of the three coordinate departments of
+        the Government).
+  Executive Document No. 95.
+  Federal Government.
+  Fish Commission (er).
+  Forty-seventh Congress.
+  Fourth of July.
+  Freedman’s Savings Bank.
+  General Government.
+  Gentile.
+  General Assembly (Presbyterian Church).
+  General Superintendent of Life-Saving Service.
+  Geological Survey.
+  gospel.
+  governor.
+  Government:
+    Imperial
+    Royal
+    Federal
+    General
+    National
+    British, etc.
+  Government of Great Britain.
+  Government Hospital for the Insane.
+  Governor-General (of Canada).
+  Grand Army post. (But Post No. 63, etc.)
+  Great Lakes.
+  Gulf Coast (section of country).
+  Gulf, the (Gulf of Mexico)
+  Hague, The
+  Hall (of the House).
+  Hall, Statuary (of Capitol)
+  Harbor, Boston, etc.
+  Headquarters of the Army.
+  Health Bureau.
+  Her Majesty the Queen.
+  His Excellency the President.
+  His Excellency Li Hung Chang.
+  his excellency the governor.
+  His Royal Highness the Prince of Wales.
+  Home and Branch (singular or plural, referring to Soldiers’ Home).
+  Hospital, Providence, etc.
+  Hotel, Metropolitan, etc.
+  House Calendar.
+  House Executive Document No. 12.
+  House, Ebbitt, etc.
+  Howard University.
+  Hydrographic Office.
+  imperial edict.
+  india rubber.
+  Isthmus, the (of Panama)
+  Journal Clerk.
+  Journal of the House (or Senate).
+  Lafayette, General
+  la Fayette, Marquis de
+  Lafayette County.
+  Lakes Erie and Huron.
+  legislature, Connecticut, etc.
+  Lake Michigan.
+  Librarian of Congress.
+  Library of Congress.
+  Life-Saving Service.
+  Light-House Board.
+  light-house district, Fourth, etc.
+  Line, Cunard, etc.
+  london purple.
+  Long Bridge.
+  lower House of Congress.
+  Lower Mississippi.
+  Mall, the
+  Marine Corps.
+  Marine-Hospital Service.
+  Medical Corps.
+  Medical Department (Army or Navy).
+  Members and Delegates.
+  Merino (sheep).
+  merino (goods, wool, etc.).
+  Metropolitan police.
+  Microscopist, the (Agr. Dept.)
+  middle Tennessee.
+  Military Academy (United States).
+  Mikado.
+  Miscellaneous Document No. 2.
+  Mississippi Delta.
+  Mississippi River:
+    Pass
+    Passes
+    Head of Passes
+  Money-Order Office (of P. O. Dept.).
+  Monument Lot.
+  Mormon.
+  Nation, Choctaw, etc.
+  National Board of Health.
+  National Cemetery, Arlington, etc.
+  national cemetery at Arlington.
+  National Guard.
+  National Legislature.
+  National Government.
+  National Home for Disabled Volunteer Soldiers.
+  National Medical Museum.
+  National Park, Yellowstone, etc.
+  national park in California.
+  Naval Academy.
+  Naval Asylum.
+  Naval Militia (the entire body).
+  Naval Observatory.
+  Naval Reserves.
+  Navy, the
+  Navy-Yard, New York, etc.
+  Netherlands, the
+  New World.
+  New York City.
+  North, the
+  North Pole.
+  northern Illinois.
+  Northwest, the
+  Office of Experiment Stations.
+  Office of Steamboat Inspection.
+  Old World.
+  One hundred and twenty-fifth street.
+  Order of Business No. 56.
+  Ordnance Department.
+  Pacific coast (the sea line).
+  Pacific Slope, Coast, and Seaboard (section of country).
+  paris green.
+  Parish, Caddo
+  Park, Jackson, etc.
+  Pay Corps.
+  Pay Department.
+  Penitentiary, Albany, etc.
+  Pension Bureau.
+  Pension Office.
+  People’s Party.
+  plaster of paris.
+  Populist.
+  Postal Union.
+  Postmaster-General.
+  Post-Office appropriation bill.
+  Presidential.
+  Prince of Monaco.
+  prussian blue.
+  Public Land Strip.
+  Public Printer.
+  Quartermaster’s Department.
+  Railway Mail Service.
+  Record and Pension Office (or Division).
+  Reform School of District of Columbia.
+  Reform School, Girls’
+  Reformatory, Elmira, etc.
+  Regents of the Smithsonian Institution.
+  Register of the Treasury.
+  Regular Army.
+  Regular Navy.
+  Reporter of the Senate.
+  Republican.
+  Reservation, Sioux, etc.
+  Revenue-Cutter Service.
+  Revenue-Marine Service.
+  Revolutionary war.
+  Revised Statutes.
+  River, Ohio, etc.
+  Rotunda (of Capitol).
+  royal command.
+  Rule XXI.
+  Rules and Articles of War.
+  Schedule B.
+  schedule 6.
+  School, Peabody, etc.
+  schools, Peabody and Brent
+  Scriptures (the Bible).
+  Secretary of State, etc. (United States).
+  Senate Chamber.
+  Sergeant-at-Arms.
+  Signal Corps.
+  Signal Office.
+  Signal Service.
+  Six Companies (Chinese).
+  Smithsonian Institution.
+  Solicitor-General.
+  Solicitor of Internal Revenue.
+  Solicitor of the Treasury.
+  Solicitor for the Department of State.
+  Sound, the (referring to Long Island or Puget Sound)
+  South, the
+  Southern States, the
+  southern Illinois.
+  Southwest, the
+  Square, Madison, etc. (as a park)
+  square, Lafayette, etc. (as a street)
+  star route.
+  Stars and Stripes.
+  Statistician, the (Agr. Dept.)
+  Statistical Abstract.
+  Statutes at Large.
+  Straits of Magellan, etc.
+  Streets, etc.:
+    New York avenue.
+    First street (northeast, etc.).
+    Jackson alley.
+    Phillips court.
+    Mount Vernon place (as a street).
+    Iowa circle (as a street).
+    Pudding lane.
+    Bennings road.
+    Lafayette square (as a street).
+  Subsistence Department.
+  Superintendent of the Census.
+  Superintendent of Coast and Geodetic Survey.
+  Superintendent of Foreign Mails.
+  Superintendent of Immigration.
+  Superintendent of the Money-Order System.
+  Superintendent of the Nautical Almanac.
+  Superintendent of the Naval Observatory.
+  Supervising Architect’s Office.
+  Supervising Architect of the Treasury.
+  Supervising Inspector-General of Steam Vessels.
+  Supervising Surgeon-General United States Marine-Hospital Service.
+  Supplement to Revised Statutes.
+  Supreme Bench.
+  Supreme Court (United States).
+  supreme court (District of Columbia or of a State).
+  surveyor-general.
+  Survey, Geological, etc.
+  Territorial assembly.
+  Territorial legislature.
+  transmississippi.
+  transatlantic.
+  Treasurer of the United States.
+  Treasury building.
+  Treasury Cattle Commission.
+  Treasury (National).
+  United Press.
+  Upper Mississippi.
+  Valley, Mississippi, etc.
+  Vice-President (of United States).
+  Vice-Admiral.
+  war, Mexican
+  war of the rebellion.
+  Washington Aqueduct.
+  Washington’s Headquarters.
+  Western Continent.
+  Western Hemisphere.
+  White Lot.
+
+
+
+
+COMPOUNDING.
+
+
+1. In compounding words the International Dictionary will be
+followed, with but few exceptions.
+
+2. The following words are so common in the work of this office
+that the usage of many years will be continued:
+
+  post-office
+  court-house
+  custom-house
+  light-house
+  navy-yard
+  attorney-general, etc.
+  consul-general
+  vice-consul
+  lieutenant-general, etc.
+  sergeant-major
+  quartermaster-sergeant, etc.
+  color-corporal
+  lieutenant-commander
+  rear-admiral
+  flag-officer
+  judge-advocate-general
+  provost-marshal
+  provost-marshal-general
+
+3. Make one word of horsepower, candlepower, and hundredweight, and
+use adjectively as laid down in the succeeding paragraph.
+
+4. Compound adjectives take the hyphen: A 2-foot rule,
+10-horsepower engine, 16-candlepower light, 6-hundredweight
+load, many-colored coat, light-armed soldier, asked-for opinion,
+fine-grained wood, light-green color, etc.
+
+5. Compound the following:
+
+  mid-channel
+  double-loader
+  single-loader
+  pleuro-pneumonia
+  national-bank notes
+  re-treat (to treat again)
+  ante-mortem
+  micro-organism
+  micro-millimeter
+  micro-photograph
+  acre-foot (plural acre-feet)
+  foot-acre (plural foot-acres)
+  pound-foot (plural pound-feet)
+  post-mortem
+  foot-pound (plural foot-pounds)
+  foot-poundal (plural foot-poundals)
+  foot-second (plural foot-seconds)
+  second-foot (plural second-feet)
+  foot-ton (plural foot-tons)
+  pound-degree (plural pound-degrees)
+
+6. Follow compounding, etc., in the appended list of fishes and
+fishery appliances:
+
+  alewife
+  amber-fish
+  angel-fish
+  bag seine
+  bass net
+  bellows-fish
+  black bass
+  black-cod
+  blackfish
+  black perch
+  blue crab
+  bluefish
+  boat fishermen
+  boat-steerer
+  bomb-gun
+  bottom-feeding fish
+  bowhead whale
+  boxfish
+  brook trout
+  buffalo-fish
+  bullhead
+  bull’s-eye mackerel
+  buoy line
+  butter-fish
+  candle-fish
+  catboat
+  catfish
+  cigar-fish
+  coast line
+  codfish
+  codfish fishery
+  cod fishery
+  cod fishing
+  cod line
+  crampfish
+  crawfish
+  crayfish
+  crayfish pot
+  cultus-cod
+  cutting-in (of a whale)
+  datefish
+  dealfish
+  devil-fish
+  dingey
+  doctor-fish
+  dogfish
+  dollar-fish
+  drag net
+  drag seine
+  drift net
+  drumfish
+  fat-head
+  fiddler-crab
+  finback whale
+  fish-culture
+  fish eggs
+  fishing-camp
+  fishing-ground
+  fishing-place
+  fish roe
+  fish-wheel
+  flake-yard
+  flatfish
+  flying-fish
+  food-fish
+  frostfish
+  garfish
+  gill net
+  gill-net fishing
+  goldfish
+  goosefish
+  green crab
+  greenfish
+  ground line
+  hagfish
+  hair seal
+  hand lance
+  harbor porpoise
+  harpoon gun
+  hermit-crab
+  hickory-jack
+  hogfish
+  hoop net
+  horsefish
+  horse-mackerel
+  horseshoe-crab
+  houndfish
+  humpback whale
+  jackfish
+  jelly-fish
+  jewfish
+  jonah-crab
+  kelp-crab
+  kelpfish
+  kingfish
+  lady-crab
+  lady-fish
+  land-crab
+  landlocked salmon
+  live-car
+  lobster pot
+  lumpfish
+  mollusk
+  monkfish
+  moonfish
+  mossbunker
+  mud-crab
+  mudfish
+  muskellunge
+  mussel-crab
+  mutton-fish
+  nigger-fish
+  nursefish
+  oyster bed
+  oyster-crab
+  paddle-fish
+  pan-fish
+  parrot-fish
+  peacock-fish
+  pigfish
+  pilot-fish
+  pipefish
+  purse seine
+  ratfish
+  red crab
+  red-eye
+  redfish
+  red grouper
+  red-horse
+  red perch
+  red snapper
+  rock-bass
+  rock-cod
+  rock-crab
+  rockfish
+  rock lobster
+  rose-fish
+  round-fish
+  rowboat
+  rudder-fish
+  salmon canning
+  salmon-canning industry
+  salmon trout
+  sand-crab
+  sawfish
+  scallop
+  sea bass
+  sea-cucumber
+  sea-horse
+  seal oil
+  seal skin
+  sea moss
+  sea mullet
+  sea-urchin
+  seaweed
+  seine-haul
+  seine-reach
+  set net
+  sheat-fish
+  sheepshead
+  shellfish
+  shore-crab
+  skipjack
+  smelt net
+  snake-fish
+  snapping mackerel
+  soft crab
+  Spanish mackerel
+  spearfish
+  spider-crab
+  squeteague
+  squirrel-fish
+  starfish
+  steelhead
+  stingray
+  stone-crab
+  striped bass
+  sulphur-bottom whale
+  sunfish
+  swordfish
+  tautog
+  threadfish
+  tilefish
+  toadfish
+  tomcod
+  trammel net
+  trawl basket
+  trawling-ground
+  treefish
+  trigger-fish
+  trumpet-fish
+  trying-out (of a whale)
+  try-works
+  tubfish
+  weakfish
+  whaleboat
+  whalebone
+  whale line
+  whistling buoy
+  whitefish
+  wolf-fish
+  yellow-tail
+
+7. Fractions, when spelled, will be compounded: One twenty-first,
+one-fifth, eighty-one one-hundredths, one one-hundredth, the
+one-hundredth part.
+
+8. The words “well,” “so,” and “ill” will be used as follows:
+He is an ill-tempered man; he is very ill tempered. Well-meant
+intentions; his intentions are well meant. His so-called poem; his
+poem (so called) is, etc. But generally adverbs are not compounded
+with adjectives which they qualify: A divinely inspired book; a
+finely modeled statue; a nicely kept lawn.
+
+
+
+
+USE OF FIGURES.
+
+
+1. Where figures are used to express the time of day, use the
+period to separate the hours and minutes: It was 5.30 p. m.; 10.02
+a. m.
+
+2. Use degree and minute marks after figures in all cases referring
+to degrees and minutes, and where whole numbers and decimals are
+used place the marks after the decimals, as 14.25°; 13.5′; 24.36″.
+
+3. In straight matter and reading columns of tables, where decimal
+fractions occur without a unit, put a cipher in the unit’s place:
+0.38; but a .38-caliber revolver.
+
+4. Omit the comma in serial numbers: No. 165473; section 2436.
+
+5. Use inferior figures in all chemical symbols, and omit spaces
+between the letters and signs.
+
+6. Use superior figures in connection with reference letters, as
+A^1, A^2, _a_^1, _a_^2.
+
+7. It is impossible to give definite rules that will govern in all
+cases as to what should go in figures and what should be spelled
+out. It is a question which must be left to the judgment of the
+workman. General rules which will serve as a guide to the tendency
+of the style follow:
+
+
+PUT IN FIGURES--
+
+  =Distances=: 50 miles; 17 yards; 8 leagues.
+
+  =Clock time=: 10.25 p. m.; 12 o’clock and 30 minutes; half past 9.
+
+  =Weights=: 12 pounds of beef; 4 hundredweight of stone; 8 centals
+  of wheat; 2 grams of powder.
+
+  =Measures=: 40 bushels of wheat; 1 gallon of wine; 15 knots; 6
+  acres; 9 hectares.
+
+  =Degrees, etc.=: 17° 24′ 17″; 10° below zero; in longitude 46°
+  west (but tenth meridian of longitude, sixth degree of latitude,
+  etc.).
+
+  =Dimensions=: 16 feet square; 24 by (not x) 12 feet; 2 by 6 inch
+  plank; 4 kilometers square.
+
+  =Percentage=: 15 per cent; 27.4 per cent; but one-half of 1 per
+  cent, etc.
+
+  =Money=: $2 per 100 pounds; $1.37½ per bale; 35 cents apiece; a
+  25-cent piece; 20 francs.
+
+  =Age=: My age is 52 years and 6 months; a boy 6 years old;
+  3-year-old colt; 3-months-old child; wine 8 years old (but a
+  boy about six years old; wine four or five years old--where
+  indefinite and isolated, spell out).
+
+  =Population=: The population of Chicago is 1,000,000, of whom
+  150,000 are voters; a hamlet of 18 persons. (But see paragraphs 9
+  and 10 under “Spell out.”)
+
+  =Bonds or stocks=: Gold is 109; Metropolitan Railroad, 109;
+  5-20 bonds; 10-40 bonds; 7.30 bonds; 3.65 bonds; 4½ per cent
+  bonds; 3 per cent bonds; 3½ percents; 4 percents. Where the word
+  “bonds” does not follow the designating expression, spell out, as
+  five-twenties, ten-forties, three-sixty-fives, four-and-a-halfs,
+  threes, etc.
+
+  =Votes, ballots, etc.=: 75 votes; 50 ballots; 300 voters; 167
+  Democrats; 14 majority.
+
+  =Definite enumerations= (when of a statistical character): 275
+  persons, 6 sleek horses, 20 head of sheep, 9 dusty travelers; 43
+  reports, covering 109 pages. (But see paragraph 9 under “Spell
+  out.”)
+
+  =Dates=: June 29, A. D. 1882; December 6, 1846; the 1st of
+  January, 1883; June 12; the 5th instant; the 20th day of March;
+  the 1st (day) of the month. July 4, 1776, was the great day which
+  gave to the world the celebrated Declaration of Independence,
+  and now our Fourth of July is something to be remembered by all
+  patriotic Americans; 4th of July claims.
+
+  =Serial numbers=: Section 3; No. 1728; paragraph 247; page 125;
+  volume 6 (or Volume VI, as written); 1536 Ninth street; Route No.
+  17342; clerk of class 3.
+
+
+SPELL OUT--
+
+1. Length of time: It lasted fifteen years; we were three days on
+the way; four hours and ten minutes.
+
+2. Amounts or numbers larger than 1,000, if spelled, are expressed
+thus: One thousand eight hundred and fifty dollars; A. D. eighteen
+hundred and fifty; number seventeen hundred and twenty-two. But
+in serial numbers, where even multiples of one thousand occur, use
+the word “thousand,” as section two thousand and four (not twenty
+hundred and four); paragraph seven thousand and sixty-nine.
+
+3. When beginning a sentence: Five million dollars’ worth; in other
+cases, $5,000,000 worth.
+
+4. All amounts beginning sentences or paragraphs, except when, in
+testimony, an answer begins with a serial or complex number, in
+which case use figures. Examples:
+
+  Q. In what year was that?--A. 1876.
+  Q. What was the amount involved?--A. $101.50.
+  Q. How much was the sum?--A. Five (or fifteen, or sixty-seven)
+         dollars.
+
+5. Numbered streets of all cities, except in tabular matter.
+
+6. Regimental numbers of United States Regular or Volunteer Army,
+as Eighth Infantry, One hundred and ninth Ohio Regiment, Third
+Massachusetts Cavalry.
+
+7. Sums of money, when they are referred to in a general way, as
+“four or five millions,” or “I would not contribute one dollar to
+such a purpose.” [This is not to be construed as meaning round
+numbers, but simply a general or indefinite statement.]
+
+8. Isolated fractions not connected with whole numbers, as
+one-fourth, three-tenths.
+
+9. Isolated enumerations less than 10: “I saw three men at work.”
+“There were four horses in the field.”
+
+10. Number of persons, when not in statistical matter or when
+general or indefinite: “There were thirty or forty persons in the
+town.”
+
+11. When numbers are mentioned casually, or by way of illustration,
+or in connection with serious and dignified subjects, they should
+be spelled out:
+
+  In nine hundred and ninety-nine cases out of every thousand.
+  It is now five years since I first took my stand in opposition to
+        this measure, and if my stay among  you should be extended
+        to twenty years instead of five, I shall still be found
+        opposing it with the same earnestness as at first.
+  Millions for defense, but not one cent for tribute.
+  The twelve Apostles.
+  The three Graces.
+  The nine Muses.
+  The seven wise men of Greece.
+  For twelve years he struggled manfully and the thirteenth year
+        crowned his efforts with success.
+  Congress has now been in session two months and three weeks,
+        lacking two days.
+  It is twenty-four years since the rebellion turned the two sections
+        of our country into two armed bodies composed of two or three
+        million men.
+  It is the twelfth hour which is dreaded most at night by
+        superstitions mortals.
+  At eleven and a half o’clock.
+  In the thirtieth degree of latitude the thermometer reached the
+        fifth degree above zero.
+
+12. When a paper is divided into clauses numbered “1, 2, 3,” etc.,
+in the copy, put in figures; but if written “1st, 2d, 3d,” etc.,
+spell out.
+
+
+
+
+TABULAR WORK.
+
+
+=_Box heads_=.--Box heads should be run across whenever
+practicable; if it is necessary to run them up, reduce to the
+minimum depth.
+
+In boxes of two or more lines which run across, or where two or
+more boxes occur in the same head, use en quads above and below the
+greater number of lines.
+
+In boxes of three lines or more in depth and 10 ems or more in
+width over reading columns or over several figure columns, and in
+all run-up heads of three lines or more, make hanging indention;
+otherwise center each line.
+
+In boxes containing two lines the first line must be the longer
+when possible.
+
+=_Contractions_=.--In columns of names of persons, follow copy
+in the use of contractions of given names; but to avoid overruns
+always contract such names as William and Charles. Use “Co.” for
+“Company” where the name of the company is given; use “R. R.” for
+railroad and “Rwy.” for railway where the name of the railroad or
+railway is given, and use Bro. and Bros. in firm names. Contract
+names of months whenever the day of the month is given, excepting
+in first columns consisting of dates only, which may, however, be
+contracted to save overruns. All other well-known contractions
+can be used, by direction of copy preparer, to save overruns. The
+following contractions for months of the year will be used:
+
+  January      Jan.
+  February     Feb.
+  March        Mar.
+  April        Apr.
+  May          May
+  June         June
+  July         July
+  August       Aug.
+  September    Sept.
+  October      Oct.
+  November     Nov.
+  December     Dec.
+
+=_Use of “dittoes.”_=--Ditto whenever it can properly be done, and
+ditto under blank spaces in all cases excepting center heads, but
+never ditto under leaders.
+
+In columns less than 6 ems in width use 1½ ems of quads (in
+addition to en quad used for bearing off) or 2 ems of leaders, as
+may be required, before the “do.”; in columns of 6 ems and over,
+use 2 ems of quads (in addition to en quad used for bearing off) or
+2½ ems of leaders.
+
+In first columns, where flush headings are used with indentions
+under them, proportionate allowance must be made for those
+indentions, and it will generally be indicated by the copy preparer.
+
+=_Date columns._=--In 7-em date columns, bear off 3-em space
+from rules, use only en commas after day of month, and put the
+remaining space between month and day. Observe same style in 5-em
+date columns, with the exception of using en quads instead of 3-em
+spaces in bearing off from rules.
+
+Ditto in both 5 and 7 em columns.
+
+=_Leading from top or bottom lines_=.--Where there is only one
+reading column, lead from the bottom; if more than one, from the
+top.
+
+Date columns are not classified as reading columns in connection
+with leading from top line.
+
+In parallel tables, where the lines are numbered on the outside of
+each page, lead from the top.
+
+Where the last word in a leader line runs close to the rule, use
+en leader if space permits; if not, use a thin space, but never
+use a full point, excepting where a reference mark follows an
+abbreviation.
+
+Unless specially directed otherwise, continue leaders across entire
+width of tables when the right-hand columns are of figures; when
+the last column is a reading column, omit the leaders from that
+column only.
+
+=_Figures in reading columns_=.--Numerical expressions in reading
+columns will be expressed in figures, even at the beginning of the
+sentence: 155 days from Dec. 1; trains 3 times a day.
+
+=_Figures from or against rules._=--In figure columns bear off an
+en quad from rules on right of figures; and so make the cast as
+to bear off the longest line of figures an en quad from the rule
+on the left where possible. If crowded, and but few figures will
+touch, close up on the left; if still more crowded, close up on the
+right. If found necessary to set the figures in one column against
+the rule on the right (which, by the way, must always be done
+before closing up on the left when the mass of figures is of nearly
+even width), do the same with the remaining columns of the table.
+Exceptions will be marked by copy preparer.
+
+Common fractions to be set against rules unless otherwise indicated.
+
+=_Decimals._=--In columns of figures containing decimals omit the
+point and ciphers where no decimal occurs. This rule does not apply
+to money columns consisting of both dollars and cents, where the
+points and ciphers will be used. Always align the decimal points.
+
+=_Dollar mark._=--Repeat dollar mark under rules in continuous
+tables; also in leader work where center heads occur indicating a
+separate or independent statement. But in statements where amounts
+are added to make a general aggregate do not repeat the dollar
+mark, even where center heads occur.
+
+=_Parallel dashes._=--Use parallel dashes in figure columns in all
+cases where necessary to cut off from figures following. This rule
+will apply also to leader work.
+
+=_Tables in rules._=--In tables inclosed in rules, where the first
+column consists of figures, do not use leaders. [This rule will
+not apply to date columns or to reading columns clearly requiring
+leaders.] Bear off matter one em from side rules.
+
+=_Full point in leader lines._=--Use full point between
+abbreviation and reference mark in leader lines, as Boston, Mass.†
+...
+
+=_Blanks for center heads._=--Use full blank line above and below
+all center heads in stubs or reading columns, excepting where
+leaders run back far enough to clear the head, in which case use
+only a line of en quads below.
+
+=_Plus and minus marks._=--Plus and minus marks in figure columns
+must be aligned when occurring at left of figures.
+
+=_Dates and figures in reading columns._=--Do not range dates or
+figures in first or reading columns unless figures are added up to
+make a total. This rule will apply also to leader work.
+
+=_En-quadded tables._=--Use en quads in runovers [copy preparers
+will give instructions when change is desired]; scabbard will not
+be allowed; all box heads solid.
+
+=_Reference marks._=--Set off all reference marks a 5-em space when
+preceding words or figures. Use superior figures (^1, ^2, ^3, etc.)
+for reference marks and footnotes in all cases, unless otherwise
+instructed. In a series of short footnotes range the reference
+marks, and also the first letter of the note.
+
+=_Words in figure columns._=--Range all words occurring in figure
+columns one en from rule on right; also capitalize and use full
+point.
+
+=_Indention from rules._=--An indention from a rule means so many
+ems in addition to the en quad used for bearing off.
+
+=_Word “number.”_=--Spell the word “number,” referring to quantity
+or things, in box heads where possible. Where necessary to
+abbreviate or where used in connection with serial figures, use
+“No.”
+
+=_Flush and sub heads._=--Use colons after flush heads and em
+dashes after heads subordinate thereto.
+
+=_Units of quantity._=--Units of quantity to the right of reading
+columns and over figure columns will be spelled where possible.
+Where the space available demands a contraction, use the following
+forms: Dolls., galls., lbs., oz., bbls., cwt., yds., ft., in.
+(inches), doz., bush., M, sq. feet, M feet, cub. feet, kilo.,
+kilos. Observe style of the following table:
+
+
+              [[TABLE -- PART 1 of 2]]
+  -------------------------------------------+-------------------+
+                                             |  Between Chicago, |
+                                             |     Ill., and--   |
+                   Articles.                 +---------+---------+
+                                             | Jackson-| Athens, |
+                                             |  ville, | and Ma- |
+                                             |   Fla.  | con, Ga.|
+  -------------------------------------------+---------+---------+
+  Agricultural implements:                   |         |         |
+    C. L. (weight 20,000 pounds) per 100 lbs |   $0.87 |   $0.85 |
+    C. L. (weight 20,000 pounds), released,  |         |         |
+                              per 100 pounds |     .58 |     .58 |
+  Apples, onions, potatoes, cabbage, beets,  |         |         |
+    and turnips, straight and  mixed, C. L.  |         |         |
+                                 per 100 lbs |     .43 |     .43 |
+  Beans and pease, in barrels or sacks  do   |     .73 |     .71 |
+  Butter:                                    |         |         |
+      Dairy--                                |         |         |
+          In wood                       do   |    1.35 |    1.47 |
+          In wood, released             do   |    1.00 |    1.06 |
+  Flour:                                     |         |         |
+      In barrels                  per barrel |     .44 |     .74 |
+      In sacks                per 100 pounds |     .28 |     .41 |
+  Grain, in bulk, C. L.                 do   |     .27 |     .37 |
+  Hominy and grits                per barrel |     .54 |     .73 |
+  -------------------------------------------+---------+---------+
+
+              [[TABLE -- PART 2 of 2]]
+  -------------------------------------------+----------------------------
+                                             |  Between St. Louis, Mo.,
+                                             |          and--
+                   Articles.                 +---------+---------+--------
+                                             | Jackson-| Athens, |Atlanta,
+                                             |  ville, |   Ga.   |   Ga.
+                                             |   Fla.  |         |
+  -------------------------------------------+---------+---------+--------
+  Agricultural implements:                   |         |         |
+    C. L. (weight 20,000 pounds) per 100 lbs |   $0.84 |   $0.82 |   $0.82
+    C. L. (weight 20,000 pounds), released,  |         |         |
+                              per 100 pounds |     .56 |     .56 |     .56
+  Apples, onions, potatoes, cabbage, beets,  |         |         |
+    and turnips, straight and  mixed, C. L.  |         |         |
+                                 per 100 lbs |     .41 |     .41 |     .41
+  Beans and pease, in barrels or sacks  do   |     .70 |     .68 |     .68
+  Butter:                                    |         |         |
+      Dairy--                                |         |         |
+          In wood                       do   |    1.23 |    1.25 |    1.35
+          In wood, released             do   |     .95 |    1.01 |    1.01
+  Flour:                                     |         |         |
+      In barrels                  per barrel |     .48 |     .68 |     .62
+      In sacks                per 100 pounds |     .23 |     .38 |     .35
+  Grain, in bulk, C. L.                 do   |     .22 |     .32 |     .29
+  Hominy and grits                per barrel |     .56 |     .64 |     .58
+  -------------------------------------------+---------+---------+--------
+
+=_Leader work._=--Leader work is not classified as tabular work.
+
+=_Continued heads._=--Continued heads over tables must be condensed
+into one line where possible.
+
+
+
+
+FOLLOW--FOL. LIT.
+
+
+1. Copy marked “fol.” means to follow figures, italics,
+abbreviations, idiomatic words and expressions, and &c. or etc.,
+but not capitalization or punctuation. The exceptions are: (1)
+Always spell out the & except in firm names; (2) always spell
+out the % mark; (3) always use “at” or “to,” as the case may be,
+instead of the commercial @. All orthography in “fol.” matter is
+good that has the sanction of any dictionary.
+
+2. Copy marked “fol. lit.” means follow everything--caps,
+punctuation, and contractions.
+
+
+
+
+COURT WORK.
+
+
+COURT OF CLAIMS OPINIONS, BRIEFS, AND DECISIONS.
+
+1. In the case of _The United States_ v. _Union Pacific Railroad
+Company_ (99 U. S., 22), the court
+
+2. In the case of _United States_ v. _The Union Pacific Railroad
+Company_ (99 U. S., 33), the court
+
+3. (_The United States_ v. _Union Pacific R. R. Co._)
+
+4. (_United States_ v. _The Union Pacific R. R. Co._)
+
+5. In _Taylor’s Case_ (16 C. Cls. R., 14) the claimant. (_Taylor’s
+Case_, 16 C. Cls. R., 14.)
+
+6. In _Taylor_ v. _Smith_ the court held
+
+7. _Edwards’s Lessee_ v. _Darby_ (12 Wheat., 210)
+
+8. _Legal-Tender Case_ (110 U. S., 334)
+
+9. (_Ex parte_ Robinson, 19 Wall., 304)
+
+10. In Taylor’s Case the court say; in the case of Taylor there was
+
+11. In the case of _Payne_ (7 U. S., 252)
+
+12. By the _Act of March 3, 1881_, chapter 34, section 4 (Rev.
+Stat., § 33).
+
+13. _Bowman Act_ (22 Stat. L., ch. 4, § 9, p. 284); the Bowman Act
+was referred to.
+
+14. _Act 5th August, 1882_ (Supp. Rev. Stat., 284; Stat. L., 84).
+
+15. In the petition (Rec., p. 7) there is
+
+16. In the record (p. 7; Test., p. 7; Ev., p. 7; Rec., p. 9; q. 7;
+c. q. 7; int. 7; c. int. 7; qq. 6-9; c. qq. 7-9; ints. 9, 10)
+
+17. Finding VI--the sixth finding; section 6--the sixth section.
+
+18. Omit quotation marks for exhibits in all cases except “fol.
+lit.”
+
+19. “United States” to be used in the singular number where
+practicable.
+
+20. In Court of Claims records, when questions are numbered, let
+the number precede the question: 23. Question.
+
+21. Spell out “Question” and “Answer” and make separate paragraphs.
+
+22. When the title of the case is braced to the left, the rule is
+to have the braced portion occupy two-thirds of the line; but this
+may be varied to avoid bad divisions or when there is but little
+matter inside the brace.
+
+23. Make sentences of citations, excepting (p. 84) or (pp. 90-95).
+
+(See also “FOLLOW--FOL. LIT.”)
+
+
+SUPREME COURT RECORDS.
+
+  24. X Int.
+  X Int. 1.
+  X 20.
+  24. X.
+  24. Q.
+  24. Question.
+  X Q. 1.
+  24. Int.
+  1. X Q.
+  X Ques. 1.
+  1. Add. Direct.
+  2. R. D. Q.
+  3. Re D. Q.
+  4. R. X Q.
+  Re X Q. 1.
+  R. X Int. 1.
+  5. Re X Q.
+  24th. Cross-ques.
+  46th. Cross-int.
+  46. Cross-int.
+  46. Cross-ques.
+  46. C. Int.
+  46th. C. Int.
+  Answer to Cross-int. 1.
+
+1. Follow copy literally, except italics (which stand for errors
+only), capitalization, and punctuation.
+
+2. Use italic letters to indicate errors of orthography and
+apostrophes to indicate errors of omission. In case of a doublet,
+italicize the repeated portion. Use no dashes, but indicate blanks
+with quads.
+
+3. Make paragraphs of answers in Q. and A. matter.
+
+4. Use apostrophes in unusual abbreviations, such as Feb’y, c’t,
+etc.; but in well-established abbreviations use the period, as Mr.,
+deft., plff.
+
+5. Many words, although not spelled according to Webster, if
+sanctioned by other authorities, should be set without italic
+letters.
+
+6. Italics should not be used to indicate errors of syntax, or
+errors of orthography, in foreign languages, except in law terms,
+as fi_a_ri f_e_cias; nor should italics be used in variations of
+orthography of proper names of persons or places.
+
+7. Where the name of a corporation occurs beginning with the word
+“the,” use a cap. T, thus: the said The B. & O. R. R. Co.; The Sun
+v. The Globe; The City of Washington v. The B. & O. R. R. Co.; the
+defendant The Davies County Bank.
+
+8. Errors in italics will always be indicated by roman letters,
+thus: _fi_e_r_e _f_e_cias_, _co_n_plain_e_ants_.
+
+9. Names of vessels will be set in roman, quoted.
+
+10. Do not change the spelling of proper names, nor use italics to
+indicate errors therein.
+
+(See also “FOLLOW--FOL. LIT.”)
+
+
+
+
+GENERAL TESTIMONY.
+
+
+1. Contract the first Q. and A., as well as the following ones.
+
+2. Make one paragraph of question and answer, connecting the
+question and its answer by an em dash.
+
+3. Where the answer is not introduced by the usual “A.,” “Ans.,” or
+“Answer,” or where the name or title of a participant is used, make
+a new paragraph.
+
+4. The following examples illustrate the use of brackets, colons,
+and parentheses:
+
+  The CHAIRMAN (to Mr. Smith).
+  Mr. KELLEY (to the chairman).
+  The WITNESS. He did it that way [indicating].
+
+  Q. (By Mr. SMITH.) Do you know these men [handing witness a list]?
+  (Objected to.)
+  A. (After examining list.) Yes; I do.
+
+  Q. (Continuing.)--A. (Reads:)
+  Question (continuing).--Answer (reads):
+  A. (Interrupting.)
+  Answer (interrupting).
+  (Counsel objects to its admission.)
+
+5. Observe punctuation in the following paragraphs:
+
+  The defendant, George Brown, stated to the court, etc. [where there
+        is only one defendant (or plaintiff) in the case].
+  The defendant George Brown stated to the court, etc. [where there
+        are two or more defendants (or plaintiffs) in the case].
+
+(See also “FOLLOW--FOL. LIT.” and paragraph 3 under
+“MISCELLANEOUS.”)
+
+
+
+
+USE OF ITALIC.
+
+
+1. Names of vessels and generic names should be set in italic,
+except in tabular matter, indexes, lists set in columns, and
+Supreme Court work.
+
+2. The words “see,” “see also,” etc., in italic in indexes only.
+
+3. Italic will not be followed in general work, either for foreign
+words or for emphasis, unless special instructions to that effect
+are given.
+
+4. When letters are used as references in explaining diagrams,
+figures, etc., use italic for lower-case references and roman for
+caps, not quoted: Cogwheel _a_; pinion B; angle _ab_; line CD;
+points _a_, _b_, _c_, _d_, _e_.
+
+(See also “FOLLOW--FOL. LIT.”)
+
+
+
+
+MISCELLANEOUS.
+
+
+1. Use spaces in place of hyphens in Indian names.
+
+2. Treat all side and cut-in notes as paragraphs.
+
+3. Observe the following examples of punctuation:
+
+  George G. Greene, being sworn and examined, on oath deposes
+        and says:
+  Isaac Fuller, sworn, and testified as follows:
+  P. L. Rodier, sworn and examined.
+  Colonel Seventh Cavalry.
+  Captain, Seventh Cavalry.
+  Respectfully, yours,
+  Yours, respectfully,
+  Congressional, No. 25.
+  Congressional case No. 25.
+  Record, case No. 384.
+  Term No., 625.
+  Indian Depredations, No. 25.
+  Indian depredation case No. 625.
+  French Spoliations, No. 18.
+  French spoliation case No. 325.
+  first session Fifty-third Congress.
+  Jones & Co., Limited.
+  Latitude, 40° 19′ 12″ north; longitude, 30° 8′ 14″ west.
+  In latitude 40° 19′ 12″ north, longitude 30° 8′ 14″ west.
+  Have you any interest in this case? If so, what?
+  Have you any interest in this case? If so, state what.
+  Have you any interest in this case; and if so, what?
+  Have you any interest in this case? And if so, state what.
+
+4. “Line of stars” means seven asterisks in a full-measure line,
+indented two ems at each end, the remaining space to be evenly
+divided between the stars. Exception: In briefs, etc., set in
+“general-order” measure, use but five asterisks, indented two ems
+at each end.
+
+5. Avoid, by overrunning, the use of a dash at the beginning of a
+line, two-letter divisions, and the repetition of divisions at the
+end of three or more contiguous lines.
+
+6. After addresses at the head of communications use the period,
+as--
+
+  Hon. AMOS J. CUMMINGS,
+  _House of Representatives_.
+  DEAR SIR: I have the honor, etc.
+
+  Lieut. Commander RICHARD RUSH,
+  _Navy Department_.
+  DEAR SIR: The care shown by you, etc.
+
+7. Use en quads in cap and small-cap lines in addresses and in
+signatures, and a proportionate increase of space in heads of
+extended type.
+
+8. In illustrating certain shapes or forms, as ⟙ rails, use gothic
+letters (case 288 cap. in long-primer text, and case 287 cap. in
+brevier text).
+
+9. In solid matter, when extracts, etc., are set in smaller type,
+separate by using two leads; in leaded matter use three leads.
+
+10. Use two leads before footnotes in all cases.
+
+11. Where slugs are called for specially, use a slug of same body
+as type.
+
+12. Separate center heads from text by slugs one size less than
+type used.
+
+13. When two consecutive years are intended, set: 1875-76, 1801-2;
+when more than two consecutive years are intended: 1875-1879,
+1895-1904; when two or more distinct years are intended: 1894,
+1895; 1873, 1876; 1888, 1891, 1894.
+
+14. When laws are set in long-primer type, document measure, the
+first line of the enacting clause must be set so as to conform to
+the following examples:
+
+  _Be it enacted by the Senate and House of Representatives of the
+        United_
+
+  _Resolved by the Senate and House of Representatives of the
+        United States_
+
+15. In indexes, when the page folios overrun, retain only the
+first folio number in the leader line; but when necessary to save
+an overrun, figures may be run back to within an em leader of the
+words. When the folios overrunning make two or more lines, indent
+evenly not less than seven ems on the left, the folios in excess
+of even-length lines to be worked into the leader line. When the
+figures extend back into the leader line, use an en quad between
+the leaders and the first figure.
+
+16. Never divide a word in a headline if it can possibly be
+avoided. In subhead and legend lines it is not necessary to make
+the first line full.
+
+17. Always keep together, at the beginning or end of a line, such
+abbreviations as U. S. N.; D. C.; N. Y.; N. J.; M. D., etc. The
+contractions esq., sr., and jr. should always be in the same line
+with the name they follow.
+
+18. Never divide the last word of a paragraph if it can be avoided;
+overrun if necessary. The last line of a paragraph should contain
+at least a four-letter word.
+
+
+
+
+BILL STYLE.
+
+
+Unless special directions are given--sometimes necessary in
+particular cases--the following rules govern the printing of bills:
+
+
+Type.
+
+1. Bills are always set in English type, full-slugged.
+
+2. A new bill is always all roman, italic being used only for the
+enacting clause and the word “_Provided_.”
+
+
+Side Folios.
+
+3. The direction “Allow for two figures” means that TWO 1-EM quads
+(not one 2-em quad) are to be used in allowing for side folios at
+left of text. “Allow for three figures” means indent two 1-em quads
+and 1 en quad.
+
+4. Always supply the word “That” immediately following the section
+number, and after the word “_Provided_” of a proviso.
+
+5. Begin side folios with figure 1 at the first line of each
+section. Exceptions to this are sometimes made for convenience in
+handling, and side folios begun with figure 1 at the top of each
+page; but in such cases special instructions will be given.
+
+
+Engrossed and Enrolled Bills.
+
+6. A bill is said to be _engrossed_ when it has passed one House of
+Congress; to be _enrolled_ when final action has been taken in both
+Houses.
+
+7. Follow literally in engrossed and enrolled bills. This applies
+to the title of the bill on the filing or indorsement as well as to
+the text, but not to the caption of engrossed amendments.
+
+
+Heads and Indorsements.
+
+8. The “indorsement” on a bill is the form printed on the back for
+convenience of reference when folded. “Document style” prevails
+on indorsements until the bill reaches the “engrossed” stage.
+Senate bills differ from House bills in the forms used in heads
+and indorsements. As a bill progresses new “actions” appear, which
+should be set in the same style as the “actions” that precede. The
+“style” of a head or indorsement is governed by the “style” for the
+branch of Congress in which the bill is pending. Examples of a new
+bill in each House are given on the following page:
+
+
+HEADING OF HOUSE BILL.
+
+  --[Cast.]--             --[Cast.]--
+  53D CONGRESS,           H. R. 9846.
+  _3d Session_.
+
+  [English caps--cast.]
+  IN THE HOUSE OF REPRESENTATIVES.
+
+  [Long primer type.]
+  DECEMBER 22, 1894.
+
+  Referred to the Committee on Claims and ordered to be printed.
+
+  [English type.]
+  Mr. WILSON, of West Virginia, (by request) introduced the following
+        bill:
+
+  --[Cast.]--
+  A BILL
+
+  [English type.]
+  For the relief of George Washington Watkins, of Martinsburg, West
+        Virginia.
+  [Slug.]
+
+  _Be it enacted, etc._, That
+
+
+HEADING OF SENATE BILLS.
+
+  --[Cast.]--             --[Cast.]--
+  53D CONGRESS,           S. 4973.
+  _3d Session_.
+
+  [English caps--cast.]
+  IN THE SENATE OF THE UNITED STATES.
+
+  [Long primer type.]
+  JANUARY 4, 1895.
+
+  Mr. VOORHEES introduced the following bill; which was read
+  twice and referred to the Committee on Pensions.
+
+  --[Cast.]--
+  A BILL
+
+  [English type.]
+  Granting an increase of pension to the survivors of the Mexican War.
+  [Slug.]
+
+  _Be it enacted, etc._, That
+
+
+INDORSEMENTS.
+
+  _House._                              _Senate._
+
+  53D CONGRESS,}                        53D CONGRESS,} S. 4973
+   _3d Session_. }  H. R. 9846.         _3d Session_. }
+
+  ==================                    ==================
+
+  A BILL                                A BILL
+
+  For the relief of George Washington   Granting an increase of pension
+    Watkins, of Martinsburg, W. Va.       to the survivors of the
+                                          Mexican War.
+
+  ==================                    ==================
+  By Mr. WILSON, of West Virginia.      By Mr. VOORHEES.
+  ==================                    ==================
+
+  DECEMBER 22, 1894.--Referred to the   1895--JANUARY 4.--Read twice
+    Committee on Claims and ordered       and referred to the Committee
+    to be printed.                        on Pensions.
+
+9. In indorsements on bills in the Senate use a 9-em dash under the
+bill number; on bills in the House a parallel dash.
+
+10. The name of the introducer of a bill or resolution is carried
+under the title in the indorsement, in long primer caps and small
+caps, between parallel rules, in both Houses, through each printing
+until bill or resolution passes one House.
+
+11. When the title of a bill on the indorsement makes more than two
+lines, indent the runovers 1½ ems; center the title when it makes
+but one or two lines. On the face of the bill where a title makes
+more than one line, set the first line to full measure, centering
+the runover if there be two lines in the title; if more than two
+lines, indent the runovers 2 ems.
+
+12. Titles for HOUSE BILLS are taken from the INDORSEMENT of copy;
+for SENATE BILLS from the FACE of copy.
+
+13. Preambles are set full measure, the first line of each
+“whereas” being flush and the runovers indented 2 ems. Where an
+agreement or treaty is part of a preamble, follow literally,
+indenting the paragraphs 4 ems and runovers 2 ems, full measure.
+
+14. Titles and preambles following the head of a bill are always
+half-slugged.
+
+15. Set “Calendar No.--,” on both face and indorsement of bills
+which have reached the Senate Calendar, in each case at the upper
+right-hand corner.
+
+16. Set “Report No.” on both face and indorsement of reported bills
+in both Houses, centering under the number of the bill.
+
+[It is impracticable to give illustrations of the minutiæ of
+headings and indorsements of bills in all their stages. Samples and
+information can always be had upon inquiry at the foreman’s desk.
+Compositors and others must familiarize themselves with the forms
+called for by the clerks’ notes on copy.]
+
+
+Amendments.
+
+17. “Line type” and italic are used only to show amendments. When
+it is proposed to strike out certain portions in a bill that is
+“reported with amendments,” such portions will be set in “line
+type.” Example:
+
+  in accordance with ++existing++ _proposed_ plan, ++twenty++
+  _twenty-five_ thousand dollars.
+
+18. When new matter is inserted, it is set in italics.
+
+19. When it is proposed to strike out and insert, always let the
+italics FOLLOW the line type.
+
+20. Do not complicate amendments. When one amendment can be made to
+cover the sense, as in the complete changing of a sum of money, so
+set it, rather than divide into two or more short amendments.
+
+21. Proposed Senate amendments are printed in bill form, all roman.
+The general style of the head may be either that of bills or of
+“miscellaneous documents.” These headings are generally in proper
+form as they come from the bill clerk.
+
+22. When it is proposed in the Senate to make several short
+amendments, the caption should read as follows:
+
+
+  AMENDMENTS
+
+  Intended to be proposed by Mr. HOAR to the bill (H. R. 4864) to
+        reduce taxation, to provide revenue for the Government, and
+        for other purposes, viz:
+
+  1 In line 24, page 19, strike out the words “per centum ad valorem”
+        and insert the words
+  2 “cents per pound;” in line 16, page 25, strike out the word “shall;”
+        and in line 12, page 34, after
+  3 the word “and,” insert the word “any.”
+
+23. When a proposed amendment in the Senate is expressed by one or
+more full paragraphs, the caption should read:
+
+  AMENDMENT
+
+  Intended to be proposed by Mr. GORMAN to the bill (H. R. 2476)
+        entitled “An Act to establish a fish-hatching station at Port
+        Tobacco, Maryland,” viz: After the word “Maryland,” in line 14,
+        section 2, insert the following:
+
+  1 To enable the United States Commissioner of Fish and Fisheries to
+        carry out the provisions
+  2 of this act there is hereby appropriated the sum of seventy-five
+        thousand dollars.
+
+
+Reported Bills.
+
+24. Observe the difference in _form_ of action taken on Senate and
+House bills reported with amendments:
+
+  _House._--
+
+  DECEMBER 12, 1894.
+
+  Reported with amendments, committed to the Committee of the Whole
+        House, and ordered to be printed.
+
+  Omit the parts struck through and insert the parts printed in
+        _italics_.
+
+  _Senate._--
+
+  DECEMBER 13, 1894.
+
+  Reported by Mr. HARRIS with an amendment, viz: Omit the part struck
+        through and insert the part printed in _italics_.
+
+[The wording varies with the necessities of the case, but the style
+remains the same.]
+
+
+General Instructions.
+
+25. Spell out everything, except “Mr.,” “Mrs.,” and classification
+of vessels, as “A 1.” On indorsements follow document style.
+
+26. Make the contractions “&c.” and “etc.” read “and so forth,” and
+in the title and body of a bill make “viz” read “namely.”
+
+27. When, in the use of figures, the comma is used in ordinary work
+to show notation, in bills thousands and hundreds are spelled; as,
+for 1,750, make it “one thousand seven hundred and fifty.”
+
+28. In serial numbers, or where the comma is not used in general
+work, spell by hundreds all numbers less than 10000; as, for
+2742, make it “twenty-seven hundred and forty-two;” but in serial
+numbers where even multiples of one thousand occur, use the word
+“thousand,” as “section two thousand and four,” “paragraph seven
+thousand and sixty-nine” (not “twenty hundred and four” or “seventy
+hundred and sixty-nine”).
+
+29. Years and dates are expressed thus: June thirtieth, eighteen
+hundred and ninety-three.
+
+30. When the expression usually indicated by “No.” occurs, use the
+word “numbered.” Observe, in this connection, the capitalization
+for kindred expressions: House Executive Document Numbered Eighteen.
+
+31. References to the Revised Statutes, Statutes at Large, court
+reports, etc., are expressed thus: Revised Statutes, page two
+hundred and forty-two; Twelfth Statutes, page eleven hundred and
+sixteen; Tenth Court of Claims Reports, page ten.
+
+32. Capitalize the word “act” wherever it occurs as a synonym for
+“bill” or “law.”
+
+33. The indorsement on a printed bill must always fall on an even
+page. In House bills 4 lines of text may be worked in with the
+indorsement, and in Senate bills 7 lines.
+
+
+Special Instructions for Enrolled Bills.
+
+34. Set in quarto measure, paragraphs indented 2 ems.
+
+35. Lead with 3-to-pica leads. When center heads occur use a full
+pica slug above and below.
+
+36. Set entirely in roman type, except the enacting clause and
+“Provided,” which go in _italic._
+
+37. Avoid divisions of words and space evenly. Two-letter divisions
+must not be made.
+
+38. In enrolled bills of the _Senate_ place the bill number (using
+the form “S. 146”) in pica antique, at the upper _left-hand_
+corner. In enrolled bills of the _House_ the number goes at the
+upper _right-hand_ corner, using the form “H. R. No. 4864.”
+
+39. In enrolled bills of the Senate use a parallel dash above and
+below title; in those of the House use the parallel dash above
+only, with two full slugs below.
+
+
+
+
+JOURNAL WORK.
+
+
+GENERAL DIRECTIONS.
+
+Spell out States after county in both Journals.
+
+The Journals are set in brevier, solid, Record measure, and as a
+rule Record style prevails.
+
+Compositors will observe the style of the following paragraphs:
+
+
+HOUSE.
+
+MONDAY, DECEMBER 3, 1894.
+
+A message from the Senate, by Mr. Cox, its Secretary, announced
+that the Senate had passed a bill entitled:
+
+S. 2905. An act for the relief of John M. Smith.
+
+It also announced that the Senate had passed bills of the following
+titles, in which the concurrence of the House was requested:
+
+S. 2000. An act for the relief of James Robinson; and
+
+S. 2001. An act granting a pension to Sam Jones.
+
+It further announced that the Senate had passed, without amendment,
+the bill (H. R. 10241) to amend “An act making appropriations for
+the construction, repair, and preservation of certain public works
+on rivers and harbors, and for other purposes,” approved July 4,
+1894.
+
+The committees were called for reports;
+
+When,
+
+Bills were reported, the reports thereon ordered to be printed, and
+referred to the Calendars as follows:
+
+By Mr. Black, of Illinois, from the Committee on Military Affairs,
+the bill entitled (S. 527) an act to construct a road to the
+national cemetery at Dover, Tenn.--to the Committee of the Whole
+House on the state of the Union.
+
+The amendments recommended by the Committee of the Whole were then
+agreed to, and as amended the bill was ordered to be engrossed, was
+read a third time, and passed.
+
+The Speaker laid before the House the bill entitled:
+
+S. 1262. An act for the relief of Paul McCormick;
+
+Which was referred to the Committee on Claims.
+
+The Speaker pro tempore laid before the House the bill--with
+amendments of the Senate thereto--entitled:
+
+H. R. 3458. An act extending the time for final proof on land
+claims under the public land laws.
+
+On motion of Mr. Sweet the amendments were concurred in.
+
+Mr. Pearson, from the Committee on Enrolled Bills, reported that
+the committee had examined and found truly enrolled bills of the
+following titles; which were thereupon signed by the Speaker, to
+wit:
+
+H. R. 868. An act for the relief of John Smith;
+
+S. 1896. An act for the relief of Mrs. Lucinda Brown; and
+
+H. R. 3858. An act to pension John Jones.
+
+By Mr. Maguire: A resolution for the appointment of a special
+committee to investigate Pacific railroads--to the Committee on
+Rules.
+
+By Mr. Holman:
+
+Whereas it appears by an act passed June 4, 1894, the sum of
+$10,000 was appropriated to enable the Secretary of War, etc.; and
+
+Whereas it is alleged that trouble exists, etc.;
+
+_Resolved_, That the Committee on Military Affairs be authorized to
+settle the difficulty-- to the Committee on Military Affairs.
+
+The Committee on Indian Affairs was called;
+
+When,
+
+On motion of Mr. Lynch, on behalf of said committee, the House
+resolved itself into Committee of the Whole House on the state of
+the Union for the consideration of the bill (H. R. 6557) providing
+for opening the Uintah Indian Reservation in Utah; and after some
+time spent therein, the Speaker resumed the chair, and Mr. Dockery
+reported that the committee having had under consideration the said
+bill (H. R. 6557) had come to no resolution thereon;
+
+When the morning hour expired.
+
+The question being on agreeing to the second resolution, to wit:
+
+_Resolved_, That John J. O’Neill was not legally elected and is not
+entitled to a seat in this House;
+
+And being put,
+
+Will the House agree thereto?
+
+                                  { Yeas............................  23
+  It was decided in the negative, { Nays............................ 160
+                                  { Not voting...................... 168
+
+After further debate,
+
+The Speaker appointed Messrs. Bailey and Ray tellers.
+
+The question being put,
+
+Shall the bill be engrossed and read a third time?
+
+The yeas and nays being desired by one-fifth of the members present,
+
+[One line only.]
+
+                  { Yeas............................................ 123
+                  { Nays............................................  55
+  There appeared, { Answering “present”.............................   1
+                  { Not answering................................... 172
+                  { Reported by tellers as present and not answering.. 4
+
+The Speaker laid before the House the following joint resolution of
+the Senate:
+
+S. R. 91. A joint resolution providing for printing a digest of the
+laws relating to compensation of officials in United States courts;
+
+Which was referred to the Committee on Printing.
+
+Mr. Allen suggested that the House should take a recess, under Rule
+XXVI.
+
+And then, in pursuance of Rule XXVI, the House took a recess until
+8 p. m.
+
+A message from the President of the United States, by Mr. Pruden,
+one of his secretaries, announced that the President had approved
+and signed bills and a joint resolution of the following titles:
+
+On June 29, 1894:
+
+H. R. 4701. An act to incorporate the Supreme Lodge of the Knights
+of Pythias; and
+
+H. R. 274. An act to authorize the city of Hyattsville, Md., to
+construct a wagon bridge.
+
+On July 6, 1894:
+
+H. Res. 196. Joint resolution to provide temporarily for the
+expenditures of the Government.
+
+The committee of conference on the disagreeing votes of the two
+Houses to the bill (H. R. 6518) making appropriations for rivers
+and harbors do recommend to their respective Houses as follows:
+
+That the House recede from its disagreement to the amendment of
+the Senate numbered 27, and agree to the same with an amendment as
+follows: Strike out all the matter preceding and insert on page 77,
+after line 7, the following as a new item:
+
+_Baltimore Harbor, Maryland: To widen the ship channel to one
+thousand feet, one thousand nine hundred and sixty-nine dollars and
+fifty-one cents._
+
+And the Senate agree to the same.
+
+That the House recede from its disagreement to the amendment of
+the Senate numbered 20, and agree to the same with an amendment
+as follows: Strike out “eight hundred dollars” and insert in lieu
+thereof the following: _three hundred and fifty dollars;_ and the
+Senate agree to the same.
+
+Amend section 2 to read as follows:
+
+SEC. 2. _For an exhibit by the Government of the United States at
+the Cotton States International Exposition to be held at Atlanta,
+Georgia, in the year eighteen hundred and ninety-five, one hundred
+thousand dollars._
+
+And the House agree to the same.
+
+Leave of absence was granted to Mr. Cobb of Alabama and Mr. Black
+of Illinois, indefinitely; to Mr. Pigott, for two days; to Mr.
+Bartlett, until Saturday next; and to Mr. Lacey, for four days.
+
+And then,
+
+On motion of Mr. Cummings, at 5 o’clock and 20 minutes p. m., the
+House adjourned.
+
+
+SENATE.
+
+MESSAGE FROM THE HOUSE.
+
+A message from the House of Representatives, by Mr. Towles, its
+chief clerk.
+
+_Mr. President:_ The House of Representatives has disagreed to
+the amendments of the Senate to the bill (H. R. 6913) making
+appropriations for the current expenses of the Indian Department.
+It asks a conference with the Senate thereon, and has appointed Mr.
+Holman, Mr. Allen, and Mr. Wilson of Washington managers at the
+same on its part.
+
+
+ENROLLED BILLS SIGNED.
+
+Mr. Caffery reported from the committee that they had examined and
+found duly enrolled the following bill:
+
+H. R. 2350. An act making appropriations for the Military Academy;
+
+Whereupon,
+
+The President pro tempore signed the same, and it was delivered to
+the committee to be presented to the President of the United States.
+
+The Senate proceeded, by unanimous consent, to consider the said
+bill as in Committee of the Whole; and no amendment being made, it
+was reported to the Senate.
+
+_Ordered,_ That it pass to a third reading.
+
+The said bill was read the third time.
+
+_Resolved_, That it pass, and that the title thereof be as
+aforesaid.
+
+The Senate proceeded to consider, as in Committee of the Whole, the
+bill (S. 1296) for the relief of Andrew Gray; and
+
+On motion by Mr. White,
+
+_Ordered_, That it be postponed indefinitely.
+
+Mr. Allison called for a division of the question; and
+
+On the question to recede from the amendment No. 87, viz: Insert as
+an additional paragraph the following:
+
+_109. Iron ore, forty cents per ton,_
+
+                                     { Yeas........................... 2
+  It was determined in the negative, { Nays........................... 5
+
+On motion by Mr. Hill,
+
+The yeas and nays being desired by one-fifth of the Senators
+present,
+
+[One line only.]
+
+Those who voted in the affirmative are,
+
+Messrs. Allen, Hill, Irby.
+
+Those who voted in the negative are,
+
+Messrs. Jones of Arkansas, Jones of Nevada, Mitchell of Wisconsin.
+
+[NOTE.--Observe that commas are left out after names when there are
+a number of them, like the above.]
+
+The question being on the motion of Mr. Hill that the Senate recede
+from its amendment No. 87,
+
+Pending debate,
+
+Mr. Jones, of Arkansas, raised a question as to the presence of a
+quorum;
+
+[NOTE.--Observe that comma is used when but a single name occurs.]
+
+Whereupon,
+
+The Presiding Officer (Mr. Mitchell, of Oregon, in the chair)
+directed the roll to be called;
+
+When,
+
+Fifty-nine Senators answered to their names.
+
+A quorum being present,
+
+
+EXECUTIVE SESSION.
+
+On motion of Mr. Jones, of Arkansas,
+
+The Senate proceeded to the consideration of executive business; and
+
+After the consideration of executive business the doors were
+reopened;
+
+When,
+
+On motion of Mr. Gorman, at 3 o’clock and 40 minutes p. m.,
+
+The Senate adjourned.
+
+
+
+
+Suggestions for Compositors, Readers, and Revisers.
+
+
+HELP EACH OTHER.
+
+Workmen in every department should follow instructions in spirit
+as well as in letter. Unthinking performance--the listless doing
+of just what has been told and no more--is not satisfactory. It is
+believed the good workman will take interest in his duties. He is
+expected at suitable times to help others in their work. The excuse
+that it is “none of my business,” or that “it was the reader’s
+business,” or that “it was the foreman’s business” to give a word
+of warning or a helping hand to prevent delay, error, or other
+trouble is a poor one. It is the business of every man to do what
+he can to prevent error in any department, and as faulty work is
+usually done through inattention or unfamiliarity with the style,
+suggestions should be courteously offered and received.
+
+
+TYPESETTING.
+
+For the successful maintenance of a high standard of workmanship
+and for the correctness of the work done in the office, not a
+little depends upon the care, judgment, skill, and intelligence of
+the compositors. Indifferent, careless men are not in demand in an
+office where important publications are constantly being prepared
+for press, and where the slightest neglect on the part of those
+handling the work may cause serious delay and confusion in some
+other division of the office. Recollect that one badly justified
+line may stop a press; a careless correction spoil the whole
+edition of a book.
+
+_Study the rules._--Compositors are expected to carefully study the
+rules governing composition. A failure to do this will show plainly
+in the proof. It must be remembered, however, that all work done in
+the office is not in accordance with the regular or office style.
+Special instructions will invariably accompany copy of this kind,
+and a compositor should ascertain when taking out copy whether it
+is to be set according to office style; if it is not, he should
+read instructions carefully and confer fully with the foreman or
+man at the desk about doubtful questions. The kind of type for the
+text (other than long primer) and the use of leads are indicated in
+the preparation of the copy, as are indention, type for headlines,
+“cast” of tables, and other minor details. The compositor should
+not go wrong on these matters, nor should his type contain many
+errors, if he will apply himself, think, make certain of his
+instructions, and use care.
+
+_Divisions._--Frequent divisions of words are undesirable, but do
+not avoid them entirely at the expense of uniform spacing.
+
+Do not divide compound words except at the compounding hyphen in
+any but extreme cases.
+
+Divisions at the ends of three adjacent lines will not be passed by
+readers except in extreme cases or in narrow measure.
+
+Divisions on syllables of two letters should be made but rarely.
+
+_Spacing and justifying._--The spacing of matter must be governed
+by the leading.
+
+Solid matter should be spaced with 3-to-em spaces, and when about
+to divide a word prefer to take in.
+
+Leaded matter should also be spaced with 3-to-em spaces, but when
+about to divide a word prefer to drive over.
+
+In double-leaded matter en quads should be used and divisions
+driven over.
+
+Avoid, if possible, the very thin or very wide spacing of the first
+line of a paragraph.
+
+All lines of composition must be justified so tightly that they
+will stand unsupported in the stick.
+
+Observe in spacing the various formations of letters. There should
+be less space between final “y” and initial “w,” for instance,
+than between final “d” and initial “h;” less between final “o” and
+initial “c” than between final “f” and initial “b.” When a little
+extra spacing is necessary, never place it between a comma and
+the first letter of succeeding word. The spacing between capital
+letters in headings should also be governed by letter formation.
+
+Do not do all the spacing at either the right or left of the line,
+but distribute it in conformity with the foregoing suggestions. The
+appearance of a page as a whole depends very much upon the care
+shown in spacing.
+
+Compositors should take every precaution to prevent the soiling of
+proof sheets, as it is necessary for the reviser to see clearly
+every mark on the margin of a proof after it has been corrected.
+
+Do not try to cover up or hide an accident. After a proof is read
+the first time, if a word or line is pied, or if a “dropout”
+occurs, or any accident happens to the type, it is the duty of the
+workman to call attention to it in writing on the latest proof
+sheet, whether it be a galley revise, page revise, stone revise,
+press revise, or foundry revise. If a proof sheet be not available
+or immediately at hand, put the types involved FEET UPPERMOST when
+returning them to the galley, page, or form. This direction is
+intended for all who handle type--laborers, compositors, makers-up,
+imposers, and electrotypers--and will be insisted upon. Accidents
+will happen, and correctness can be assured only by faithfully
+following the instruction here given.
+
+
+READING.
+
+Readers are expected to be alert, clear-headed, diligent, and
+thoughtful.
+
+Proofs that are overinked, pale, smeared, or that have margins too
+narrow for proper marking, or for any reason are not good proofs,
+must be refused.
+
+When a proof is taken out, the reader should inform himself fully
+as to the character of the work, whether there are any special
+instructions or peculiarities concerning it, whether proof will
+be sent out or the work go directly to press, and get such other
+information as he may think will assist him; and before beginning
+to read he should make sure that copy agrees with proof and that
+the entire proof is legible. It is well to do preparatory work and
+take a general survey of a proof before beginning to read it.
+
+The style in which correction marks are made on a proof is an
+element of considerable importance. Straggling, unsymmetrical
+characters, disconnected marks placed in the margins above or
+below the lines to which they relate, irregular lines leading from
+an incorrect letter or word to a correction, large marks, marks
+made with a blunt pencil, indistinct marks, a frequent use of the
+eraser to obliterate marks hastily or incorrectly made, are all
+faults to be avoided. Corrections so made are not respected by the
+compositor, and he is frequently annoyed and delayed in deciphering
+what they mean and to what they refer. In reading proof of wide
+tables the reader should take advantage of white space as near as
+possible to the error and place the correction therein, thus aiding
+all who have occasion to handle the proof afterwards.
+
+The time to be spent in reading a proof should be governed, in
+a great measure, by its importance. While in certain classes of
+ordinary work the reader is not expected to detect more than the
+plainer errors and make his proof correct to copy, in work of value
+he should read critically and try to discover more serious blunders
+than spelling, capitalization, punctuation, etc. But speed should
+never be greater than is consistent with practical correctness.
+
+A single reading of figures, either in columns or lines, should be
+sufficient. The failure of first reader and copyholder to detect
+wrong figures is a serious fault; confidence in them is immediately
+strained, the second readers become suspicious of all proofs read
+by them and feel compelled to reread entire proof by copy, and many
+far-reaching annoyances are liable to follow. When a reader does
+not feel positive that figures are correct to copy, or if his sight
+becomes confused by a multiplicity of figures or from other cause,
+he should request that the proof be reread by copy by someone else.
+Physical weakness is not a fault; carelessness and indifference are
+always culpable.
+
+The substance of the preceding paragraph applies also to “fol.
+lit.” matter, especially bills, laws, and court work.
+
+When an entire “take” or proof seems to have been set uniformly, a
+reader should never make important changes in indentions of tables
+or make like corrections which will cause a great deal of work
+without consulting the foreman, the copy preparer, or the man at
+the proof table.
+
+The reader should endeavor to verify, by the reference books in the
+office, all proper names, whether they are of people or places, or
+whatever they may be; every date; every quotation from standard
+works; every foreign word or phrase, and the ordinary nomenclature
+of science. When this can not be done and he has a reasonable
+doubt, he should request the author to verify it. But when the
+reader does discover errors of this class or when he detects
+inconsistent and erroneous statements, obviously made by the writer
+through lapse of the memory or slip of the pen, it is his duty
+to correct. He does so at his peril, however. He must know, not
+suspect, that they are errors, and be prepared, if called upon, to
+vindicate the soundness of his correction by recognized authority.
+If he does not know, he should query.
+
+When a reader is unable to decide positively as to the correctness
+of a date, phrase, name, quotation, etc., or if he does not feel
+at liberty to make the desired change because of instructions to
+“follow” or “follow literally,” or because he is reading a bill or
+law, he should query. This should not always be done by a simple
+question mark (for that is sometimes so confusing to the author
+that he feels like raising a query of his own as to its meaning),
+but by writing the suggested amendment or explaining the reason for
+the query in full.
+
+In work of particular value--historic or scientific publications,
+books that may be used for reference, etc.--the reader should
+be on the lookout for faulty construction of sentences, bad
+metaphors, inconsistent statements, the misuse of words, and
+defects of similar character. These he should query. The proofs
+of this class of work always go out, and the author will probably
+welcome reasonable suggestions; but the reader must not worry
+himself or the author about the extreme niceties of grammar or
+suggest pedantic emendations. Discrimination should be made and the
+author’s style not confounded with his lapses.
+
+Readers will carefully note the instructions to compositors as to
+spacing, division of words, etc., and never hesitate to mark when
+work is imperfect.
+
+Second readers are enjoined to keep in full sympathy with first
+readers and copy preparers. They must always consult with the
+latter before making important changes in proof, and they should
+feel free to respectfully call the attention of a first reader
+to errors in style or blunders of any kind that may have been
+frequently overlooked by him. The marks of the copy preparer must
+be given consideration by all. He has probably handled the entire
+work and is in a position to know more about its peculiarities than
+the man who reads but a small portion.
+
+
+GALLEY-PROOF REVISING.
+
+The importance of revising proofs well can not be overestimated.
+While a reviser is not expected to read proof, it is not enough for
+him to slavishly follow the marks found on the proof sheet which
+has been to the composing room for correction. His aim should be to
+discover new errors, if possible, make the matter uniform in all
+essential points, and correct inconsistencies, due perhaps to a
+difference of opinion among the readers. At the same time he should
+see that all corrections have been properly made in the type, that
+words or lines have not been transposed by the compositor in making
+the corrections, and that the rules governing spacing, division of
+words, and good printing generally have been observed. Compositors
+have no excuse for the neglect of even spacing, either when setting
+the type or when making corrections, and the reader or reviser who
+passes bad spacing will be held in fault.
+
+A reviser must not remodel the punctuation of the readers or make
+any serious changes in the work unless the matter apparently
+needing correction is of unmistakable importance. If he thinks it
+necessary that an important change should be made, he should submit
+the change proposed to the foreman for his decision.
+
+All queries made by readers must be carefully transferred to the
+proof to be sent out, which should always be clean and well printed.
+
+Every paragraph containing an alteration in a proof that makes
+one or more overruns must be reread as first proof. It must
+be read aloud by copyholder, word for word, to the end of the
+paragraph, or at least far enough to satisfy the reviser that the
+proper correction has been made and no new errors have slipped in
+while the lines were being handled. The practice of revising the
+alteration only and of rereading without copyholder has been the
+source of many errors, and will no longer be permitted.
+
+Revising should be done with reasonable dispatch, but good work
+must not be sacrificed to haste. The “hurry” excuse for passing bad
+work will not be accepted, as assistance will be furnished whenever
+necessary.
+
+
+PRESS REVISING.
+
+Press revising is a branch of proof-room work requiring special
+adaptability and great diligence and care. Not only must the
+reviser observe that the rules governing the work of those who
+precede him have been followed, but he must be on the alert for a
+multiplicity of points not coming within their sphere. Hence, a
+clear head, quick eye, knowledge of the style, acquaintance with
+the make-up of various publications, a high sense of order, an
+ability for detail, and mind and nerves not easily disturbed are
+prerequisites to success in the work.
+
+A few general rules only can be given to guide the press reviser.
+He handles a variety of work and must decide each point as it
+presents itself. He is cautioned never to allow his work to get
+behind (calling for assistance when rushed), but not to make a
+sacrifice of correctness for the sake of speed.
+
+The following rules should be carefully studied:
+
+1. See that galley slips connect before beginning the page or press
+revise.
+
+2. See that page folios are continuous, that running heads are
+correct and uniform, and that the proper signature is correctly
+placed.
+
+3. See that the series of proof sheets is clean and clear; send for
+another proof in case they are not.
+
+4. Revise carefully, observing connections between pages, carrying
+all unanswered queries, and taking care that continued and repeated
+lines are free from errors.
+
+5. If a revise is badly corrected or is from any cause not
+reasonably free from error, call for another correction and proof
+(stating number wanted), and destroy all duplicates.
+
+6. Be on the lookout for “dropouts,” doublets, and transpositions,
+applying the rules laid down for first revisers.
+
+7. Read by copy all running heads, and box heads in continuous
+tables; see that all leading lines are carried at the top where
+subordinate matter turns over; that dollar marks and italic
+captions of columns are properly placed and uniform; that the
+matter is as compact as circumstances will permit, and that
+footnotes fall on the page containing the corresponding reference,
+and are symmetrically arranged.
+
+8. Preserve complete files of all proofs returned to the desk in
+the ordinary course of business, especially of the final proofs
+from which a work is sent to the press or foundry.
+
+9. On first page of a signature of a stone or press revise carry
+the number of copies and kind of paper, with any special directions
+that may be necessary; and see that the form is properly imposed.
+
+10. Be particular in making the “mark-off” on a galley slip when
+the first page proofs are sent out, cutting the proof sheet and
+noting upon it the connecting galley slug, the folio of the
+succeeding page, and the proper signature of the same. Retain the
+“mark-off” and deliver the galley slips with the clean proof to the
+proof clerk.
+
+11. Always make sure that different sets of proof sheets on any
+work are correctly marked in series, as “R,” “2d R,” “3d R,”
+etc., and when a sheet is stamped “another proof” carry the same
+designating “R” on the corresponding clean one, and destroy the
+stamped proof when it has served its purpose.
+
+12. In Court of Claims and Supreme Court records the index must be
+filled in by the press reviser, the first signature being retained
+for that purpose.
+
+13. When two or more jobs are imposed in one form, the reviser
+should separate the parts to verify the imposition. Until familiar
+with the “fold,” however, caution must be exercised in cutting the
+sheet.
+
+14. Press, stone, and foundry revises are equally important. In the
+latter especial care must be taken that rules do not lap, that work
+is not jammed in the “lockup,” that damaged letters and “slips” are
+indicated, and that the matter is ready in all respects to pass
+severe criticism.
+
+15. Government publications are usually made up in the following
+order:
+
+  Page 1. Title.
+  Page 2. Blank.
+  Page 3. Table of contents. If ending on an odd-numbered page, then--
+  Page 4. Blank.
+  Page 5. Letter of transmittal.
+  Page 6. Blank.
+  Page 7. Text proper.
+
+In the body of the work new pages will be properly indicated on the
+proof sheet. Tables of contents, letters of transmittal, lists of
+illustrations, the text proper of a book, and all matter following
+half titles (except parallel tables) should begin on a new odd page.
+
+
+SIGNATURES.
+
+16. All signatures are designated by consecutive numbers--2, 3,
+4, etc.--from the first to the last. The distinguishing feature
+is usually the jacket number, preceding the signature number and
+connected with it by a 2-em dash. For some works contractions
+of the title are used, especially in annual or other periodical
+reports, forms for which can be had upon reference to the last one
+issued. House and Senate documents take the following signature
+forms:
+
+  H. Ex. 123----7             S. Rep. 13----9
+  H. Rep. 247----3            S. Ex. 27----3
+  H. Mis. 17----2             S. Mis. 123----2
+  H. Ex. 13--pt 2----5        S. Mis. 42--pt 3----9
+
+Signatures are usually worked in sixteens, but with large pages the
+form of eights is the standard when printed from type.
+
+
+BILL REVISING.
+
+17. In sending bills to press there are points to be watched
+which do not appear in other work. The open character of the
+pages makes the form peculiarly liable to accident, and each page
+must be closely scanned for faults. A press reviser must be fully
+conversant with all the details and peculiarities of bill work and
+be ready to correct or take counsel upon any seeming error of style
+or apparent fault. He must see that the indorsements on bills fall
+on “even” pages and that they back up properly and have the proper
+make-up; also compare the number of the bill on the indorsement
+with that on the face, as a safeguard against error. When any
+change has been made in the side folios, he must run the same to
+the end of the series and answer for their correctness. He must
+see that the proper number of copies is written on each signature
+page, according to the schedule or memorandum furnished him. In
+short, the reviser is an umpire on bill work whose alertness is his
+qualification for the work. He is not expected to read the proof,
+but he must train his eye to detect errors at a glance.
+
+18. Bills are worked in forms of eights. The signatures are made up
+like the following:
+
+  Senate bills:               Senate amendments to House bills:
+      S. 2433----2                A. H. R. 4864----2
+
+  Senate resolutions:         House bills:
+      S. R. 196----2              H. R. 2142----3
+
+  Senate Mis. Docs.:          House resolutions:
+      S. Mis. 24----2             H. Res. 194----3
+
+19. When a bill is reprinted on account of some error or change, an
+asterisk is used at the foot of the first page. When more than one
+signature is reprinted, the asterisk follows the signature number.
+
+20. Committee bills are always confidential. If of more than eight
+pages the distinguishing signature must be invented and placed on
+the first as well as succeeding forms. There are usually several
+prints of committee bills, each of which must be distinguished by
+serial additions to the signature, as A, B, C, etc.
+
+21. Every paragraph which has been overrun in correcting must
+be read aloud by copyholder from the proof sheet, which must be
+followed literally.
+
+
+SIGNATURE NUMBERS FOR EIGHTS.
+
+   1   TITLE  |  26     201  |  51     401  |  76     601  |  101    801
+   2       9  |  27     209  |  52     409  |  77     609  |  102    809
+   3      17  |  28     217  |  53     417  |  78     617  |  103    817
+   4      25  |  29     225  |  54     425  |  79     625  |  104    825
+   5      33  |  30     233  |  55     433  |  80     633  |  105    833
+   6      41  |  31     241  |  56     441  |  81     641  |  106    841
+   7      49  |  32     249  |  57     449  |  82     649  |  107    849
+   8      57  |  33     257  |  58     457  |  83     657  |  108    857
+   9      65  |  34     265  |  59     465  |  84     665  |  109    865
+  10      73  |  35     273  |  60     473  |  85     673  |  110    873
+  11      81  |  36     281  |  61     481  |  86     681  |  111    881
+  12      89  |  37     289  |  62     489  |  87     689  |  112    889
+  13      97  |  38     297  |  63     497  |  88     697  |  113    897
+  14     105  |  39     305  |  64     505  |  89     705  |  114    905
+  15     113  |  40     313  |  65     513  |  90     713  |  115    913
+  16     121  |  41     321  |  66     521  |  91     721  |  116    921
+  17     129  |  42     329  |  67     529  |  92     729  |  117    929
+  18     137  |  43     337  |  68     537  |  93     737  |  118    937
+  19     145  |  44     345  |  69     545  |  94     745  |  119    945
+  20     153  |  45     353  |  70     553  |  95     753  |  120    953
+  21     161  |  46     361  |  71     561  |  96     761  |  121    961
+  22     169  |  47     369  |  72     569  |  97     769  |  122    969
+  23     177  |  48     377  |  73     577  |  98     777  |  123    977
+  24     185  |  49     385  |  74     585  |  99     785  |  124    985
+  25     193  |  50     393  |  75     593  | 100     793  |  125    993
+
+
+SIGNATURE NUMBERS FOR SIXTEENS.
+
+   1   TITLE  |  39     609  |  77    1217  | 115    1825  | 153    2433
+   2      17  |  40     625  |  78    1233  | 116    1841  | 154    2449
+   3      33  |  41     641  |  79    1249  | 117    1857  | 155    2465
+   4      49  |  42     657  |  80    1265  | 118    1873  | 156    2481
+   5      65  |  43     673  |  81    1281  | 119    1889  | 157    2497
+   6      81  |  44     689  |  82    1297  | 120    1905  | 158    2513
+   7      97  |  45     705  |  83    1313  | 121    1921  | 159    2529
+   8     113  |  46     721  |  84    1329  | 122    1937  | 160    2545
+   9     129  |  47     737  |  85    1345  | 123    1953  | 161    2561
+  10     145  |  48     753  |  86    1361  | 124    1969  | 162    2577
+  11     161  |  49     769  |  87    1377  | 125    1985  | 163    2593
+  12     177  |  50     785  |  88    1393  | 126    2001  | 164    2609
+  13     193  |  51     801  |  89    1409  | 127    2017  | 165    2625
+  14     209  |  52     817  |  90    1425  | 128    2033  | 166    2641
+  15     225  |  53     833  |  91    1441  | 129    2049  | 167    2657
+  16     241  |  54     849  |  92    1457  | 130    2065  | 168    2673
+  17     257  |  55     865  |  93    1473  | 131    2081  | 169    2689
+  18     273  |  56     881  |  94    1489  | 132    2097  | 170    2705
+  19     289  |  57     897  |  95    1505  | 133    2113  | 171    2721
+  20     305  |  58     913  |  96    1521  | 134    2129  | 172    2737
+  21     321  |  59     929  |  97    1537  | 135    2145  | 173    2753
+  22     337  |  60     945  |  98    1553  | 136    2161  | 174    2769
+  23     353  |  61     961  |  99    1569  | 137    2177  | 175    2785
+  24     369  |  62     977  | 100    1585  | 138    2193  | 176    2801
+  25     385  |  63     993  | 101    1601  | 139    2209  | 177    2817
+  26     401  |  64    1009  | 102    1617  | 140    2225  | 178    2833
+  27     417  |  65    1025  | 103    1633  | 141    2241  | 179    2849
+  28     433  |  66    1041  | 104    1649  | 142    2257  | 180    2865
+  29     449  |  67    1057  | 105    1665  | 143    2273  | 181    2881
+  30     465  |  68    1073  | 106    1681  | 144    2289  | 182    2897
+  31     481  |  69    1089  | 107    1697  | 145    2305  | 183    2913
+  32     497  |  70    1105  | 108    1713  | 146    2321  | 184    2929
+  33     513  |  71    1121  | 109    1729  | 147    2337  | 185    2945
+  34     529  |  72    1137  | 110    1745  | 148    2353  | 186    2961
+  35     545  |  73    1153  | 111    1761  | 149    2369  | 187    2977
+  36     561  |  74    1169  | 112    1777  | 150    2385  | 188    2993
+  37     577  |  75    1185  | 113    1793  | 151    2401  | 189    3009
+  38     593  |  76    1201  | 114    1809  | 152    2417  | 190    3025
+
+
+
+
+APPENDIX.
+
+
+
+
+STANDARD PAGE MEASUREMENTS.
+
+
+WIDTH OF PAGE.
+
+         |                                       |         |  Bulletins
+         | Pica.                                 | Record  |  Bureau of
+         |    | Small pica, old style.           |  type.  |  American
+         |    |    | Long primer.                |         |  Republics.
+         |    |    |    | Long primer, old style.+---------+---------------
+         |    |    |    |    | Brevier.          |         |
+         |    |    |    |    |    | Brevier, old style.    |
+         |    |    |    |    |    |    | Nonpareil.        |
+         |    |    |    |    |    |    |    | Nonpareil, old style.
+         |    |    |    |    |    |    |    |    | Brevier.
+         |    |    |    |    |    |    |    |    |    | Nonpareil.
+         |    |    |    |    |    |    |    |    |    |    | Brevier.
+         |    |    |    |    |    |    |    |    |    |    |    | L.primer.
+         |    |    |    |    |    |    |    |    |    |    |    |    |Pica.
+---------+----+----+----+----+----+----+----+----+----+----+----+----+-----
+Census   | 42 |    | 53 |    | 66½|    | 84 | 65 | 85½|    |    |    |
+Quarto   | 36 |    | 45½| 45½| 57 | 55¼| 72 | 72¾| 55½| 73½|    |    |
+Statutes | 32 |    | 40½|    | 50⅔|    | 64 |    | 49½| 65½|    |    |
+Prof. papers       |    |    |    |    |    |    |    |    |    |    |
+  (new)  | 31½|    | 39½| 39½| 50 |    | 63 |    | 48½| 64 |    |    |
+Document | 26 | 30 | 33 | 33 | 41¼| 39½| 52 | 52¾| 40 | 52¾| 40 | 32⅔| 26⅖
+Court decisions[1] |    |    |    |    |    |    |    |    |    |    |
+12mo     | 22 |    | 28 | 28 | 35 |    | 44 |    |    |    |    |    |
+Law[2]   | 21½|    | 27¼| 27¼| 34⅓| 33¼| 43 | 43¾| 33 | 43½|    |    |
+General  |    |    |    |    |    |    |    |    |    |    |    |    |
+  order  | 20¼|    | 25½| 25½| 32 | 31¼| 40½| 41¼| 31⅓| 41¼|    |    |
+Record[3]| 20⅞| 24 | 26⅓| 26⅓| 33 | 33 | 41½| 41½| 32 | 42¼|    |    |
+---------+----+----+----+----+----+----+----+----+----+----+----+----+-----
+
+LENGTH OF PAGE.[4]
+
+---------+----+----+----+----+----+----+----+----+----+----+----+----+----
+Census   | 58 |    | 72 |    | 91 |    |116 |    | 88 |116 |    |    |
+Quarto   | 52 |    | 65 | 65 | 82 | 80¼|104 |106 | 80 |106 |    |    |
+Statutes | 50 |    | 62½| 62½| 78½|    |100 |    | 76 |100 |    |    |
+Prof. papers  |    |    |    |    |    |    |    |    |    |    |    |
+  (new)  | 44⅔|    | 56½| 56½| 71 |    | 89⅓|    | 69 | 91 |    |    |
+Document | 44¼ {51½} 56 | 56 | 70¼| 68⅓| 88½| 90 | 68 | 90 | 58¾| 48 | 38¾
+         |     {44⅕}    |    |    |    |    |    |    |    | [5]| [5]| [5]
+         |    | [5]|    |    |    |    |    |    |    |    |    |    |
+Court    |    |    |    |    |    |    |    |    |    |    |    |    |
+ decisions 40½|    | 50½| 50½| 64 |    | 81 |    |    |    |    |    |
+12mo     | 40 |    | 49¾| 50 | 62½|    | 80 |    |    |    |    |    |
+Law[6]   | 44¼|    | 56 | 56 | 70 | 68⅓| 88½| 90 | 61 | 81 |    |    |
+General  |    |    |    |    |    |    |    |    |    |    |    |    |
+  order  | 31½|    | 40 | 40 | 50 | 48¾| 63 | 63 | 49 | 63 |    |    |
+Record   | 58 | 65 | 72 | 72 | 89 | 89 |113 |113 | 87 |114 |    |    |
+---------+----+----+----+----+----+----+----+----+----+----+----+----+----
+
+FOOTNOTES:
+
+[1] The same width as document, indented 2 ems primer on each side.
+
+[2] Text only.
+
+[3] Width of column.
+
+[4] Does not include head or foot slug.
+
+[5] Bulletins Bureau of American Republics in length.
+
+[6] When made up with side notes.
+
+
+
+
+SIGNS.
+
+
+MATHEMATICAL, ASTRONOMICAL, AND PHYSICAL.
+
+[Illustration]
+
+
+
+
+GREEK ALPHABET.
+
+
+  +---------+-------------+------------+------------+
+  | CAPS.   |  LOWER      |   GREEK    |  ENGLISH   |
+  |         |   CASE.     |   SOUND.   |   SOUND.   |
+  +---------+-------------+------------+------------+
+  |   Α     |   α         |   Alpha.   |   A.       |
+  |   Β     |   β ϐ       |   Beta.    |   B.       |
+  |   Γ     |   γ         |   Gamma.   |   G.       |
+  |   Δ     |   δ         |   Delta.   |   D.       |
+  |   Ε     |   ε ϵ       |   Epsilon. |   E short. |
+  |   Ζ     |   ζ         |   Zeta.    |   Z.       |
+  |   Η     |   η         |   Eta.     |   E long.  |
+  |   Θ     |   θ ϑ       |   Theta.   |   Th.      |
+  |   Ι     |   ι         |   Iota.    |   I.       |
+  |   Κ     |   κ ϰ       |   Kappa.   |   K.       |
+  |   Λ     |   λ         |   Lambda.  |   L.       |
+  |   Μ     |   μ         |   Mu.      |   M.       |
+  |   Ν     |   ν         |   Nu.      |   N.       |
+  |   Ξ     |   ξ         |   Xi.      |   X.       |
+  |   Ο     |   ο         |   Omicron. |   O short. |
+  |   Π     |   π ϖ       |   Pi.      |   P.       |
+  |   Ρ     |   ρ         |   Rho.     |   R.       |
+  |   Σ     |   σ ς       |   Sigma.   |   S.       |
+  |   Τ     |   τ         |   Tau.     |   T.       |
+  |   Υ     |   υ         |   Upsilon. |   U.       |
+  |   Φ     |   φ ϕ       |   Phi.     |   F.       |
+  |   Χ     |   χ         |   Chi.     |   Ch.      |
+  |   Ψ     |   ψ         |   Psi.     |   Ps.      |
+  |   Ω     |   ω         |   Omega.   |   O long.  |
+  +---------+-------------+------------+------------+
+
+
+
+
+GREEK CASE.
+
+[Illustration]
+
+
+
+
+PRINCIPAL GREEK ACCENTS.
+
+[Illustration]
+
+
+
+
+  TRANSCRIBER’S NOTE
+
+  The only Footnotes in the book refer to the first Table on pg 39 and
+  have been kept at the bottom of that Table.
+
+  The Table on pg 21 was very wide and has been split into two parts,
+  with the first column repeated in each part.
+
+  The ‘STANDARD PAGE MEASUREMENTS’ Table on pg 39 had vertical column
+  headings, which have been made horizontal in this etext.
+
+  The ‘GREEK ALPHABET’ Table on pg 40 is missing three lower-case letter
+  variants (two for zeta and one for psi) that were present in the
+  original book, but have no modern representation in Unicode.
+
+  Obvious typographical errors and punctuation errors have been
+  corrected after careful comparison with other occurrences within
+  the text and consultation of external sources.
+
+  Except for those changes noted below, all misspellings in the text,
+  and inconsistent or archaic usage, have been retained.
+
+  Pg 24, ‘even. length’ replaced by ‘even-length’.
+  Pg 31, ‘itsert in lieu’ replaced by ‘insert in lieu’.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Manual of Style governing Composition
+and Proof Reading in the Government P, by United States Government Printing Office
+
+*** END OF THE PROJECT GUTENBERG EBOOK 55585 ***

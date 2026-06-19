@@ -1,0 +1,1806 @@
+﻿The Project Gutenberg EBook of The Varieties of Religious Experience by
+William James
+
+
+
+This ebook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re‐use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+http://www.gutenberg.org/license. If you are not located in the United
+States, you’ll have to check the laws of the country where you are located
+before using this ebook.
+
+
+
+Title: The Varieties of Religious Experience
+
+Author: William James
+
+Release Date: October 17, 2014 [Ebook #621]
+
+Language: English
+
+Character set encoding: UTF‐8
+
+
+***START OF THE PROJECT GUTENBERG EBOOK THE VARIETIES OF RELIGIOUS EXPERIENCE***
+
+
+
+
+
+                  The Varieties of Religious Experience
+
+                         A Study in Human Nature
+
+ Being the Gifford Lectures on Natural Religion Delivered at Edinburgh in
+                                1901‐1902
+
+                                    By
+
+                              William James
+
+                         Longmans, Green, And Co,
+
+              New York, London, Bombay, Calcutta, and Madras
+
+                                   1917
+
+
+
+
+
+CONTENTS
+
+
+Preface.
+Lecture I. Religion And Neurology.
+Lecture II. Circumscription of the Topic.
+Lecture III. The Reality Of The Unseen.
+Lectures IV and V. The Religion Of Healthy‐Mindedness.
+Lectures VI And VII. The Sick Soul.
+Lecture VIII. The Divided Self, And The Process Of Its Unification.
+Lecture IX. Conversion.
+Lecture X. Conversion—Concluded.
+Lectures XI, XII, And XIII. Saintliness.
+Lectures XIV And XV. The Value Of Saintliness.
+Lectures XVI And XVII. Mysticism.
+Lecture XVIII. Philosophy.
+Lecture XIX. Other Characteristics.
+Lecture XX. Conclusions.
+Postscript.
+Index.
+Footnotes
+
+
+
+
+
+
+                               [Title Page]
+
+
+
+
+
+To
+
+C. P. G.
+
+IN FILIAL GRATITUDE AND LOVE
+
+
+
+
+
+PREFACE.
+
+
+This book would never have been written had I not been honored with an
+appointment as Gifford Lecturer on Natural Religion at the University of
+Edinburgh. In casting about me for subjects of the two courses of ten
+lectures each for which I thus became responsible, it seemed to me that
+the first course might well be a descriptive one on “Man’s Religious
+Appetites,” and the second a metaphysical one on “Their Satisfaction
+through Philosophy.” But the unexpected growth of the psychological matter
+as I came to write it out has resulted in the second subject being
+postponed entirely, and the description of man’s religious constitution
+now fills the twenty lectures. In Lecture XX I have suggested rather than
+stated my own philosophic conclusions, and the reader who desires
+immediately to know them should turn to pages 511‐519, and to the
+“Postscript” of the book. I hope to be able at some later day to express
+them in more explicit form.
+
+In my belief that a large acquaintance with particulars often makes us
+wiser than the possession of abstract formulas, however deep, I have
+loaded the lectures with concrete examples, and I have chosen these among
+the extremer expressions of the religious temperament. To some readers I
+may consequently seem, before they get beyond the middle of the book, to
+offer a caricature of the subject. Such convulsions of piety, they will
+say, are not sane. If, however, they will have the patience to read to the
+end, I believe that this unfavorable impression will disappear; for I
+there combine the religious impulses with other principles of common sense
+which serve as correctives of exaggeration, and allow the individual
+reader to draw as moderate conclusions as he will.
+
+My thanks for help in writing these lectures are due to Edwin D. Starbuck,
+of Stanford University, who made over to me his large collection of
+manuscript material; to Henry W. Rankin, of East Northfield, a friend
+unseen but proved, to whom I owe precious information; to Theodore
+Flournoy, of Geneva, to Canning Schiller, of Oxford, and to my colleague
+Benjamin Rand, for documents; to my colleague Dickinson S. Miller, and to
+my friends, Thomas Wren Ward, of New York, and Wincenty Lutoslawski, late
+of Cracow, for important suggestions and advice. Finally, to conversations
+with the lamented Thomas Davidson and to the use of his books, at
+Glenmore, above Keene Valley, I owe more obligations than I can well
+express.
+
+HARVARD UNIVERSITY,
+March, 1902.
+
+
+
+
+
+LECTURE I. RELIGION AND NEUROLOGY.
+
+
+It is with no small amount of trepidation that I take my place behind this
+desk, and face this learned audience. To us Americans, the experience of
+receiving instruction from the living voice, as well as from the books, of
+European scholars, is very familiar. At my own University of Harvard, not
+a winter passes without its harvest, large or small, of lectures from
+Scottish, English, French, or German representatives of the science or
+literature of their respective countries whom we have either induced to
+cross the ocean to address us, or captured on the wing as they were
+visiting our land. It seems the natural thing for us to listen whilst the
+Europeans talk. The contrary habit, of talking whilst the Europeans
+listen, we have not yet acquired; and in him who first makes the adventure
+it begets a certain sense of apology being due for so presumptuous an act.
+Particularly must this be the case on a soil as sacred to the American
+imagination as that of Edinburgh. The glories of the philosophic chair of
+this university were deeply impressed on my imagination in boyhood.
+Professor Fraser’s Essays in Philosophy, then just published, was the
+first philosophic book I ever looked into, and I well remember the awe‐
+struck feeling I received from the account of Sir William Hamilton’s
+class‐room therein contained. Hamilton’s own lectures were the first
+philosophic writings I ever forced myself to study, and after that I was
+immersed in Dugald Stewart and Thomas Brown. Such juvenile emotions of
+reverence never get outgrown; and I confess that to find my humble self
+promoted from my native wilderness to be actually for the time an official
+here, and transmuted into a colleague of these illustrious names, carries
+with it a sense of dreamland quite as much as of reality.
+
+But since I have received the honor of this appointment I have felt that
+it would never do to decline. The academic career also has its heroic
+obligations, so I stand here without further deprecatory words. Let me say
+only this, that now that the current, here and at Aberdeen, has begun to
+run from west to east, I hope it may continue to do so. As the years go
+by, I hope that many of my countrymen may be asked to lecture in the
+Scottish universities, changing places with Scotsmen lecturing in the
+United States; I hope that our people may become in all these higher
+matters even as one people; and that the peculiar philosophic temperament,
+as well as the peculiar political temperament, that goes with our English
+speech may more and more pervade and influence the world.
+
+                  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+
+As regards the manner in which I shall have to administer this
+lectureship, I am neither a theologian, nor a scholar learned in the
+history of religions, nor an anthropologist. Psychology is the only branch
+of learning in which I am particularly versed. To the psychologist the
+religious propensities of man must be at least as interesting as any other
+of the facts pertaining to his mental constitution. It would seem,
+therefore, that, as a psychologist, the natural thing for me would be to
+invite you to a descriptive survey of those religious propensities.
+
+If the inquiry be psychological, not religious institutions, but rather
+religious feelings and religious impulses must be its subject, and I must
+confine myself to those more developed subjective phenomena recorded in
+literature produced by articulate and fully self‐conscious men, in works
+of piety and autobiography. Interesting as the origins and early stages of
+a subject always are, yet when one seeks earnestly for its full
+significance, one must always look to its more completely evolved and
+perfect forms. It follows from this that the documents that will most
+concern us will be those of the men who were most accomplished in the
+religious life and best able to give an intelligible account of their
+ideas and motives. These men, of course, are either comparatively modern
+writers, or else such earlier ones as have become religious classics. The
+_documents humains_ which we shall find most instructive need not then be
+sought for in the haunts of special erudition—they lie along the beaten
+highway; and this circumstance, which flows so naturally from the
+character of our problem, suits admirably also your lecturer’s lack of
+special theological learning. I may take my citations, my sentences and
+paragraphs of personal confession, from books that most of you at some
+time will have had already in your hands, and yet this will be no
+detriment to the value of my conclusions. It is true that some more
+adventurous reader and investigator, lecturing here in future, may unearth
+from the shelves of libraries documents that will make a more delectable
+and curious entertainment to listen to than mine. Yet I doubt whether he
+will necessarily, by his control of so much more out‐of‐the‐way material,
+get much closer to the essence of the matter in hand.
+
+The question, What are the religious propensities? and the question, What
+is their philosophic significance? are two entirely different orders of
+question from the logical point of view; and, as a failure to recognize
+this fact distinctly may breed confusion, I wish to insist upon the point
+a little before we enter into the documents and materials to which I have
+referred.
+
+In recent books on logic, distinction is made between two orders of
+inquiry concerning anything. First, what is the nature of it? how did it
+come about? what is its constitution, origin, and history? And second,
+What is its importance, meaning, or significance, now that it is once
+here? The answer to the one question is given in an _existential judgment_
+or proposition. The answer to the other is a _proposition of value_, what
+the Germans call a _Werthurtheil_, or what we may, if we like, denominate
+a _spiritual judgment_. Neither judgment can be deduced immediately from
+the other. They proceed from diverse intellectual preoccupations, and the
+mind combines them only by making them first separately, and then adding
+them together.
+
+In the matter of religions it is particularly easy to distinguish the two
+orders of question. Every religious phenomenon has its history and its
+derivation from natural antecedents. What is nowadays called the higher
+criticism of the Bible is only a study of the Bible from this existential
+point of view, neglected too much by the earlier church. Under just what
+biographic conditions did the sacred writers bring forth their various
+contributions to the holy volume? And what had they exactly in their
+several individual minds, when they delivered their utterances? These are
+manifestly questions of historical fact, and one does not see how the
+answer to them can decide offhand the still further question: of what use
+should such a volume, with its manner of coming into existence so defined,
+be to us as a guide to life and a revelation? To answer this other
+question we must have already in our mind some sort of a general theory as
+to what the peculiarities in a thing should be which give it value for
+purposes of revelation; and this theory itself would be what I just called
+a spiritual judgment. Combining it with our existential judgment, we might
+indeed deduce another spiritual judgment as to the Bible’s worth. Thus if
+our theory of revelation‐value were to affirm that any book, to possess
+it, must have been composed automatically or not by the free caprice of
+the writer, or that it must exhibit no scientific and historic errors and
+express no local or personal passions, the Bible would probably fare ill
+at our hands. But if, on the other hand, our theory should allow that a
+book may well be a revelation in spite of errors and passions and
+deliberate human composition, if only it be a true record of the inner
+experiences of great‐souled persons wrestling with the crises of their
+fate, then the verdict would be much more favorable. You see that the
+existential facts by themselves are insufficient for determining the
+value; and the best adepts of the higher criticism accordingly never
+confound the existential with the spiritual problem. With the same
+conclusions of fact before them, some take one view, and some another, of
+the Bible’s value as a revelation, according as their spiritual judgment
+as to the foundation of values differs.
+
+                  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+
+I make these general remarks about the two sorts of judgment, because
+there are many religious persons—some of you now present, possibly, are
+among them—who do not yet make a working use of the distinction, and who
+may therefore feel at first a little startled at the purely existential
+point of view from which in the following lectures the phenomena of
+religious experience must be considered. When I handle them biologically
+and psychologically as if they were mere curious facts of individual
+history, some of you may think it a degradation of so sublime a subject,
+and may even suspect me, until my purpose gets more fully expressed, of
+deliberately seeking to discredit the religious side of life.
+
+Such a result is of course absolutely alien to my intention; and since
+such a prejudice on your part would seriously obstruct the due effect of
+much of what I have to relate, I will devote a few more words to the
+point.
+
+There can be no doubt that as a matter of fact a religious life,
+exclusively pursued, does tend to make the person exceptional and
+eccentric. I speak not now of your ordinary religious believer, who
+follows the conventional observances of his country, whether it be
+Buddhist, Christian, or Mohammedan. His religion has been made for him by
+others, communicated to him by tradition, determined to fixed forms by
+imitation, and retained by habit. It would profit us little to study this
+second‐hand religious life. We must make search rather for the original
+experiences which were the pattern‐setters to all this mass of suggested
+feeling and imitated conduct. These experiences we can only find in
+individuals for whom religion exists not as a dull habit, but as an acute
+fever rather. But such individuals are “geniuses” in the religious line;
+and like many other geniuses who have brought forth fruits effective
+enough for commemoration in the pages of biography, such religious
+geniuses have often shown symptoms of nervous instability. Even more
+perhaps than other kinds of genius, religious leaders have been subject to
+abnormal psychical visitations. Invariably they have been creatures of
+exalted emotional sensibility. Often they have led a discordant inner
+life, and had melancholy during a part of their career. They have known no
+measure, been liable to obsessions and fixed ideas; and frequently they
+have fallen into trances, heard voices, seen visions, and presented all
+sorts of peculiarities which are ordinarily classed as pathological.
+Often, moreover, these pathological features in their career have helped
+to give them their religious authority and influence.
+
+If you ask for a concrete example, there can be no better one than is
+furnished by the person of George Fox. The Quaker religion which he
+founded is something which it is impossible to overpraise. In a day of
+shams, it was a religion of veracity rooted in spiritual inwardness, and a
+return to something more like the original gospel truth than men had ever
+known in England. So far as our Christian sects to‐day are evolving into
+liberality, they are simply reverting in essence to the position which Fox
+and the early Quakers so long ago assumed. No one can pretend for a moment
+that in point of spiritual sagacity and capacity, Fox’s mind was unsound.
+Every one who confronted him personally, from Oliver Cromwell down to
+county magistrates and jailers, seems to have acknowledged his superior
+power. Yet from the point of view of his nervous constitution, Fox was a
+psychopath or _détraqué_ of the deepest dye. His Journal abounds in
+entries of this sort:—
+
+
+    “As I was walking with several friends, I lifted up my head, and
+    saw three steeple‐house spires, and they struck at my life. I
+    asked them what place that was? They said, Lichfield. Immediately
+    the word of the Lord came to me, that I must go thither. Being
+    come to the house we were going to, I wished the friends to walk
+    into the house, saying nothing to them of whither I was to go. As
+    soon as they were gone I stept away, and went by my eye over hedge
+    and ditch till I came within a mile of Lichfield; where, in a
+    great field, shepherds were keeping their sheep. Then was I
+    commanded by the Lord to pull off my shoes. I stood still, for it
+    was winter: but the word of the Lord was like a fire in me. So I
+    put off my shoes, and left them with the shepherds; and the poor
+    shepherds trembled, and were astonished. Then I walked on about a
+    mile, and as soon as I was got within the city, the word of the
+    Lord came to me again, saying: Cry, ‘Wo to the bloody city of
+    Lichfield!’ So I went up and down the streets, crying with a loud
+    voice, Wo to the bloody city of Lichfield! It being market day, I
+    went into the market‐place, and to and fro in the several parts of
+    it, and made stands, crying as before, Wo to the bloody city of
+    Lichfield! And no one laid hands on me. As I went thus crying
+    through the streets, there seemed to me to be a channel of blood
+    running down the streets, and the market‐place appeared like a
+    pool of blood. When I had declared what was upon me, and felt
+    myself clear, I went out of the town in peace; and returning to
+    the shepherds gave them some money, and took my shoes of them
+    again. But the fire of the Lord was so on my feet, and all over
+    me, that I did not matter to put on my shoes again, and was at a
+    stand whether I should or no, till I felt freedom from the Lord so
+    to do: then, after I had washed my feet, I put on my shoes again.
+    After this a deep consideration came upon me, for what reason I
+    should be sent to cry against that city, and call it The bloody
+    city! For though the parliament had the minister one while, and
+    the king another, and much blood had been shed in the town during
+    the wars between them, yet there was no more than had befallen
+    many other places. But afterwards I came to understand, that in
+    the Emperor Diocletian’s time a thousand Christians were martyr’d
+    in Lichfield. So I was to go, without my shoes, through the
+    channel of their blood, and into the pool of their blood in the
+    market‐place, that I might raise up the memorial of the blood of
+    those martyrs, which had been shed above a thousand years before,
+    and lay cold in their streets. So the sense of this blood was upon
+    me, and I obeyed the word of the Lord.”
+
+
+Bent as we are on studying religion’s existential conditions, we cannot
+possibly ignore these pathological aspects of the subject. We must
+describe and name them just as if they occurred in non‐religious men. It
+is true that we instinctively recoil from seeing an object to which our
+emotions and affections are committed handled by the intellect as any
+other object is handled. The first thing the intellect does with an object
+is to class it along with something else. But any object that is
+infinitely important to us and awakens our devotion feels to us also as if
+it must be _sui generis_ and unique. Probably a crab would be filled with
+a sense of personal outrage if it could hear us class it without ado or
+apology as a crustacean, and thus dispose of it. “I am no such thing,” it
+would say; “I am MYSELF, MYSELF alone.”
+
+                  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+
+The next thing the intellect does is to lay bare the causes in which the
+thing originates. Spinoza says: “I will analyze the actions and appetites
+of men as if it were a question of lines, of planes, and of solids.” And
+elsewhere he remarks that he will consider our passions and their
+properties with the same eye with which he looks on all other natural
+things, since the consequences of our affections flow from their nature
+with the same necessity as it results from the nature of a triangle that
+its three angles should be equal to two right angles. Similarly M. Taine,
+in the introduction to his history of English literature, has written:
+“Whether facts be moral or physical, it makes no matter. They always have
+their causes. There are causes for ambition, courage, veracity, just as
+there are for digestion, muscular movement, animal heat. Vice and virtue
+are products like vitriol and sugar.” When we read such proclamations of
+the intellect bent on showing the existential conditions of absolutely
+everything, we feel—quite apart from our legitimate impatience at the
+somewhat ridiculous swagger of the program, in view of what the authors
+are actually able to perform—menaced and negated in the springs of our
+innermost life. Such cold‐blooded assimilations threaten, we think, to
+undo our soul’s vital secrets, as if the same breath which should succeed
+in explaining their origin would simultaneously explain away their
+significance, and make them appear of no more preciousness, either, than
+the useful groceries of which M. Taine speaks.
+
+Perhaps the commonest expression of this assumption that spiritual value
+is undone if lowly origin be asserted is seen in those comments which
+unsentimental people so often pass on their more sentimental
+acquaintances. Alfred believes in immortality so strongly because his
+temperament is so emotional. Fanny’s extraordinary conscientiousness is
+merely a matter of over‐instigated nerves. William’s melancholy about the
+universe is due to bad digestion—probably his liver is torpid. Eliza’s
+delight in her church is a symptom of her hysterical constitution. Peter
+would be less troubled about his soul if he would take more exercise in
+the open air, etc. A more fully developed example of the same kind of
+reasoning is the fashion, quite common nowadays among certain writers, of
+criticising the religious emotions by showing a connection between them
+and the sexual life. Conversion is a crisis of puberty and adolescence.
+The macerations of saints, and the devotion of missionaries, are only
+instances of the parental instinct of self‐sacrifice gone astray. For the
+hysterical nun, starving for natural life, Christ is but an imaginary
+substitute for a more earthly object of affection. And the like.(1)
+
+We are surely all familiar in a general way with this method of
+discrediting states of mind for which we have an antipathy. We all use it
+to some degree in criticising persons whose states of mind we regard as
+overstrained. But when other people criticise our own more exalted soul‐
+flights by calling them “nothing but” expressions of our organic
+disposition, we feel outraged and hurt, for we know that, whatever be our
+organism’s peculiarities, our mental states have their substantive value
+as revelations of the living truth; and we wish that all this medical
+materialism could be made to hold its tongue.
+
+Medical materialism seems indeed a good appellation for the too simple‐
+minded system of thought which we are considering. Medical materialism
+finishes up Saint Paul by calling his vision on the road to Damascus a
+discharging lesion of the occipital cortex, he being an epileptic. It
+snuffs out Saint Teresa as an hysteric, Saint Francis of Assisi as an
+hereditary degenerate. George Fox’s discontent with the shams of his age,
+and his pining for spiritual veracity, it treats as a symptom of a
+disordered colon. Carlyle’s organ‐tones of misery it accounts for by a
+gastro‐duodenal catarrh. All such mental over‐tensions, it says, are, when
+you come to the bottom of the matter, mere affairs of diathesis (auto‐
+intoxications most probably), due to the perverted action of various
+glands which physiology will yet discover.
+
+And medical materialism then thinks that the spiritual authority of all
+such personages is successfully undermined.(2)
+
+Let us ourselves look at the matter in the largest possible way. Modern
+psychology, finding definite psycho‐physical connections to hold good,
+assumes as a convenient hypothesis that the dependence of mental states
+upon bodily conditions must be thorough‐going and complete. If we adopt
+the assumption, then of course what medical materialism insists on must be
+true in a general way, if not in every detail: Saint Paul certainly had
+once an epileptoid, if not an epileptic seizure; George Fox was an
+hereditary degenerate; Carlyle was undoubtedly auto‐intoxicated by some
+organ or other, no matter which,—and the rest. But now, I ask you, how can
+such an existential account of facts of mental history decide in one way
+or another upon their spiritual significance? According to the general
+postulate of psychology just referred to, there is not a single one of our
+states of mind, high or low, healthy or morbid, that has not some organic
+process as its condition. Scientific theories are organically conditioned
+just as much as religious emotions are; and if we only knew the facts
+intimately enough, we should doubtless see “the liver” determining the
+dicta of the sturdy atheist as decisively as it does those of the
+Methodist under conviction anxious about his soul. When it alters in one
+way the blood that percolates it, we get the methodist, when in another
+way, we get the atheist form of mind. So of all our raptures and our
+drynesses, our longings and pantings, our questions and beliefs. They are
+equally organically founded, be they of religious or of non‐religious
+content.
+
+To plead the organic causation of a religious state of mind, then, in
+refutation of its claim to possess superior spiritual value, is quite
+illogical and arbitrary, unless one have already worked out in advance
+some psycho‐physical theory connecting spiritual values in general with
+determinate sorts of physiological change. Otherwise none of our thoughts
+and feelings, not even our scientific doctrines, not even our
+_dis_‐beliefs, could retain any value as revelations of the truth, for
+every one of them without exception flows from the state of their
+possessor’s body at the time.
+
+It is needless to say that medical materialism draws in point of fact no
+such sweeping skeptical conclusion. It is sure, just as every simple man
+is sure, that some states of mind are inwardly superior to others, and
+reveal to us more truth, and in this it simply makes use of an ordinary
+spiritual judgment. It has no physiological theory of the production of
+these its favorite states, by which it may accredit them; and its attempt
+to discredit the states which it dislikes, by vaguely associating them
+with nerves and liver, and connecting them with names connoting bodily
+affliction, is altogether illogical and inconsistent.
+
+Let us play fair in this whole matter, and be quite candid with ourselves
+and with the facts. When we think certain states of mind superior to
+others, is it ever because of what we know concerning their organic
+antecedents? No! it is always for two entirely different reasons. It is
+either because we take an immediate delight in them; or else it is because
+we believe them to bring us good consequential fruits for life. When we
+speak disparagingly of “feverish fancies,” surely the fever‐process as
+such is not the ground of our disesteem—for aught we know to the contrary,
+103° or 104° Fahrenheit might be a much more favorable temperature for
+truths to germinate and sprout in, than the more ordinary blood‐heat of 97
+or 98 degrees. It is either the disagreeableness itself of the fancies, or
+their inability to bear the criticisms of the convalescent hour. When we
+praise the thoughts which health brings, health’s peculiar chemical
+metabolisms have nothing to do with determining our judgment. We know in
+fact almost nothing about these metabolisms. It is the character of inner
+happiness in the thoughts which stamps them as good, or else their
+consistency with our other opinions and their serviceability for our
+needs, which make them pass for true in our esteem.
+
+Now the more intrinsic and the more remote of these criteria do not always
+hang together. Inner happiness and serviceability do not always agree.
+What immediately feels most “good” is not always most “true,” when
+measured by the verdict of the rest of experience. The difference between
+Philip drunk and Philip sober is the classic instance in corroboration. If
+merely “feeling good” could decide, drunkenness would be the supremely
+valid human experience. But its revelations, however acutely satisfying at
+the moment, are inserted into an environment which refuses to bear them
+out for any length of time. The consequence of this discrepancy of the two
+criteria is the uncertainty which still prevails over so many of our
+spiritual judgments. There are moments of sentimental and mystical
+experience—we shall hereafter hear much of them—that carry an enormous
+sense of inner authority and illumination with them when they come. But
+they come seldom, and they do not come to every one; and the rest of life
+makes either no connection with them, or tends to contradict them more
+than it confirms them. Some persons follow more the voice of the moment in
+these cases, some prefer to be guided by the average results. Hence the
+sad discordancy of so many of the spiritual judgments of human beings; a
+discordancy which will be brought home to us acutely enough before these
+lectures end.
+
+                  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+
+It is, however, a discordancy that can never be resolved by any merely
+medical test. A good example of the impossibility of holding strictly to
+the medical tests is seen in the theory of the pathological causation of
+genius promulgated by recent authors. “Genius,” said Dr. Moreau, “is but
+one of the many branches of the neuropathic tree.” “Genius,” says Dr.
+Lombroso, “is a symptom of hereditary degeneration of the epileptoid
+variety, and is allied to moral insanity.” “Whenever a man’s life,” writes
+Mr. Nisbet, “is at once sufficiently illustrious and recorded with
+sufficient fullness to be a subject of profitable study, he inevitably
+falls into the morbid category.... And it is worthy of remark that, as a
+rule, the greater the genius, the greater the unsoundness.”(3)
+
+Now do these authors, after having succeeded in establishing to their own
+satisfaction that the works of genius are fruits of disease, consistently
+proceed thereupon to impugn the _value_ of the fruits? Do they deduce a
+new spiritual judgment from their new doctrine of existential conditions?
+Do they frankly forbid us to admire the productions of genius from now
+onwards? and say outright that no neuropath can ever be a revealer of new
+truth?
+
+No! their immediate spiritual instincts are too strong for them here, and
+hold their own against inferences which, in mere love of logical
+consistency, medical materialism ought to be only too glad to draw. One
+disciple of the school, indeed, has striven to impugn the value of works
+of genius in a wholesale way (such works of contemporary art, namely, as
+he himself is unable to enjoy, and they are many) by using medical
+arguments.(4) But for the most part the masterpieces are left
+unchallenged; and the medical line of attack either confines itself to
+such secular productions as every one admits to be intrinsically
+eccentric, or else addresses itself exclusively to religious
+manifestations. And then it is because the religious manifestations have
+been already condemned because the critic dislikes them on internal or
+spiritual grounds.
+
+In the natural sciences and industrial arts it never occurs to any one to
+try to refute opinions by showing up their author’s neurotic constitution.
+Opinions here are invariably tested by logic and by experiment, no matter
+what may be their author’s neurological type. It should be no otherwise
+with religious opinions. Their value can only be ascertained by spiritual
+judgments directly passed upon them, judgments based on our own immediate
+feeling primarily; and secondarily on what we can ascertain of their
+experiential relations to our moral needs and to the rest of what we hold
+as true.
+
+_Immediate luminousness_, in short, _philosophical reasonableness_, and
+_moral helpfulness_ are the only available criteria. Saint Teresa might
+have had the nervous system of the placidest cow, and it would not now
+save her theology, if the trial of the theology by these other tests
+should show it to be contemptible. And conversely if her theology can
+stand these other tests, it will make no difference how hysterical or
+nervously off her balance Saint Teresa may have been when she was with us
+here below.
+
+                  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+
+You see that at bottom we are thrown back upon the general principles by
+which the empirical philosophy has always contended that we must be guided
+in our search for truth. Dogmatic philosophies have sought for tests for
+truth which might dispense us from appealing to the future. Some direct
+mark, by noting which we can be protected immediately and absolutely, now
+and forever, against all mistake—such has been the darling dream of
+philosophic dogmatists. It is clear that the _origin_ of the truth would
+be an admirable criterion of this sort, if only the various origins could
+be discriminated from one another from this point of view, and the history
+of dogmatic opinion shows that origin has always been a favorite test.
+Origin in immediate intuition; origin in pontifical authority; origin in
+supernatural revelation, as by vision, hearing, or unaccountable
+impression; origin in direct possession by a higher spirit, expressing
+itself in prophecy and warning; origin in automatic utterance
+generally,—these origins have been stock warrants for the truth of one
+opinion after another which we find represented in religious history. The
+medical materialists are therefore only so many belated dogmatists, neatly
+turning the tables on their predecessors by using the criterion of origin
+in a destructive instead of an accreditive way.
+
+They are effective with their talk of pathological origin only so long as
+supernatural origin is pleaded by the other side, and nothing but the
+argument from origin is under discussion. But the argument from origin has
+seldom been used alone, for it is too obviously insufficient. Dr. Maudsley
+is perhaps the cleverest of the rebutters of supernatural religion on
+grounds of origin. Yet he finds himself forced to write:—
+
+“What right have we to believe Nature under any obligation to do her work
+by means of complete minds only? She may find an incomplete mind a more
+suitable instrument for a particular purpose. It is the work that is done,
+and the quality in the worker by which it was done, that is alone of
+moment; and it may be no great matter from a cosmical standpoint, if in
+other qualities of character he was singularly defective—if indeed he were
+hypocrite, adulterer, eccentric, or lunatic.... Home we come again, then,
+to the old and last resort of certitude,—namely the common assent of
+mankind, or of the competent by instruction and training among
+mankind.”(5)
+
+In other words, not its origin, but _the way in which it works on the
+whole_, is Dr. Maudsley’s final test of a belief. This is our own
+empiricist criterion; and this criterion the stoutest insisters on
+supernatural origin have also been forced to use in the end. Among the
+visions and messages some have always been too patently silly, among the
+trances and convulsive seizures some have been too fruitless for conduct
+and character, to pass themselves off as significant, still less as
+divine. In the history of Christian mysticism the problem how to
+discriminate between such messages and experiences as were really divine
+miracles, and such others as the demon in his malice was able to
+counterfeit, thus making the religious person twofold more the child of
+hell he was before, has always been a difficult one to solve, needing all
+the sagacity and experience of the best directors of conscience. In the
+end it had to come to our empiricist criterion: By their fruits ye shall
+know them, not by their roots, Jonathan Edwards’s Treatise on Religious
+Affections is an elaborate working out of this thesis. The _roots_ of a
+man’s virtue are inaccessible to us. No appearances whatever are
+infallible proofs of grace. Our practice is the only sure evidence, even
+to ourselves, that we are genuinely Christians.
+
+
+    “In forming a judgment of ourselves now,” Edwards writes, “we
+    should certainly adopt that evidence which our supreme Judge will
+    chiefly make use of when we come to stand before him at the last
+    day.... There is not one grace of the Spirit of God, of the
+    existence of which, in any professor of religion, Christian
+    practice is not the most decisive evidence.... The degree in which
+    our experience is productive of practice shows the degree in which
+    our experience is spiritual and divine.”
+
+
+Catholic writers are equally emphatic. The good dispositions which a
+vision, or voice, or other apparent heavenly favor leave behind them are
+the only marks by which we may be sure they are not possible deceptions of
+the tempter. Says Saint Teresa:—
+
+
+    “Like imperfect sleep which, instead of giving more strength to
+    the head, doth but leave it the more exhausted, the result of mere
+    operations of the imagination is but to weaken the soul. Instead
+    of nourishment and energy she reaps only lassitude and disgust:
+    whereas a genuine heavenly vision yields to her a harvest of
+    ineffable spiritual riches, and an admirable renewal of bodily
+    strength. I alleged these reasons to those who so often accused my
+    visions of being the work of the enemy of mankind and the sport of
+    my imagination.... I showed them the jewels which the divine hand
+    had left with me:—they were my actual dispositions. All those who
+    knew me saw that I was changed; my confessor bore witness to the
+    fact; this improvement, palpable in all respects, far from being
+    hidden, was brilliantly evident to all men. As for myself, it was
+    impossible to believe that if the demon were its author, he could
+    have used, in order to lose me and lead me to hell, an expedient
+    so contrary to his own interests as that of uprooting my vices,
+    and filling me with masculine courage and other virtues instead,
+    for I saw clearly that a single one of these visions was enough to
+    enrich me with all that wealth.”(6)
+
+
+I fear I may have made a longer excursus than was necessary, and that
+fewer words would have dispelled the uneasiness which may have arisen
+among some of you as I announced my pathological programme. At any rate
+you must all be ready now to judge the religious life by its results
+exclusively, and I shall assume that the bugaboo of morbid origin will
+scandalize your piety no more.
+
+Still, you may ask me, if its results are to be the ground of our final
+spiritual estimate of a religious phenomenon, why threaten us at all with
+so much existential study of its conditions? Why not simply leave
+pathological questions out?
+
+To this I reply in two ways: First, I say, irrepressible curiosity
+imperiously leads one on; and I say, secondly, that it always leads to a
+better understanding of a thing’s significance to consider its
+exaggerations and perversions, its equivalents and substitutes and nearest
+relatives elsewhere. Not that we may thereby swamp the thing in the
+wholesale condemnation which we pass on its inferior congeners, but rather
+that we may by contrast ascertain the more precisely in what its merits
+consist, by learning at the same time to what particular dangers of
+corruption it may also be exposed.
+
+Insane conditions have this advantage, that they isolate special factors
+of the mental life, and enable us to inspect them unmasked by their more
+usual surroundings. They play the part in mental anatomy which the scalpel
+and the microscope play in the anatomy of the body. To understand a thing
+rightly we need to see it both out of its environment and in it, and to
+have acquaintance with the whole range of its variations. The study of
+hallucinations has in this way been for psychologists the key to their
+comprehension of normal sensation, that of illusions has been the key to
+the right comprehension of perception. Morbid impulses and imperative
+conceptions, “fixed ideas,” so called, have thrown a flood of light on the
+psychology of the normal will; and obsessions and delusions have performed
+the same service for that of the normal faculty of belief.
+
+Similarly, the nature of genius has been illuminated by the attempts, of
+which I already made mention, to class it with psychopathical phenomena.
+Borderland insanity, crankiness, insane temperament, loss of mental
+balance, psychopathic degeneration (to use a few of the many synonyms by
+which it has been called), has certain peculiarities and liabilities
+which, when combined with a superior quality of intellect in an
+individual, make it more probable that he will make his mark and affect
+his age, than if his temperament were less neurotic. There is of course no
+special affinity between crankiness as such and superior intellect,(7) for
+most psychopaths have feeble intellects, and superior intellects more
+commonly have normal nervous systems. But the psychopathic temperament,
+whatever be the intellect with which it finds itself paired, often brings
+with it ardor and excitability of character. The cranky person has
+extraordinary emotional susceptibility. He is liable to fixed ideas and
+obsessions. His conceptions tend to pass immediately into belief and
+action; and when he gets a new idea, he has no rest till he proclaims it,
+or in some way “works it off.” “What shall I think of it?” a common person
+says to himself about a vexed question; but in a “cranky” mind “What must
+I do about it?” is the form the question tends to take. In the
+autobiography of that high‐souled woman, Mrs. Annie Besant, I read the
+following passage: “Plenty of people wish well to any good cause, but very
+few care to exert themselves to help it, and still fewer will risk
+anything in its support. ‘Some one ought to do it, but why should I?’ is
+the ever reëchoed phrase of weak‐kneed amiability. ‘Some one ought to do
+it, so why not I?’ is the cry of some earnest servant of man, eagerly
+forward springing to face some perilous duty. Between these two sentences
+lie whole centuries of moral evolution.” True enough! and between these
+two sentences lie also the different destinies of the ordinary sluggard
+and the psychopathic man. Thus, when a superior intellect and a
+psychopathic temperament coalesce—as in the endless permutations and
+combinations of human faculty, they are bound to coalesce often enough—in
+the same individual, we have the best possible condition for the kind of
+effective genius that gets into the biographical dictionaries. Such men do
+not remain mere critics and understanders with their intellect. Their
+ideas possess them, they inflict them, for better or worse, upon their
+companions or their age. It is they who get counted when Messrs Lombroso,
+Nisbet, and others invoke statistics to defend their paradox.
+
+To pass now to religious phenomena, take the melancholy which, as we shall
+see, constitutes an essential moment in every complete religious
+evolution. Take the happiness which achieved religious belief confers.
+Take the trance‐like states of insight into truth which all religious
+mystics report.(8) These are each and all of them special cases of kinds
+of human experience of much wider scope. Religious melancholy, whatever
+peculiarities it may have _quâ_ religious, is at any rate melancholy.
+Religious happiness is happiness. Religious trance is trance. And the
+moment we renounce the absurd notion that a thing is exploded away as soon
+as it is classed with others, or its origin is shown; the moment we agree
+to stand by experimental results and inner quality, in judging of
+values,—who does not see that we are likely to ascertain the distinctive
+significance of religious melancholy and happiness, or of religious
+trances, far better by comparing them as conscientiously as we can with
+other varieties of melancholy, happiness, and trance, than by refusing to
+consider their place in any more general series, and treating them as if
+they were outside of nature’s order altogether?
+
+I hope that the course of these lectures will confirm us in this
+supposition. As regards the psychopathic origin of so many religious
+phenomena, that would not be in the least surprising or disconcerting,
+even were such phenomena certified from on high to be the most precious of
+human experiences. No one organism can possibly yield to its owner the
+whole body of truth. Few of us are not in some way infirm, or even
+diseased; and our very infirmities help us unexpectedly. In the
+psychopathic temperament we have the emotionality which is the _sine quâ
+non_ of moral perception; we have the intensity and tendency to emphasis
+which are the essence of practical moral vigor; and we have the love of
+metaphysics and mysticism which carry one’s interests beyond the surface
+of the sensible world. What, then, is more natural than that this
+temperament should introduce one to regions of religious truth, to corners
+of the universe, which your robust Philistine type of nervous system,
+forever offering its biceps to be felt, thumping its breast, and thanking
+Heaven that it hasn’t a single morbid fibre in its composition, would be
+sure to hide forever from its self‐satisfied possessors?
+
+If there were such a thing as inspiration from a higher realm, it might
+well be that the neurotic temperament would furnish the chief condition of
+the requisite receptivity. And having said thus much, I think that I may
+let the matter of religion and neuroticism drop.
+
+                  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+
+The mass of collateral phenomena, morbid or healthy, with which the
+various religious phenomena must be compared in order to understand them
+better, forms what in the slang of pedagogics is termed “the apperceiving
+mass” by which we comprehend them. The only novelty that I can imagine
+this course of lectures to possess lies in the breadth of the apperceiving
+mass. I may succeed in discussing religious experiences in a wider context
+than has been usual in university courses.
+
+
+
+
+
+LECTURE II. CIRCUMSCRIPTION OF THE TOPIC.
+
+
+Most books on the philosophy of religion try to begin with a precise
+definition of what its essence consists of. Some of these would‐be
+definitions may possibly come before us in later portions of this course,
+and I shall not be pedantic enough to enumerate any of them to you now.
+Meanwhile the very fact that they are so many and so different from one
+another is enough to prove that the word “religion” cannot stand for any
+single principle or essence, but is rather a collective name. The
+theorizing mind tends always to the over‐simplification of its materials.
+This is the root of all that absolutism and one‐sided dogmatism by which
+both philosophy and religion have been infested. Let us not fall
+immediately into a one‐sided view of our subject, but let us rather admit
+freely at the outset that we may very likely find no one essence, but many
+characters which may alternately be equally important in religion. If we
+should inquire for the essence of “government,” for example, one man might
+tell us it was authority, another submission, another police, another an
+army, another an assembly, another a system of laws; yet all the while it
+would be true that no concrete government can exist without all these
+things, one of which is more important at one moment and others at
+another. The man who knows governments most completely is he who troubles
+himself least about a definition which shall give their essence. Enjoying
+an intimate acquaintance with all their particularities in turn, he would
+naturally regard an abstract conception in which these were unified as a
+thing more misleading than enlightening. And why may not religion be a
+conception equally complex?(9)
+
+                  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+
+Consider also the “religious sentiment” which we see referred to in so
+many books, as if it were a single sort of mental entity.
+
+In the psychologies and in the philosophies of religion, we find the
+authors attempting to specify just what entity it is. One man allies it to
+the feeling of dependence; one makes it a derivative from fear; others
+connect it with the sexual life; others still identify it with the feeling
+of the infinite; and so on. Such different ways of conceiving it ought of
+themselves to arouse doubt as to whether it possibly can be one specific
+thing; and the moment we are willing to treat the term “religious
+sentiment” as a collective name for the many sentiments which religious
+objects may arouse in alternation, we see that it probably contains
+nothing whatever of a psychologically specific nature. There is religious
+fear, religious love, religious awe, religious joy, and so forth. But
+religious love is only man’s natural emotion of love directed to a
+religious object; religious fear is only the ordinary fear of commerce, so
+to speak, the common quaking of the human breast, in so far as the notion
+of divine retribution may arouse it; religious awe is the same organic
+thrill which we feel in a forest at twilight, or in a mountain gorge; only
+this time it comes over us at the thought of our supernatural relations;
+and similarly of all the various sentiments which may be called into play
+in the lives of religious persons. As concrete states of mind, made up of
+a feeling _plus_ a specific sort of object, religious emotions of course
+are psychic entities distinguishable from other concrete emotions; but
+there is no ground for assuming a simple abstract “religious emotion” to
+exist as a distinct elementary mental affection by itself, present in
+every religious experience without exception.
+
+As there thus seems to be no one elementary religious emotion, but only a
+common storehouse of emotions upon which religious objects may draw, so
+there might conceivably also prove to be no one specific and essential
+kind of religious object, and no one specific and essential kind of
+religious act.
+
+                  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+
+The field of religion being as wide as this, it is manifestly impossible
+that I should pretend to cover it. My lectures must be limited to a
+fraction of the subject. And, although it would indeed be foolish to set
+up an abstract definition of religion’s essence, and then proceed to
+defend that definition against all comers, yet this need not prevent me
+from taking my own narrow view of what religion shall consist in _for the
+purpose of these lectures_, or, out of the many meanings of the word, from
+choosing the one meaning in which I wish to interest you particularly, and
+proclaiming arbitrarily that when I say “religion” I mean _that_. This, in
+fact, is what I must do, and I will now preliminarily seek to mark out the
+field I choose.
+
+One way to mark it out easily is to say what aspects of the subject we
+leave out. At the outset we are struck by one great partition which
+divides the religious field. On the one side of it lies institutional, on
+the other personal religion. As M. P. Sabatier says, one branch of
+religion keeps the divinity, another keeps man most in view. Worship and
+sacrifice, procedures for working on the dispositions of the deity,
+theology and ceremony and ecclesiastical organization, are the essentials
+of religion in the institutional branch. Were we to limit our view to it,
+we should have to define religion as an external art, the art of winning
+the favor of the gods. In the more personal branch of religion it is on
+the contrary the inner dispositions of man himself which form the centre
+of interest, his conscience, his deserts, his helplessness, his
+incompleteness. And although the favor of the God, as forfeited or gained,
+is still an essential feature of the story, and theology plays a vital
+part therein, yet the acts to which this sort of religion prompts are
+personal not ritual acts, the individual transacts the business by himself
+alone, and the ecclesiastical organization, with its priests and
+sacraments and other go‐betweens, sinks to an altogether secondary place.
+The relation goes direct from heart to heart, from soul to soul, between
+man and his maker.
+
+Now in these lectures I propose to ignore the institutional branch
+entirely, to say nothing of the ecclesiastical organization, to consider
+as little as possible the systematic theology and the ideas about the gods
+themselves, and to confine myself as far as I can to personal religion
+pure and simple. To some of you personal religion, thus nakedly
+considered, will no doubt seem too incomplete a thing to wear the general
+name. “It is a part of religion,” you will say, “but only its unorganized
+rudiment; if we are to name it by itself, we had better call it man’s
+conscience or morality than his religion. The name ‘religion’ should be
+reserved for the fully organized system of feeling, thought, and
+institution, for the Church, in short, of which this personal religion, so
+called, is but a fractional element.”
+
+But if you say this, it will only show the more plainly how much the
+question of definition tends to become a dispute about names. Rather than
+prolong such a dispute, I am willing to accept almost any name for the
+personal religion of which I propose to treat. Call it conscience or
+morality, if you yourselves prefer, and not religion—under either name it
+will be equally worthy of our study. As for myself, I think it will prove
+to contain some elements which morality pure and simple does not contain,
+and these elements I shall soon seek to point out; so I will myself
+continue to apply the word “religion” to it; and in the last lecture of
+all, I will bring in the theologies and the ecclesiasticisms, and say
+something of its relation to them.
+
+In one sense at least the personal religion will prove itself more
+fundamental than either theology or ecclesiasticism. Churches, when once
+established, live at second‐hand upon tradition; but the _founders_ of
+every church owed their power originally to the fact of their direct
+personal communion with the divine. Not only the superhuman founders, the
+Christ, the Buddha, Mahomet, but all the originators of Christian sects
+have been in this case;—so personal religion should still seem the
+primordial thing, even to those who continue to esteem it incomplete.
+
+There are, it is true, other things in religion chronologically more
+primordial than personal devoutness in the moral sense. Fetishism and
+magic seem to have preceded inward piety historically—at least our records
+of inward piety do not reach back so far. And if fetishism and magic be
+regarded as stages of religion, one may say that personal religion in the
+inward sense and the genuinely spiritual ecclesiasticisms which it founds
+are phenomena of secondary or even tertiary order. But, quite apart from
+the fact that many anthropologists—for instance, Jevons and
+Frazer—expressly oppose “religion” and “magic” to each other, it is
+certain that the whole system of thought which leads to magic, fetishism,
+and the lower superstitions may just as well be called primitive science
+as called primitive religion. The question thus becomes a verbal one
+again; and our knowledge of all these early stages of thought and feeling
+is in any case so conjectural and imperfect that farther discussion would
+not be worth while.
+
+Religion, therefore, as I now ask you arbitrarily to take it, shall mean
+for us _the feelings, acts, and experiences of individual men in their
+solitude, so far as they apprehend themselves to stand in relation to
+whatever they may consider the divine_. Since the relation may be either
+moral, physical, or ritual, it is evident that out of religion in the
+sense in which we take it, theologies, philosophies, and ecclesiastical
+organizations may secondarily grow. In these lectures, however, as I have
+already said, the immediate personal experiences will amply fill our time,
+and we shall hardly consider theology or ecclesiasticism at all.
+
+We escape much controversial matter by this arbitrary definition of our
+field. But, still, a chance of controversy comes up over the word “divine”
+if we take it in the definition in too narrow a sense. There are systems
+of thought which the world usually calls religious, and yet which do not
+positively assume a God. Buddhism is in this case. Popularly, of course,
+the Buddha himself stands in place of a God; but in strictness the
+Buddhistic system is atheistic. Modern transcendental idealism,
+Emersonianism, for instance, also seems to let God evaporate into abstract
+Ideality. Not a deity _in concreto_, not a superhuman person, but the
+immanent divinity in things, the essentially spiritual structure of the
+universe, is the object of the transcendentalist cult. In that address to
+the graduating class at Divinity College in 1838 which made Emerson
+famous, the frank expression of this worship of mere abstract laws was
+what made the scandal of the performance.
+
+
+    “These laws,” said the speaker, “execute themselves. They are out
+    of time, out of space, and not subject to circumstance: Thus, in
+    the soul of man there is a justice whose retributions are instant
+    and entire. He who does a good deed is instantly ennobled. He who
+    does a mean deed is by the action itself contracted. He who puts
+    off impurity thereby puts on purity. If a man is at heart just,
+    then in so far is he God; the safety of God, the immortality of
+    God, the majesty of God, do enter into that man with justice. If a
+    man dissemble, deceive, he deceives himself, and goes out of
+    acquaintance with his own being. Character is always known. Thefts
+    never enrich; alms never impoverish; murder will speak out of
+    stone walls. The least admixture of a lie—for example, the taint
+    of vanity, any attempt to make a good impression, a favorable
+    appearance—will instantly vitiate the effect. But speak the truth,
+    and all things alive or brute are vouchers, and the very roots of
+    the grass underground there do seem to stir and move to bear your
+    witness. For all things proceed out of the same spirit, which is
+    differently named love, justice, temperance, in its different
+    applications, just as the ocean receives different names on the
+    several shores which it washes. In so far as he roves from these
+    ends, a man bereaves himself of power, of auxiliaries. His being
+    shrinks ... he becomes less and less, a mote, a point, until
+    absolute badness is absolute death. The perception of this law
+    awakens in the mind a sentiment which we call the religious
+    sentiment, and which makes our highest happiness. Wonderful is its
+    power to charm and to command. It is a mountain air. It is the
+    embalmer of the world. It makes the sky and the hills sublime, and
+    the silent song of the stars is it. It is the beatitude of man. It
+    makes him illimitable. When he says ‘I ought’; when love warns
+    him; when he chooses, warned from on high, the good and great
+    deed; then, deep melodies wander through his soul from supreme
+    wisdom. Then he can worship, and be enlarged by his worship; for
+    he can never go behind this sentiment. All the expressions of this
+    sentiment are sacred and permanent in proportion to their purity.
+    [They] affect us more than all other compositions. The sentences
+    of the olden time, which ejaculate this piety, are still fresh and
+    fragrant. And the unique impression of Jesus upon mankind, whose
+    name is not so much written as ploughed into the history of this
+    world, is proof of the subtle virtue of this infusion.”(10)
+
+
+Such is the Emersonian religion. The universe has a divine soul of order,
+which soul is moral, being also the soul within the soul of man. But
+whether this soul of the universe be a mere quality like the eye’s
+brilliancy or the skin’s softness, or whether it be a self‐conscious life
+like the eye’s seeing or the skin’s feeling, is a decision that never
+unmistakably appears in Emerson’s pages. It quivers on the boundary of
+these things, sometimes leaning one way, sometimes the other, to suit the
+literary rather than the philosophic need. Whatever it is, though, it is
+active. As much as if it were a God, we can trust it to protect all ideal
+interests and keep the world’s balance straight. The sentences in which
+Emerson, to the very end, gave utterance to this faith are as fine as
+anything in literature: “If you love and serve men, you cannot by any
+hiding or stratagem escape the remuneration. Secret retributions are
+always restoring the level, when disturbed, of the divine justice. It is
+impossible to tilt the beam. All the tyrants and proprietors and
+monopolists of the world in vain set their shoulders to heave the bar.
+Settles forevermore the ponderous equator to its line, and man and mote,
+and star and sun, must range to it, or be pulverized by the recoil.”(11)
+
+Now it would be too absurd to say that the inner experiences that underlie
+such expressions of faith as this and impel the writer to their utterance
+are quite unworthy to be called religious experiences. The sort of appeal
+that Emersonian optimism, on the one hand, and Buddhistic pessimism, on
+the other, make to the individual and the sort of response which he makes
+to them in his life are in fact indistinguishable from, and in many
+respects identical with, the best Christian appeal and response. We must
+therefore, from the experiential point of view, call these godless or
+quasi‐godless creeds “religions”; and accordingly when in our definition
+of religion we speak of the individual’s relation to “what he considers
+the divine,” we must interpret the term “divine” very broadly, as denoting
+any object that is god_like_, whether it be a concrete deity or not.
+
+                  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+
+But the term “godlike,” if thus treated as a floating general quality,
+becomes exceedingly vague, for many gods have flourished in religious
+history, and their attributes have been discrepant enough. What then is
+that essentially godlike quality—be it embodied in a concrete deity or
+not—our relation to which determines our character as religious men? It
+will repay us to seek some answer to this question before we proceed
+farther.
+
+For one thing, gods are conceived to be first things in the way of being
+and power. They overarch and envelop, and from them there is no escape.
+What relates to them is the first and last word in the way of truth.
+Whatever then were most primal and enveloping and deeply true might at
+this rate be treated as godlike, and a man’s religion might thus be
+identified with his attitude, whatever it might be, towards what he felt
+to be the primal truth.
+
+Such a definition as this would in a way be defensible. Religion, whatever
+it is, is a man’s total reaction upon life, so why not say that any total
+reaction upon life is a religion? Total reactions are different from
+casual reactions, and total attitudes are different from usual or
+professional attitudes. To get at them you must go behind the foreground
+of existence and reach down to that curious sense of the whole residual
+cosmos as an everlasting presence, intimate or alien, terrible or amusing,
+lovable or odious, which in some degree every one possesses. This sense of
+the world’s presence, appealing as it does to our peculiar individual
+temperament, makes us either strenuous or careless, devout or blasphemous,
+gloomy or exultant, about life at large; and our reaction, involuntary and
+inarticulate and often half unconscious as it is, is the completest of all
+our answers to the question, “What is the character of this universe in
+which we dwell?” It expresses our individual sense of it in the most
+definite way. Why then not call these reactions our religion, no matter
+what specific character they may have? Non‐religious as some of these
+reactions may be, in one sense of the word “religious,” they yet belong to
+_the general sphere of the religious life_, and so should generically be
+classed as religious reactions. “He believes in No‐God, and he worships
+him,” said a colleague of mine of a student who was manifesting a fine
+atheistic ardor; and the more fervent opponents of Christian doctrine have
+often enough shown a temper which, psychologically considered, is
+indistinguishable from religious zeal.
+
+But so very broad a use of the word “religion” would be inconvenient,
+however defensible it might remain on logical grounds. There are trifling,
+sneering attitudes even towards the whole of life; and in some men these
+attitudes are final and systematic. It would strain the ordinary use of
+language too much to call such attitudes religious, even though, from the
+point of view of an unbiased critical philosophy, they might conceivably
+be perfectly reasonable ways of looking upon life. Voltaire, for example,
+writes thus to a friend, at the age of seventy‐three: “As for myself,” he
+says, “weak as I am, I carry on the war to the last moment, I get a
+hundred pike‐thrusts, I return two hundred, and I laugh. I see near my
+door Geneva on fire with quarrels over nothing, and I laugh again; and,
+thank God, I can look upon the world as a farce even when it becomes as
+tragic as it sometimes does. All comes out even at the end of the day, and
+all comes out still more even when all the days are over.”
+
+Much as we may admire such a robust old gamecock spirit in a
+valetudinarian, to call it a religious spirit would be odd. Yet it is for
+the moment Voltaire’s reaction on the whole of life. _Je m’en fiche_ is
+the vulgar French equivalent for our English ejaculation “Who cares?” And
+the happy term _je m’en fichisme_ recently has been invented to designate
+the systematic determination not to take anything in life too solemnly.
+“All is vanity” is the relieving word in all difficult crises for this
+mode of thought, which that exquisite literary genius Renan took pleasure,
+in his later days of sweet decay, in putting into coquettishly
+sacrilegious forms which remain to us as excellent expressions of the “all
+is vanity” state of mind. Take the following passage, for example,—we must
+hold to duty, even against the evidence, Renan says,—but he then goes on:—
+
+
+    “There are many chances that the world may be nothing but a fairy
+    pantomime of which no God has care. We must therefore arrange
+    ourselves so that on neither hypothesis we shall be completely
+    wrong. We must listen to the superior voices, but in such a way
+    that if the second hypothesis were true we should not have been
+    too completely duped. If in effect the world be not a serious
+    thing, it is the dogmatic people who will be the shallow ones, and
+    the worldly minded whom the theologians now call frivolous will be
+    those who are really wise.
+
+    “_In utrumque paratus_, then. Be ready for anything—that perhaps
+    is wisdom. Give ourselves up, according to the hour, to
+    confidence, to skepticism, to optimism, to irony, and we may be
+    sure that at certain moments at least we shall be with the
+    truth.... Good‐humor is a philosophic state of mind; it seems to
+    say to Nature that we take her no more seriously than she takes
+    us. I maintain that one should always talk of philosophy with a
+    smile. We owe it to the Eternal to be virtuous; but we have the
+    right to add to this tribute our irony as a sort of personal
+    reprisal. In this way we return to the right quarter jest for
+    jest; we play the trick that has been played on us. Saint
+    Augustine’s phrase: _Lord, if we are deceived, it is by thee!_
+    remains a fine one, well suited to our modern feeling. Only we
+    wish the Eternal to know that if we accept the fraud, we accept it
+    knowingly and willingly. We are resigned in advance to losing the
+    interest on our investments of virtue, but we wish not to appear
+    ridiculous by having counted on them too securely.”(12)
+
+
+Surely all the usual associations of the word “religion” would have to be
+stripped away if such a systematic _parti pris_ of irony were also to be
+denoted by the name. For common men “religion,” whatever more special
+meanings it may have, signifies always a _serious_ state of mind. If any
+one phrase could gather its universal message, that phrase would be, “All
+is _not_ vanity in this Universe, whatever the appearances may suggest.”
+If it can stop anything, religion as commonly apprehended can stop just
+such chaffing talk as Renan’s. It favors gravity, not pertness; it says
+“hush” to all vain chatter and smart wit.
+
+But if hostile to light irony, religion is equally hostile to heavy
+grumbling and complaint. The world appears tragic enough in some
+religions, but the tragedy is realized as purging, and a way of
+deliverance is held to exist. We shall see enough of the religious
+melancholy in a future lecture; but melancholy, according to our ordinary
+use of language, forfeits all title to be called religious when, in Marcus
+Aurelius’s racy words, the sufferer simply lies kicking and screaming
+after the fashion of a sacrificed pig. The mood of a Schopenhauer or a
+Nietzsche,—and in a less degree one may sometimes say the same of our own
+sad Carlyle,—though often an ennobling sadness, is almost as often only
+peevishness running away with the bit between its teeth. The sallies of
+the two German authors remind one, half the time, of the sick shriekings
+of two dying rats. They lack the purgatorial note which religious sadness
+gives forth.
+
+There must be something solemn, serious, and tender about any attitude
+which we denominate religious. If glad, it must not grin or snicker; if
+sad, it must not scream or curse. It is precisely as being _solemn_
+experiences that I wish to interest you in religious experiences. So I
+propose—arbitrarily again, if you please—to narrow our definition once
+more by saying that the word “divine,” as employed therein, shall mean for
+us not merely the primal and enveloping and real, for that meaning if
+taken without restriction might well prove too broad. The divine shall
+mean for us only such a primal reality as the individual feels impelled to
+respond to solemnly and gravely, and neither by a curse nor a jest.
+
+But solemnity, and gravity, and all such emotional attributes, admit of
+various shades; and, do what we will with our defining, the truth must at
+last be confronted that we are dealing with a field of experience where
+there is not a single conception that can be sharply drawn. The
+pretension, under such conditions, to be rigorously “scientific” or
+“exact” in our terms would only stamp us as lacking in understanding of
+our task. Things are more or less divine, states of mind are more or less
+religious, reactions are more or less total, but the boundaries are always
+misty, and it is everywhere a question of amount and degree. Nevertheless,
+at their extreme of development, there can never be any question as to
+what experiences are religious. The divinity of the object and the
+solemnity of the reaction are too well marked for doubt. Hesitation as to
+whether a state of mind is “religious,” or “irreligious,” or “moral,” or
+“philosophical,” is only likely to arise when the state of mind is weakly
+characterized, but in that case it will be hardly worthy of our study at
+all. With states that can only by courtesy be called religious we need
+have nothing to do, our only profitable business being with what nobody
+can possibly feel tempted to call anything else. I said in my former
+lecture that we learn most about a thing when we view it under a
+microscope, as it were, or in its most exaggerated form. This is as true
+of religious phenomena as of any other kind of fact. The only cases likely
+to be profitable enough to repay our attention will therefore be cases
+where the religious spirit is unmistakable and extreme. Its fainter
+manifestations we may tranquilly pass by. Here, for example, is the total
+reaction upon life of Frederick Locker Lampson, whose autobiography,
+entitled “Confidences,” proves him to have been a most amiable man.
+
+
+    “I am so far resigned to my lot that I feel small pain at the
+    thought of having to part from what has been called the pleasant
+    habit of existence, the sweet fable of life. I would not care to
+    live my wasted life over again, and so to prolong my span. Strange
+    to say, I have but little wish to be younger. I submit with a
+    chill at my heart. I humbly submit because it is the Divine Will,
+    and my appointed destiny. I dread the increase of infirmities that
+    will make me a burden to those around me, those dear to me. No!
+    let me slip away as quietly and comfortably as I can. Let the end
+    come, if peace come with it.
+
+    “I do not know that there is a great deal to be said for this
+    world, or our sojourn here upon it; but it has pleased God so to
+    place us, and it must please me also. I ask you, what is human
+    life? Is not it a maimed happiness—care and weariness, weariness
+    and care, with the baseless expectation, the strange cozenage of a
+    brighter to‐morrow? At best it is but a froward child, that must
+    be played with and humored, to keep it quiet till it falls asleep,
+    and then the care is over.”(13)
+
+
+This is a complex, a tender, a submissive, and a graceful state of mind.
+For myself, I should have no objection to calling it on the whole a
+religious state of mind, although I dare say that to many of you it may
+seem too listless and half‐hearted to merit so good a name. But what
+matters it in the end whether we call such a state of mind religious or
+not? It is too insignificant for our instruction in any case; and its very
+possessor wrote it down in terms which he would not have used unless he
+had been thinking of more energetically religious moods in others, with
+which he found himself unable to compete. It is with these more energetic
+states that our sole business lies, and we can perfectly well afford to
+let the minor notes and the uncertain border go.
+
+It was the extremer cases that I had in mind a little while ago when I
+said that personal religion, even without theology or ritual, would prove
+to embody some elements that morality pure and simple does not contain.
+You may remember that I promised shortly to point out what those elements
+were. In a general way I can now say what I had in mind.
+
+                  ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+
+“I accept the universe” is reported to have been a favorite utterance of
+our New England transcendentalist, Margaret Fuller; and when some one
+repeated this phrase to Thomas Carlyle, his sardonic comment is said to
+have been: “Gad! she’d better!” At bottom the whole concern of both
+morality and religion is with the manner of our acceptance of the
+universe. Do we accept it only in part and grudgingly, or heartily and
+altogether? Shall our protests against certain things in it be radical and
+unforgiving, or shall we think that, even with evil, there are ways of
+living that must lead to good? If we accept the whole, shall we do so as
+if stunned into submission,—as Carlyle would have us—“Gad! we’d
+better!”—or shall we do so with enthusiastic assent? Morality pure and
+simple accepts the law of the whole which it finds reigning, so far as to
+acknowledge and obey it, but it may obey it with the heaviest and coldest
+heart, and never cease to feel it as a yoke. But for religion, in its
+strong and fully developed manifestations, the service of the highest
+never is felt as a yoke. Dull submission is left far behind, and a mood of
+welcome, which may fill any place on the scale between cheerful serenity
+and enthusiastic gladness, has taken its place.
+
+It makes a tremendous emotional and practical difference to one whether
+one accept the universe in the drab discolored way of stoic resignation to
+necessity, or with the passionate happiness of Christian saints. The
+difference is as great as that between passivity and activity, as that
+between the defensive and the aggressive mood. Gradual as are the steps by
+which an individual may grow from one state into the other, many as are
+the intermediate stages which different individuals represent, yet when
+you place the typical extremes beside each other for comparison, you feel
+that two discontinuous psychological universes confront you, and that in
+passing from one to the other a “critical point” has been overcome.
+
+If we compare stoic with Christian ejaculations we see much more than a
+difference of doctrine; rather is it a difference of emotional mood that
+parts them. When Marcus Aurelius reflects on the eternal reason that has
+ordered things, there is a frosty chill about his words which you rarely
+find in a Jewish, and never in a Christian piece of religious writing. The
+universe is “accepted” by all these writers; but how devoid of passion or
+exultation the spirit of the Roman Emperor is! Compare his fine sentence:
+“If gods care not for me or my children, here is a reason for it,” with
+Job’s cry: “Though he slay me, yet will I trust in him!” and you
+immediately see the difference I mean. The _anima mundi_, to whose
+disposal of his own personal destiny the Stoic consents, is there to be
+respected and submitted to, but the Christian God is there to be loved;
+and the difference of emotional atmosphere is like that between an arctic
+climate and the tropics, though the outcome in the way of accepting actual
+conditions uncomplainingly may seem in abstract terms to be much the same.
+
+
+    “It is a man’s duty,” says Marcus Aurelius, “to comfort himself
+    and wait for the natural dissolution, and not to be vexed, but to
+    find refreshment solely in these thoughts—first that nothing will
+    happen to me which is not conformable to the nature of the
+    universe; and secondly that I need do nothing contrary to the God
+    and deity within me; for there is no man who can compel me to
+    transgress.(14) He is an abscess on the universe who withdraws and
+    separates himself from the reason of our common nature, through
+    being displeased with the things which happen. For the same nature
+    produces these, and has produced thee too. And so accept
+    everything which happens, even if it seem disagreeable, because it
+    leads to this, the health of the universe and to the prosperity
+    and felicity of Zeus. For he would not have brought on any man
+    what he has brought, if it were not useful for the whole. The
+    integrity of the whole is mutilated if thou cuttest off anything.
+    And thou dost cut off, as far as it is in thy power, when thou art
+    dissatisfied, and in a manner triest to put anything out of the
+    way.”(15)
+
+
+Compare now this mood with that of the old Christian author of the
+Theologia Germanica:—
+
+
+    “Where men are enlightened with the true light, they renounce all
+    desire and choice, and commit and commend themselves and all
+    things to the eternal Goodness, so that every enlightened man
+    could say: ‘I would fain be to the Eternal Goodness what his own
+    hand is to a man.’ Such men are in a state of freedom, because
+    they have lost the fear of pain or hell, and the hope of reward or
+    heaven, and are living in pure submission to the eternal Goodness,
+    in the perfect freedom of fervent love. When a man truly
+    perceiveth and considereth himself, who and what he is, and
+    findeth himself utterly vile and wicked and unworthy, he falleth
+    into such a deep abasement that it seemeth to him reasonable that
+    all creatures in heaven and earth should rise up against him. And
+    therefore he will not and dare not desire any consolation and
+    release; but he is willing to be unconsoled and unreleased; and he
+    doth not grieve over his sufferings, for they are right in his
+    eyes, and he hath nothing to say against them. This is what is
+    meant by true repentance for sin; and he who in this present time
+    entereth into this hell, none may console him. Now God hath not
+    forsaken a man in this hell, but He is laying his hand upon him,
+    that the man may not desire nor regard anything but the eternal
+    Good only. And then, when the man neither careth for nor desireth
+    anything but the eternal Good alone, and seeketh not himself nor
+    his own things, but the honour of God only, he is made a partaker
+    of all manner of joy, bliss, peace, rest, and consolation, and so
+    the man is henceforth in the kingdom of heaven. This hell and this
+    heaven are two good safe ways for a man, and happy is he who truly
+    findeth them.”(16)
+
+
+How much more active and positive the impulse of the Christian writer to
+accept his place in the universe is! Marcus Aurelius agrees _to_ the
+scheme—the German theologian agrees _with_ it. He literally _abounds_ in
+agreement, he runs out to embrace the divine decrees.
+
+Occasionally, it is true, the Stoic rises to something like a Christian
+warmth of sentiment, as in the often quoted passage of Marcus Aurelius:—
+
+
+    “Everything harmonizes with me which is harmonious to thee, O
+    Universe. Nothing for me is too early nor too late, which is in
+    due time for thee. Everything is fruit to me which thy seasons
+    bring, O Nature: from thee are all things, in thee are all things,
+    to thee all things return. The poet says, Dear City of Cecrops;
+    and wilt thou not say, Dear City of Zeus?”(17)
+
+
+But compare even as devout a passage as this with a genuine Christian
+outpouring, and it seems a little cold. Turn, for instance, to the
+Imitation of Christ:—
+
+
+    “Lord, thou knowest what is best; let this or that be according as
+    thou wilt. Give what thou wilt, so much as thou wilt, when thou
+    wilt. Do with me as thou knowest best, and as shall be most to
+    thine honour. Place me where thou wilt, and freely work thy will
+    with me in all things.... When could it be evil when thou wert
+    near? I had rather be poor for thy sake than rich without thee. I
+    choose rather to be a pilgrim upon the earth with thee, than
+    without thee to possess heaven. Where thou art, there is heaven;
+    and where thou art not, behold there death and hell.”(18)
+
+
+It is a good rule in physiology, when we are studying the meaning of an
+organ, to ask after its most peculiar and characteristic sort of
+performance, and to seek its office in that one of its functions which no
+other organ can possibly exert. Surely the same maxim holds good in our
+present quest. The essence of religious experiences, the thing by which we
+finally must judge them, must be that element or quality in them which we
+can meet nowhere else. And such a quality will be of course most prominent
+and easy to notice in those religious experiences which are most one‐
+sided, exaggerated, and intense.
+
+Now when we compare these intenser experiences with the experiences of
+tamer minds, so cool and reasonable that we are tempted to call them
+philosophical rather than religious, we find a character that is perfectly
+distinct. That character, it seems to me, should be regarded as the
+practically important _differentia_ of religion for our purpose; and just
+what it is can easily be brought out by comparing the mind of an
+abstractly conceived Christian with that of a moralist similarly
+conceived.
+
+A life is manly, stoical, moral, or philosophical, we say, in proportion
+as it is less swayed by paltry personal considerations and more by
+objective ends that call for energy, even though that energy bring
+personal loss and pain. This is the good side of war, in so far as it
+calls for “volunteers.” And for morality life is a war, and the service of
+the highest is a sort of cosmic patriotism which also calls for
+volunteers. Even a sick man, unable to be militant outwardly, can carry on
+the moral warfare. He can willfully turn his attention away from his own
+future, whether in this world or the next. He can train himself to
+indifference to his present drawbacks and immerse himself in whatever
+objective interests still remain accessible. He can follow public news,
+and sympathize with other people’s affairs. He can cultivate cheerful
+manners, and be silent about his miseries. He can contemplate whatever
+ideal aspects of existence his philosophy is able to present to him, and
+practice whatever duties, such as patience, resignation, trust, his
+ethical system requires. Such a man lives on his loftiest, largest plane.
+He is a high‐hearted freeman and no pining slave. And yet he lacks
+something which the Christian _par excellence_, the mystic and ascetic
+saint, for example, has in abundant measure, and which makes of him a
+human being of an altogether different denomination.
+
+The Christian also spurns the pinched and mumping sick‐room attitude, and
+the lives of saints are full of a kind of callousness to diseased
+conditions of body which probably no other human records show. But whereas
+the merely moralistic spurning takes an effort of volition, the Christian
+spurning is the result of the excitement of a higher kind of emotion, in
+the presence of which no exertion of volition is required. The moralist
+must hold his breath and keep his muscles tense; and so long as this
+athletic attitude is possible all goes well—morality suffices. But the
+athletic attitude tends ever to break down, and it inevitably does break
+down even in the most stalwart when the organism begins to decay, or when
+morbid fears invade the mind. To suggest personal will and effort to one
+all sicklied o’er with the sense of irremediable impotence is to suggest
+the most impossible of things. What he craves is to be consoled in his
+very powerlessness, to feel that the spirit of the universe recognizes and
+secures him, all decaying and failing as he is. Well, we are all such
+helpless failures in the last resort. The sanest and best of us are of one
+clay with lunatics and prison inmates, and death finally runs the
+robustest of us down. And whenever we feel this, such a sense of the
+vanity and provisionality of our voluntary career comes over us that all
+our morality appears but as a plaster hiding a sore it can never cure, and
+all our well‐doing as the hollowest substitute for that well‐_being_ that
+our lives ought to be grounded in, but, alas! are not.
+
+And here religion comes to our rescue and takes our fate into her hands.
+There is a state of mind, known to religious men, but to no others, in
+which the will to assert ourselves and hold our own has been displaced by
+a willingness to close our mouths and be as nothing in the floods and
+waterspouts of God. In this state of mind, what we most dreaded has become
+the habitation of our safety, and the hour of our moral death has turned
+into our spiritual birthday. The time for tension in our soul is over, and
+that of happy relaxation, of calm deep breathing, of an eternal present,
+with no discordant future to be anxious about, has arrived. Fear is not
+held in abeyance as it is by mere morality, it is positively expunged and
+washed away.
+
+We shall see abundant examples of this happy state of mind in later
+lectures of this course. We shall see how infinitely passionate a thing
+religion at its highest flights can be. Like love, like wrath, like hope,
+ambition, jealousy, like every other instinctive eagerness and impulse, it
+adds to life an enchantment which is not rationally or logically deducible
+from anything else. This enchantment, coming as a gift when it does
+come,—a gift of our organism, the physiologists will tell us, a gift of
+God’s grace, the theologians say,—is either there or not there for us, and
+there are persons who can no more become possessed by it than they can
+fall in love with a given woman by mere word of command. Religious feeling
+is thus an absolute addition to the Subject’s range of life. It gives him
+a new sphere of power. When the outward battle is lost, and the outer
+world disowns him, it redeems and vivifies an interior world which
+otherwise would be an empty waste.
+
+If religion is to mean anything definite for us, it seems to me that we
+ought to take it as meaning this added dimension of emotion, this
+enthusiastic temper of espousal, in regions where morality strictly so
+called can at best but bow its head and acquiesce. It ought to mean
+nothing short of this new reach of freedom for us, with the struggle over,
+the keynote of the universe sounding in our ears, and everlasting
+possession spread before our eyes.(19)
+
+This sort of happiness in the absolute and everlasting is what we find
+nowhere but in religion. It is parted off from all mere animal happiness,
+all mere enjoyment of the present, by that element of solemnity of which I
+have already made so much account. Solemnity is a hard thing to define
+abstractly, but certain of its marks are patent enough. A solemn state of
+mind is never crude or simple—it seems to contain a certain measure of its
+own opposite in solution. A solemn joy preserves a sort of bitter in its
+sweetness; a solemn sorrow is one to which we intimately consent. But
+there are writers who, realizing that happiness of a supreme sort is the
+prerogative of religion, forget this complication, and call all happiness,
+as such, religious. Mr. Havelock Ellis, for example, identifies religion
+with the entire field of the soul’s liberation from oppressive moods.
+
+
+    “The simplest functions of physiological life,” he writes, “may be
+    its ministers. Every one who is at all acquainted with the Persian
+    mystics knows how wine may be regarded as an instrument of
+    religion. Indeed, in all countries and in all ages, some form of
+    physical enlargement—singing, dancing, drinking, sexual
+    excitement—has been intimately associated with worship. Even the
+    momentary expansion of the soul in laughter is, to however slight
+    an extent, a religious exercise.... Whenever an impulse from the
+    world strikes against the organism, and the resultant is not
+    discomfort or pain, not even the muscular contraction of strenuous
+    manhood, but a joyous expansion or aspiration of the whole
+    soul—there is religion. It is the infinite for which we hunger,
+    and we ride gladly on every little wave that promises to bear us
+    towards it.”(20)
+
+
+But such a straight identification of religion with any and every form of
+happiness leaves the essential peculiarity of religious happiness out. The
+more commonplace happinesses which we get are “reliefs,” occasioned by our
+momentary escapes from evils either experienced or threatened. But in its
+most characteristic embodiments, religious happiness is no mere feeling of
+escape. It cares no longer to escape. It consents to the evil outwardly as
+a form of sacrifice—inwardly it knows it to be permanently overcome. If
+you ask _how_ religion thus falls on the thorns and faces death, and in
+the very act annuls annihilation, I cannot explain the matter, for it is
+religion’s secret, and to understand it you must yourself have been a
+religious man of the extremer type. In our future examples, even of the
+simplest and healthiest‐minded type of religious consciousness, we shall
+find this complex sacrificial constitution, in which a higher happiness
+holds a lower unhappiness in check. In the Louvre there is a picture, by
+Guido Reni, of St. Michael with his foot on Satan’s neck. The richness of
+the picture is in large part due to the fiend’s figure being there. The
+richness of its allegorical meaning also is due to his being there—that
+is, the world is all the richer for having a devil in it, _so long as we
+keep our foot upon his neck_. In the religious consciousness, that is just
+the position in which the fiend, the negative or tragic principle, is
+found; and for that very reason the religious consciousness is so rich
+from the emotional point of view.(21) We shall see how in certain men and
+women it takes on a monstrously ascetic form. There are saints who have
+literally fed on the negative principle, on humiliation and privation, and
+the thought of suffering and death,—their souls growing in happiness just
+in proportion as their outward state grew more intolerable. No other
+emotion than religious emotion can bring a man to this peculiar pass. And
+it is for that reason that when we ask our question about the value of
+religion for human life, I think we ought to look for the answer among
+these violenter examples rather than among those of a more moderate hue.
+
+Having the phenomenon of our study in its acutest possible form to start
+with, we can shade down as much as we please later. And if in these cases,
+repulsive as they are to our ordinary worldly way of judging, we find
+ourselves compelled to acknowledge religion’s value and treat it with
+respect, it will have proved in some way its value for life at large. By
+subtracting and toning down extravagances we may thereupon proceed to
+trace the boundaries of its legitimate sway.
+
+To be sure, it makes our task difficult to have to deal so much with
+eccentricities and extremes. “How _can_ religion on the whole be the most
+important of all human functions,” you may ask, “if every several
+manifestation of it in turn have to be corrected and sobered down and
+pruned away?” Such a thesis seems a paradox impossible to sustain
+reasonably,—yet I believe that something like it will have to be our final
+contention. That personal attitude which the individual finds himself
+impelled to take up towards what he apprehends to be the divine—and you
+will remember that this was our definition—will prove to be both a
+helpless and a sacrificial attitude. That is, we shall have to confess to
+at least some amount of dependence on sheer mercy, and to practice some
+amount of renunciation, great or small, to save our souls alive. The
+constitution of the world we live in requires it:—
+
+
+    “Entbehren sollst du! sollst entbehren!
+    Das ist der ewige Gesang
+    Der jedem an die Ohren klingt,
+    Den, unser ganzes Leben lang
+    Uns heiser jede Stunde singt.”
+
+
+For when all is said and done, we are in the end absolutely dependent on
+the universe; and into sacrifices and surrenders of some sort,
+deliberately looked at and accepted, we are drawn and pressed as into our
+only permanent positions of repose. Now in those states of mind which fall
+short of religion, the surrender is submitted to as an imposition of
+necessity, and the sacrifice is undergone at the very best without
+complaint. In the religious life, on the contrary, surrender and sacrifice
+are positively espoused: even unnecessary givings‐up are added in order
+that the happiness may increase. _Religion thus makes easy and felicitous
+what in any case is necessary_; and if it be the only agency that can
+accomplish this result, its vital importance as a human faculty stands
+vindicated beyond dispute. It becomes an essential organ of our life,
+performing a function which no other portion of our nature can so
+successfully fulfill. From the merely biological point of view, so to call
+it, this is a conclusion to which, so far as I can now see, we shall
+inevitably be led, and led moreover by following the purely empirical
+method of demonstration which I sketched to you in the first lecture. Of
+the farther office of religion as a metaphysical revelation I will say
+nothing now.
+
+But to foreshadow the terminus of one’s investigations is one thing, and
+to arrive there safely is another. In the next lecture, abandoning the
+extreme generalities which have engrossed us hitherto, I propose that we
+begin our actual journey by addressing ourselves directly to the concrete
+facts.
+
+
+
+
+
+LECTURE III. THE REALITY OF THE UNSEEN.
+
+
+Were one asked to characterize the life of religion in the broadest and
+most general terms possible, one might say that it consists of the belief
+that there is an unseen order, and that our supreme good lies in
+harmoniously adjusting ourselves thereto. This belief and this adjustment
+are the religious attitude in the soul. I wish during this hour to call
+your attention to some of the psychological peculiarities of such an
+attitude as this, of belief in an object which we cannot see. All our
+attitudes, moral, practical, or emotional, as well as religious, are due
+to the “objects” of our consciousness, the things which we believe to
+exist, whether really or ideally, along with ourselves. Such objects may
+be present to our senses, or they may be present only to our thought. In
+either case they elicit from us a _reaction_; and the reaction due to
+things of thought is notoriously in many cases as strong as that due to
+sensible presences. It may be even stronger. The memory of an insult may
+make us angrier than the insult did when we received it. We are frequently
+more ashamed of our blunders afterwards than we were at the moment of
+making them; and in general our whole higher prudential and moral life is
+based on the fact that material sensations actually present may have a
+weaker influence on our action than ideas of remoter facts.
+
+The more concrete objects of most men’s religion, the deities whom they
+worship, are known to them only in idea. It has been vouchsafed, for
+example, to very few Christian believers to have had a sensible vision of
+their Saviour; though enough appearances of this sort are on record, by
+way of miraculous exception, to merit our attention later. The whole force
+of the Christian religion, therefore, so far as belief in the divine
+personages determines the prevalent attitude of the believer, is in
+general exerted by the instrumentality of pure ideas, of which nothing in
+the individual’s past experience directly serves as a model.
+
+But in addition to these ideas of the more concrete religious objects,
+religion is full of abstract objects which prove to have an equal power.
+God’s attributes as such, his holiness, his justice, his mercy, his
+absoluteness, his infinity, his omniscience, his tri‐unity, the various
+mysteries of the redemptive process, the operation of the sacraments,
+etc., have proved fertile wells of inspiring meditation for Christian
+believers.(22) We shall see later that the absence of definite sensible
+images is positively insisted on by the mystical authorities in all
+religions as the _sine qua non_ of a successful orison, or contemplation
+of the higher divine truths. Such contemplations are expected (and
+abundantly verify the expectation, as we shall also see) to influence the
+believer’s subsequent attitude very powerfully for good.
+
+Immanuel Kant held a curious doctrine about such objects of belief as God,
+the design of creation, the soul, its freedom, and the life hereafter.
+These things, he said, are properly not objects of knowledge at all. Our
+conceptions always require a sense‐content to work with, and as the words
+“soul,” “God,” “immortality,” cover no distinctive sense‐content whatever,
+it follows that theoretically speaking they are words devoid of any
+significance. Yet strangely enough they have a definite meaning _for our
+practice_. We can act _as if_ there were a God; feel _as if_ we were free;
+consider Nature _as if_ she were full of special designs; lay plans _as
+if_ we were to be immortal; and we find then that these words do make a
+genuine difference in our moral life. Our faith _that_ these
+unintelligible objects actually exist proves thus to be a full equivalent
+in _praktischer Hinsicht_, as Kant calls it, or from the point of view of
+our action, for a knowledge of _what_ they might be, in case we were
+permitted positively to conceive them. So we have the strange phenomenon,
+as Kant assures us, of a mind believing with all its strength in the real
+presence of a set of things of no one of which it can form any notion
+whatsoever.
+
+My object in thus recalling Kant’s doctrine to your mind is not to express
+any opinion as to the accuracy of this particularly uncouth part of his
+philosophy, but only to illustrate the characteristic of human nature
+which we are considering, by an example so classical in its exaggeration.
+The sentiment of reality can indeed attach itself so strongly to our
+object of belief that our whole life is polarized through and through, so
+to speak, by its sense of the existence of the thing believed in, and yet
+that thing, for purpose of definite description, can hardly be said to be
+present to our mind at all. It is as if a bar of iron, without touch or
+sight, with no representative faculty whatever, might nevertheless be
+strongly endowed with an inner capacity for magnetic feeling; and as if,
+through the various arousals of its magnetism by magnets coming and going
+in its neighborhood, it might be consciously determined to different
+attitudes and tendencies. Such a bar of iron could never give you an
+outward description of the agencies that had the power of stirring it so
+strongly; yet of their presence, and of their significance for its life,
+it would be intensely aware through every fibre of its being.
+
+It is not only the Ideas of pure Reason, as Kant styled them, that have
+this power of making us vitally feel presences that we are impotent
+articulately to describe. All sorts of higher abstractions bring with them
+the same kind of impalpable appeal. Remember those passages from Emerson
+which I read at my last lecture. The whole universe of concrete objects,
+as we know them, swims, not only for such a transcendentalist writer, but
+for all of us, in a wider and higher universe of abstract ideas, that lend
+it its significance. As time, space, and the ether soak through all
+things, so (we feel) do abstract and essential goodness, beauty, strength,
+significance, justice, soak through all things good, strong, significant,
+and just.
+
+Such ideas, and others equally abstract, form the background for all our
+facts, the fountain‐head of all the possibilities we conceive of. They
+give its “nature,” as we call it, to every special thing. Everything we
+know is “what” it is by sharing in the nature of one of these
+abstractions. We can never look directly at them, for they are bodiless
+and featureless and footless, but we grasp all other things by their
+means, and in handling the real world we should be stricken with
+helplessness in just so far forth as we might lose these mental objects,
+these adjectives and adverbs and predicates and heads of classification
+and conception.
+
+This absolute determinability of our mind by abstractions is one of the
+cardinal facts in our human constitution. Polarizing and magnetizing us as
+they do, we turn towards them and from them, we seek them, hold them, hate
+them, bless them, just as if they were so many concrete beings. And beings
+they are, beings as real in the realm which they inhabit as the changing
+things of sense are in the realm of space.
+
+Plato gave so brilliant and impressive a defense of this common human
+feeling, that the doctrine of the reality of abstract objects has been
+known as the platonic theory of ideas ever since. Abstract Beauty, for
+example, is for Plato a perfectly definite individual being, of which the
+intellect is aware as of something additional to all the perishing
+beauties of the earth. “The true order of going,” he says, in the often
+quoted passage in his “Banquet,” “is to use the beauties of earth as steps
+along which one mounts upwards for the sake of that other Beauty, going
+from one to two, and from two to all fair forms, and from fair forms to
+fair actions, and from fair actions to fair notions, until from fair
+notions he arrives at the notion of absolute Beauty, and at last knows
+what the essence of Beauty is.”(23) In our last lecture we had a glimpse
+of the way in which a platonizing writer like Emerson may treat the
+abstract divineness of things, the moral structure of the universe, as a
+fact worthy of worship. In those various churches without a God which to‐
+day are spreading through the world under the name of ethical societies,
+we have a similar worship of the abstract divine, the moral law believed
+in as an ultimate object. “Science” in many minds is genuinely taking the
+place of a religion. Where this is so, the scientist treats the “Laws of
+Nature” as objective facts to be revered. A brilliant school of
+interpretation of Greek mythology would have it that in their origin the
+Greek gods were only half‐metaphoric personifications of those great
+spheres of abstract law and order into which the natural world falls
+apart—the sky‐sphere, the ocean‐sphere, the earth‐sphere, and the like;
+just as even now we may speak of the smile of the morning, the kiss of the
+breeze, or the bite of the cold, without really meaning that these
+phenomena of nature actually wear a human face.(24)
+
+As regards the origin of the Greek gods, we need not at present seek an
+opinion. But the whole array of our instances leads to a conclusion
+something like this: It is as if there were in the human consciousness a
+_sense of reality, a feeling of objective presence, a perception_ of what
+we may call “_something there_,” more deep and more general than any of
+the special and particular “senses” by which the current psychology
+supposes existent realities to be originally revealed. If this were so, we
+might suppose the senses to waken our attitudes and conduct as they so
+habitually do, by first exciting this sense of reality; but anything else,
+any idea, for example, that might similarly excite it, would have that
+same prerogative of appearing real which objects of sense normally
+possess. So far as religious conceptions were able to touch this reality‐
+feeling, they would be believed in in spite of criticism, even though they
+might be so vague and remote as to be almost unimaginable, even though
+they might be such non‐entities in point of _whatness_, as Kant makes the
+objects of his moral theology to be.
+
+The most curious proofs of the existence of such an undifferentiated sense
+of reality as this are found in experiences of hallucination. It often
+happens that an hallucination is imperfectly developed: the person
+affected will feel a “presence” in the room, definitely localized, facing
+in one particular way, real in the most emphatic sense of the word, often
+coming suddenly, and as suddenly gone; and yet neither seen, heard,
+touched, nor cognized in any of the usual “sensible” ways. Let me give you
+an example of this, before I pass to the objects with whose presence
+religion is more peculiarly concerned.
+
+An intimate friend of mine, one of the keenest intellects I know, has had
+several experiences of this sort. He writes as follows in response to my
+inquiries:—
+
+
+    “I have several times within the past few years felt the so‐called
+    ‘consciousness of a presence.’ The experiences which I have in
+    mind are clearly distinguishable from another kind of experience
