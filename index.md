@@ -12,7 +12,7 @@ nav_order: 1
   <div class="hero-stats">
     <div class="stat"><strong>72</strong><span>知识支柱</span></div>
     <div class="stat"><strong>600+篇</strong><span>原创冶炼</span></div>
-    <div class="stat"><strong>90+</strong><span>公版书库</span></div>
+    <div class="stat"><strong>90册</strong><span>冶炼书库</span></div>
     <div class="stat"><strong>开源</strong><span>可验证</span></div>
   </div>
 
@@ -82,7 +82,7 @@ nav_order: 1
 | **权力博弈** | 🏰 暗流规则 · ⚔️ 权力策略 · 🎯 人性说服 | 信息封锁·制度设计·博弈论·影响力工程 |
 | **认知科学** | 🔬 认知重构 · 🧠 深度心理学 · ⚡ 能量管理 | 52种偏差·荣格弗洛伊德·多巴胺系统·深度工作 |
 | **东西融合** | 🏛️ 东学西渐 · 🔮 隐学意识 · 🌊 文明规则 | 斯多葛×道家·易经算法·历史周期·技术变革 |
-| **知识基建** | 📜 经典注疏 · 🌐 百科词条 · 📁 原始档案 · 🎨 美学修辞 · 🧮 数理思维 | 90册公版·概念体系·IA档案·符号学·概率博弈 |
+| **知识基建** | 📜 经典注疏 · 🌐 百科词条 · 📁 原始档案 · 🎨 美学修辞 · 🧮 数理思维 | 90册冶炼·概念体系·IA档案·符号学·概率博弈 |
 | **全球框架** | 🌍 全球大V | 纳瓦尔·芒格·塔勒布·达利欧·彼得森 |
 
 → **[查看完整72支柱体系](/fable-castle/02-知识图谱/扩展体系全景.html)** · 600+篇原创冶炼文章，全开源可验证
@@ -97,7 +97,7 @@ nav_order: 1
 |------|------|---------|
 | 🏗️ 72知识支柱 | 3核心+10扩展+5基础 | [→ 查看架构](/fable-castle/02-知识图谱/扩展体系全景.html) |
 | ✍️ 600+篇冶炼文章 | 每篇基于跨学科冶炼，拒绝正确废话 | [→ 阅读文章](/fable-castle/02-知识图谱/) |
-| 📚 90+公版书库 | Gutenberg·IA·中国哲学书电子化计划 | [→ 公版书库](https://github.com/fable-cc/fable-castle) |
+| 📚 90册冶炼书库 | 53篇深度文章 + 37篇核心洞察 · 全公版免费 | [→ 冶炼书库](/fable-castle/04-关于/公版书库.html) |
 | ⚙️ 知识冶炼引擎 | 跨学科知识冶炼→结构化重组→景一原创框架 | [→ 查看管道](https://github.com/fable-cc/knowledge-pipeline) |
 | 🔓 全栈开源 | 72支柱·600+篇·管道代码·公版索引 | [→ GitHub验证](https://github.com/fable-cc/fable-castle) |
 
