@@ -24,7 +24,7 @@ nav_order: 1
   </div>
 
   <div class="hero-trust">
-    <img src="https://img.shields.io/github/stars/fable-cc/fable-castle?style=social" alt="GitHub stars">
+    <span id="gh-stars" style="margin-right:1rem">⭐ ...</span>
     <span>全平台矩阵：抖音 · 小红书 · B站 · 公众号 | <a href="https://github.com/fable-cc/fable-castle" target="_blank">验证→ GitHub</a></span>
   </div>
 </div>
@@ -185,3 +185,10 @@ document.getElementById('daily-quote').innerHTML='🔥 '+quotes[Math.floor(Math.
 ---
 
 📱 微信：**S-9595A**
+
+
+<script>
+fetch("https://api.github.com/repos/fable-cc/fable-castle").then(r=>r.json()).then(d=>{
+  document.getElementById("gh-stars").innerHTML="⭐ "+d.stargazers_count+" Stars · "+d.forks_count+" Forks";
+}).catch(()=>{document.getElementById("gh-stars").innerHTML="⭐ fable-cc/fable-castle"});
+</script>
