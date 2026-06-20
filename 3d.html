@@ -95,7 +95,7 @@ setInterval(shootStar,4000);
 
 function render(){
   angle+=.0025;
-  var cx=window.innerWidth/2,cy=window.innerHeight/2;
+  var cx=window.innerWidth*.47,cy=window.innerHeight/2;
   nodes.forEach(function(n){
     var t=n.theta+angle,x=cx+n.r*Math.cos(t)*Math.sin(n.phi),y=cy+n.r*Math.sin(t)*Math.sin(n.phi)*.55,z=Math.round(n.r*Math.cos(n.phi));
     n.el.style.left=x+'px';n.el.style.top=y+'px';n.el.style.zIndex=z+100;
