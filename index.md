@@ -29,6 +29,13 @@ nav_order: 1
   </div>
 </div>
 
+<div id="daily-quote" style="text-align:center;padding:1rem 2rem;margin:0 0 1.5rem;background:rgba(201,169,110,.03);border:1px solid rgba(201,169,110,.08);border-radius:10px"></div>
+
+<script>
+var quotes=["道德经不是你读的那本——马王堆帛书出土后，六个关键字被改了。","韩非子和马基雅维利隔了一千七百年，说的是同一个东西。","不是你不努力——是你的努力被供需比吃掉了。","知道和做到之间，隔着'开始'。王阳明五百年前就说了。","你的语言就是你的牢笼。维特根斯坦和老子说了同一句话。","你拖延不是懒——是怕做出来发现'原来我就这水平'。","收钱不是索取——是筛选。付了钱的是认真的人。","所有帝国都死在同一个东西上——你也是。汤因比说的。","你做IP最大的武器——600篇文章全部开源。别人没法跟你比。","强势文化不是凶——是不让别人定义你值多少钱。"];
+document.getElementById('daily-quote').innerHTML='🔥 '+quotes[Math.floor(Math.random()*quotes.length)];
+</script>
+
 <div style="width:100%;height:420px;border-radius:12px;overflow:hidden;margin:1rem 0 2rem;border:1px solid rgba(201,169,110,.15)">
   <iframe src="/fable-castle/3d-globe/" style="width:100%;height:100%;border:none" title="知识星球"></iframe>
 </div>
