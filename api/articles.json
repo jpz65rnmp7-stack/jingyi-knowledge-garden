@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: /api/articles.json
+---
+[{% assign articles = site.pages | where_exp: "p", "p.path contains '02-知识图谱'" %}{% for page in articles %}{"title":{{ page.title | jsonify }},"url":"{{ site.url }}{{ site.baseurl }}{{ page.url }}","tags":{{ page.tags | jsonify }},"date":"{{ page.date }}"}{% unless forloop.last %},{% endunless %}{% endfor %}]

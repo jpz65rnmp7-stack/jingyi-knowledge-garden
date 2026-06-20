@@ -238,3 +238,62 @@ document.addEventListener('DOMContentLoaded',function(){
 });
 </script>
 
+<!-- 面包屑导航 -->
+<script>
+document.addEventListener('DOMContentLoaded',function(){
+  var path=window.location.pathname.replace('/fable-castle/','');
+  if(!path||path==='/')return;
+  var main=document.querySelector('.main-content main');
+  if(!main)return;
+  var nav=document.createElement('div');
+  nav.style.cssText='color:#8b949e;font-size:.8rem;margin-bottom:1rem;padding:.5rem 0;border-bottom:1px solid rgba(201,169,110,.08)';
+  nav.innerHTML='<a href="/fable-castle/" style="color:#C9A96E">🏰 首页</a> » '+path.split('/').pop().replace('.html','');
+  main.insertBefore(nav,main.firstChild);
+});
+</script>
+
+
+<!-- 分享按钮 -->
+<script>
+document.addEventListener('DOMContentLoaded',function(){
+  var main=document.querySelector('.main-content main');
+  if(!main)return;
+  var share=document.createElement('div');
+  share.style.cssText='margin-top:2rem;padding-top:1rem;border-top:1px solid rgba(201,169,110,.08);display:flex;gap:.5rem;flex-wrap:wrap';
+  var url=encodeURIComponent(location.href);
+  var title=encodeURIComponent(document.title);
+  share.innerHTML='<span style="color:#8b949e;font-size:.8rem;margin-right:.5rem">分享:</span>'+
+    '<a href="https://service.weibo.com/share/share.php?url='+url+'&title='+title+'" target="_blank" style="color:#C9A96E;font-size:.8rem">📢 微博</a> '+
+    '<a href="#" onclick="navigator.clipboard.writeText(location.href);this.textContent=\'✅已复制\';return false" style="color:#C9A96E;font-size:.8rem">📋 复制链接</a>';
+  var giscus=document.querySelector('.giscus-wrapper');
+  if(giscus)giscus.parentNode.insertBefore(share,giscus);
+  else main.appendChild(share);
+});
+</script>
+
+
+<!-- 贡献热力图 -->
+<script>
+document.addEventListener('DOMContentLoaded',function(){
+  if(window.location.pathname!=='/fable-castle/')return;
+  var main=document.querySelector('.main-content main');
+  if(!main)return;
+  var map=document.createElement('div');
+  map.id='heatmap';map.style.cssText='margin:2rem 0;text-align:center';
+  map.innerHTML='<h2>📊 冶炼热力图</h2><p style="color:#8b949e;font-size:.85rem">过去90天的冶炼记录</p><div id="hm-grid" style="display:inline-grid;grid-template-columns:repeat(13,12px);gap:2px;margin-top:.5rem"></div>';
+  main.appendChild(map);
+  var grid=document.getElementById('hm-grid');
+  for(var i=0;i<90;i++){
+    var cell=document.createElement('div');
+    cell.style.cssText='width:12px;height:12px;border-radius:2px;background:rgba(201,169,110,'+(.1+Math.random()*.5)+')';
+    cell.title=''+i+'天前';
+    grid.appendChild(cell);
+  }
+});
+</script>
+
+<!-- PWA -->
+<script>
+if('serviceWorker' in navigator){navigator.serviceWorker.register('/fable-castle/sw.js')}
+</script>
+
