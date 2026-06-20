@@ -29,6 +29,10 @@ nav_order: 1
   </div>
 </div>
 
+<div style="width:100%;height:420px;border-radius:12px;overflow:hidden;margin:1rem 0 2rem;border:1px solid rgba(201,169,110,.15)">
+  <iframe src="/fable-castle/3d-globe/" style="width:100%;height:100%;border:none" title="知识星球"></iframe>
+</div>
+
 ---
 
 ## 🎯 我能帮你什么
