@@ -20,7 +20,7 @@ permalink: /3d-globe/
   #info p { color: #8b949e; font-size: 0.9rem; margin: 0.3rem 0 0; }
   #hint { position: fixed; bottom: 1.5rem; left: 0; width: 100%; text-align: center; color: #555; font-size: 0.75rem; z-index: 10; }
   #scene { position: fixed; inset: 0; z-index: 1; }
-  .pill { position: absolute; left: 50%; top: 50%; padding: 8px 16px;
+  .pill { position: absolute; padding: 8px 16px;
     background: rgba(201,169,110,0.2); border: 1px solid rgba(201,169,110,0.4); border-radius: 16px;
     color: #C9A96E; font-size: 0.85rem; font-weight: bold; white-space: nowrap; cursor: pointer;
     transition: all 0.3s; transform-origin: center center; }
@@ -55,13 +55,13 @@ P.forEach(function(name,i){
 
 function render(){
   angle+=0.003;
-  var cx=document.documentElement.clientWidth/2, cy=document.documentElement.clientHeight/2;
+  var cx=0, cy=0;
   nodes.forEach(function(n){
     var t=n.theta+angle;
     var x=cx+n.r*Math.cos(t)*Math.sin(n.phi);
     var y=cy+n.r*Math.sin(t)*Math.sin(n.phi)*0.6;
     var z=Math.round(n.r*Math.cos(n.phi));
-    n.el.style.transform='translate('+x+'px,'+y+'px)';
+    n.el.style.left=(cx+x)+'px'; n.el.style.top=(cy+y)+'px'; n.el.style.transform='none';
     n.el.style.zIndex=z+100;
     n.el.style.opacity=0.3+(z+n.r)/(2*n.r)*0.7;
   });
