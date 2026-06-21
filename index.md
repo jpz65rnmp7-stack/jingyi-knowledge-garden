@@ -1,6 +1,7 @@
 ---
 title: 景一·首页
 nav_order: 1
+lastmod: 2026-06-21
 ---
 
 <div class="hero" markdown="0">
@@ -12,6 +13,8 @@ nav_order: 1
   <div class="hero-stats">
     <div class="stat"><strong>72</strong><span>知识支柱</span></div>
     <div class="stat"><strong>600+篇</strong><span>原创冶炼</span></div>
+    <div class="stat"><strong>2门</strong><span>系统课程</span></div>
+    <div class="stat"><strong>28源</strong><span>深度研究</span></div>
     <div class="stat"><strong>90册</strong><span>冶炼书库</span></div>
     <div class="stat"><strong>开源</strong><span>可验证</span></div>
   </div>
