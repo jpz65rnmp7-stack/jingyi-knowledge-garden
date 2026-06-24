@@ -12,6 +12,10 @@ lang: zh-CN
 locale: zh_CN
 timezone: Asia/Shanghai
 
+# 插件
+plugins:
+  - jekyll-sitemap
+
 # 远程主题
 remote_theme: just-the-docs/just-the-docs
 
@@ -93,4 +97,3 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
-
